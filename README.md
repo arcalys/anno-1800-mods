@@ -2,6 +2,8 @@
 
 Bring a taste of Belgium to your Anno 1800 experience! This mod introduces a range of Belgian-inspired new specialists.
 
+Please note that this is still a work in progress, and these specialists may be altered until the mod reaches version 1.0.
+
 ## Contents
 ### Legendary specialists
 - Father Jozef (inspired by `Father Damien`).
