@@ -1,0 +1,539 @@
+<ModOps>
+  <!-- ### TRIGGERS ### -->
+  <ModOp Type="addnextSibling" GUID="130248">
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100101</GUID>
+          <Name>Unhide and unlock epic specialists</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000002</Context>
+                <CounterAmount>500</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnhideAssets>
+                      <Item>
+                        <Asset>2145100112</Asset> <!-- Julien Moens -->
+                      </Item>
+                    </UnhideAssets>
+                    <UnlockAssets>
+                      <Item>
+                        <Asset>2145100112</Asset> <!-- Julien Moens -->
+                      </Item>
+                    </UnlockAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="addnextSibling" GUID="130248">
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100102</GUID>
+          <Name>Unhide legendary specialists</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000003</Context>
+                <CounterAmount>1</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnhideAssets>
+                      <Item>
+                        <Asset>2145100104</Asset> <!-- Zenon Gramme -->
+                      </Item>
+                      <Item>
+                        <Asset>2145100106</Asset> <!-- Father Jozef -->
+                      </Item>
+                      <Item>
+                        <Asset>2145100108</Asset> <!-- Jeannine Toussaint -->
+                      </Item>
+                      <Item>
+                        <Asset>2145100112</Asset> <!-- Julien Moens -->
+                      </Item>
+                    </UnhideAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="addnextSibling" GUID="130248">
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100103</GUID>
+          <Name>Unlock legendary specialists</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000003</Context>
+                <CounterAmount>1000</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnlockAssets>
+                      <Item>
+                        <Asset>2145100104</Asset> <!-- Zenon Gramme -->
+                      </Item>
+                      <Item>
+                        <Asset>2145100106</Asset> <!-- Father Jozef -->
+                      </Item>
+                      <Item>
+                        <Asset>2145100108</Asset> <!-- Jeannine Toussaint -->
+                      </Item>
+                    </UnlockAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+  </ModOp>
+  <!-- ### END TRIGGERS ### -->
+  <!-- ### SPECIALISTS ### -->
+  <!-- Start - Zenon Gramme -->
+  <ModOp Type="addNextSibling" GUID="191355">
+    <Asset>
+      <Template>GuildhouseItem</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100104</GUID>
+          <Name>Zenon Gramme, architect of modern energy</Name>
+          <IconFilename>data/graphics/ui/icons/zenon_gramme.png</IconFilename>
+          <InfoDescription>2145100105</InfoDescription>
+        </Standard>
+        <Text />
+        <Item>
+          <MaxStackSize>1</MaxStackSize>
+          <Rarity>Legendary</Rarity>
+          <ItemType>Specialist</ItemType>
+          <Allocation>GuildHouse</Allocation>
+          <TradePrice>1250000</TradePrice>
+          <TradePriceOnlineCurrency>1250000</TradePriceOnlineCurrency>
+        </Item>
+        <ItemEffect>
+          <EffectTargets>
+            <Item>
+              <GUID>1010302</GUID>
+            </Item>
+            <Item>
+              <GUID>1010303</GUID>
+            </Item>
+          </EffectTargets>
+        </ItemEffect>
+        <IndustrializableUpgrade>
+          <ProvideIndustrialization>1</ProvideIndustrialization>
+        </IndustrializableUpgrade>
+        <FactoryUpgrade>
+          <ProductivityUpgrade>
+            <Value>100</Value>
+            <Percental>1</Percental>
+          </ProductivityUpgrade>
+          <AdditionalOutput>
+            <Item>
+              <Product>1010243</Product>
+              <AdditionalOutputCycle>3</AdditionalOutputCycle>
+              <Amount>1</Amount>
+            </Item>
+          </AdditionalOutput>
+        </FactoryUpgrade>
+        <BuildingUpgrade>
+          <MaintenanceUpgrade>
+            <Value>-30</Value>
+            <Percental>1</Percental>
+          </MaintenanceUpgrade>
+          <WorkforceAmountUpgrade>
+            <Value>30</Value>
+            <Percental>1</Percental>
+          </WorkforceAmountUpgrade>
+        </BuildingUpgrade>
+        <ExpeditionAttribute>
+          <BaseMorale>10</BaseMorale>
+          <ExpeditionAttributes>
+            <Item>
+              <Attribute>PerkMale</Attribute>
+              <Amount>1</Amount>
+            </Item>
+            <Item>
+              <Attribute>Crafting</Attribute>
+              <Amount>55</Amount>
+            </Item>
+          </ExpeditionAttributes>
+          <ItemDifficulties>Hard</ItemDifficulties>
+        </ExpeditionAttribute>
+      </Values>
+    </Asset>
+  </ModOp>
+  <!-- End - Zenon Gramme -->
+  <!-- Start - Father Jozef -->
+  <ModOp Type="addNextSibling" GUID="190193">
+    <Asset>
+      <Template>TownhallItem</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100106</GUID>
+          <Name>Father Jozef, patron saint of the forsaken</Name>
+          <IconFilename>data/graphics/ui/icons/father_jozef.png</IconFilename>
+          <InfoDescription>2145100107</InfoDescription>
+        </Standard>
+        <Text />
+        <Item>
+          <MaxStackSize>1</MaxStackSize>
+          <Rarity>Legendary</Rarity>
+          <ItemType>Specialist</ItemType>
+          <Allocation>TownHall</Allocation>
+          <TradePrice>1250000</TradePrice>
+          <TradePriceOnlineCurrency>1250000</TradePriceOnlineCurrency>
+        </Item>
+        <ItemEffect>
+          <EffectTargets>
+            <Item>
+              <GUID>190762</GUID>
+            </Item>
+          </EffectTargets>
+        </ItemEffect>
+        <IncidentInfectableUpgrade>
+          <IncidentIllnessIncreaseUpgrade>
+            <Value>-5</Value>
+          </IncidentIllnessIncreaseUpgrade>
+          <IncidentRiotIncreaseUpgrade>
+            <Value>-5</Value>
+          </IncidentRiotIncreaseUpgrade>
+        </IncidentInfectableUpgrade>
+        <ResidenceUpgrade>
+          <AdditionalHappiness>10</AdditionalHappiness>
+          <GoodConsumptionUpgrade>
+            <Item>
+              <ProvidedNeed>1010350</ProvidedNeed>
+              <AmountInPercent>-100</AmountInPercent>
+            </Item>
+          </GoodConsumptionUpgrade>
+          <WorkforceModifierInPercent>10</WorkforceModifierInPercent>
+        </ResidenceUpgrade>
+        <ExpeditionAttribute>
+          <BaseMorale>10</BaseMorale>
+          <ExpeditionAttributes>
+            <Item>
+              <Attribute>PerkMale</Attribute>
+              <Amount>1</Amount>
+            </Item>
+            <Item>
+              <Attribute>Faith</Attribute>
+              <Amount>50</Amount>
+            </Item>
+            <Item>
+              <Attribute>Medicine</Attribute>
+              <Amount>25</Amount>
+            </Item>
+          </ExpeditionAttributes>
+          <ItemDifficulties>Hard</ItemDifficulties>
+        </ExpeditionAttribute>
+      </Values>
+    </Asset>
+  </ModOp>
+  <!-- End - Father Jozef -->
+  <!-- Start - Jeannine Toussaint -->
+  <ModOp Type="addNextSibling" GUID="190193">
+    <Asset>
+      <Template>GuildhouseItem</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100108</GUID>
+          <Name>Jeannine Toussaint, artisan of luxury</Name>
+          <IconFilename>data/graphics/ui/icons/jeannine_toussaint.png</IconFilename>
+          <InfoDescription>2145100109</InfoDescription>
+        </Standard>
+        <Text />
+        <Item>
+          <MaxStackSize>1</MaxStackSize>
+          <Rarity>Legendary</Rarity>
+          <ItemType>Specialist</ItemType>
+          <Allocation>GuildHouse</Allocation>
+          <TradePrice>1250000</TradePrice>
+          <TradePriceOnlineCurrency>1250000</TradePriceOnlineCurrency>
+        </Item>
+        <ItemEffect>
+          <EffectTargets>
+            <Item>
+              <GUID>1010324</GUID>
+            </Item>
+            <Item>
+              <GUID>1010328</GUID>
+            </Item>
+          </EffectTargets>
+        </ItemEffect>
+        <FactoryUpgrade>
+          <ProductivityUpgrade>
+            <Value>100</Value>
+            <Percental>1</Percental>
+          </ProductivityUpgrade>
+          <AdditionalOutput>
+            <Item>
+              <Product>1010233</Product>
+              <AdditionalOutputCycle>5</AdditionalOutputCycle>
+              <Amount>1</Amount>
+            </Item>
+            <Item>
+              <Product>1010256</Product>
+              <AdditionalOutputCycle>5</AdditionalOutputCycle>
+              <Amount>1</Amount>
+            </Item>
+          </AdditionalOutput>
+        </FactoryUpgrade>
+        <BuildingUpgrade>
+          <MaintenanceUpgrade>
+            <Value>-20</Value>
+            <Percental>1</Percental>
+          </MaintenanceUpgrade>
+          <WorkforceAmountUpgrade>
+            <Value>-20</Value>
+            <Percental>1</Percental>
+          </WorkforceAmountUpgrade>
+        </BuildingUpgrade>
+        <ExpeditionAttribute>
+          <BaseMorale>10</BaseMorale>
+          <ExpeditionAttributes>
+            <Item>
+              <Attribute>PerkFemale</Attribute>
+              <Amount>1</Amount>
+            </Item>
+            <Item>
+              <Attribute>Crafting</Attribute>
+              <Amount>55</Amount>
+            </Item>
+          </ExpeditionAttributes>
+          <ItemDifficulties>Hard</ItemDifficulties>
+        </ExpeditionAttribute>
+      </Values>
+    </Asset>
+  </ModOp>
+  <!-- End - Jeannine Toussaint -->
+  <!-- Start - Louis Baekeland -->
+  <ModOp Type="addNextSibling" GUID="190193">
+    <Asset>
+      <Template>GuildhouseItem</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100110</GUID>
+          <Name>Louis Baekeland, genius chemist</Name>
+          <IconFilename>data/graphics/ui/icons/louis_baekeland.png</IconFilename>
+          <InfoDescription>2145100111</InfoDescription>
+        </Standard>
+        <Text />
+        <Item>
+          <MaxStackSize>1</MaxStackSize>
+          <Rarity>Legendary</Rarity>
+          <ItemType>Specialist</ItemType>
+          <Allocation>GuildHouse</Allocation>
+          <TradePrice>1250000</TradePrice>
+          <TradePriceOnlineCurrency>1250000</TradePriceOnlineCurrency>
+        </Item>
+        <ItemEffect>
+          <EffectTargets>
+            <Item>
+              <GUID>101250</GUID>
+            </Item>
+            <Item>
+              <GUID>194011</GUID>
+            </Item>
+          </EffectTargets>
+        </ItemEffect>
+        <FactoryUpgrade>
+          <ProductivityUpgrade>
+            <Value>100</Value>
+            <Percental>1</Percental>
+          </ProductivityUpgrade>
+          <AdditionalOutput>
+            <Item>
+              <Product>120030</Product>
+              <AdditionalOutputCycle>5</AdditionalOutputCycle>
+              <Amount>1</Amount>
+            </Item>
+            <Item>
+              <Product>1010241</Product>
+              <AdditionalOutputCycle>5</AdditionalOutputCycle>
+              <Amount>1</Amount>
+            </Item>
+          </AdditionalOutput>
+        </FactoryUpgrade>
+        <BuildingUpgrade>
+          <MaintenanceUpgrade>
+            <Value>-20</Value>
+            <Percental>1</Percental>
+          </MaintenanceUpgrade>
+          <WorkforceAmountUpgrade>
+            <Value>-20</Value>
+            <Percental>1</Percental>
+          </WorkforceAmountUpgrade>
+        </BuildingUpgrade>
+        <ExpeditionAttribute>
+          <BaseMorale>10</BaseMorale>
+          <ExpeditionAttributes>
+            <Item>
+              <Attribute>PerkMale</Attribute>
+              <Amount>1</Amount>
+            </Item>
+            <Item>
+              <Attribute>Crafting</Attribute>
+              <Amount>55</Amount>
+            </Item>
+          </ExpeditionAttributes>
+          <ItemDifficulties>Hard</ItemDifficulties>
+        </ExpeditionAttribute>
+      </Values>
+    </Asset>
+  </ModOp>
+  <!-- End - Louis Baekeland -->
+  <!-- Start - Julien Moens -->
+  <ModOp Type="addNextSibling" GUID="190193">
+    <Asset>
+      <Template>TownhallItem</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100112</GUID>
+          <Name>Julien Moens, the father of philately</Name>
+          <IconFilename>data/graphics/ui/icons/julien_moens.png</IconFilename>
+          <InfoDescription>2145100113</InfoDescription>
+        </Standard>
+        <Text />
+        <Item>
+          <MaxStackSize>1</MaxStackSize>
+          <Rarity>Epic</Rarity>
+          <ItemType>Specialist</ItemType>
+          <Allocation>TownHall</Allocation>
+          <TradePrice>350000</TradePrice>
+          <TradePriceOnlineCurrency>350000</TradePriceOnlineCurrency>
+        </Item>
+        <ItemEffect>
+          <EffectTargets>
+            <Item>
+              <GUID>3741</GUID>
+            </Item>
+            <Item>
+              <GUID>190762</GUID>
+            </Item>
+          </EffectTargets>
+        </ItemEffect>
+        <FactoryUpgrade>
+          <ProductivityUpgrade>
+            <Value>50</Value>
+            <Percental>1</Percental>
+          </ProductivityUpgrade>
+          </FactoryUpgrade>
+        <ResidenceUpgrade>
+          <GoodConsumptionUpgrade>
+            <Item>
+              <ProvidedNeed>535</ProvidedNeed>
+              <AmountInPercent>-50</AmountInPercent>
+            </Item>
+            <Item>
+              <ProvidedNeed>536</ProvidedNeed>
+              <AmountInPercent>-25</AmountInPercent>
+            </Item>
+            <Item>
+              <ProvidedNeed>2524</ProvidedNeed>
+              <AmountInPercent>-10</AmountInPercent>
+            </Item>
+          </GoodConsumptionUpgrade>
+        </ResidenceUpgrade>
+        <ExpeditionAttribute>
+          <BaseMorale>10</BaseMorale>
+          <ExpeditionAttributes>
+            <Item>
+              <Attribute>PerkMale</Attribute>
+              <Amount>1</Amount>
+            </Item>
+            <Item>
+              <Attribute>Diplomacy</Attribute>
+              <Amount>25</Amount>
+            </Item>
+          </ExpeditionAttributes>
+          <ItemDifficulties>Average;Hard</ItemDifficulties>
+        </ExpeditionAttribute>
+      </Values>
+    </Asset>
+  </ModOp>
+  <!-- End - Julien Moens -->
+  <!-- ### END SPECIALISTS ### -->
+  <!-- ### REWARD POOLS ### -->
+
+  <ModOp Type="add" GUID="192732,193074,193079,193234" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>2145100104</ItemLink> <!-- Zenon Gramme -->
+    </Item>
+    <Item>
+      <ItemLink>2145100108</ItemLink> <!-- Jeannine Toussaint -->
+    </Item>
+    <Item>
+      <ItemLink>2145100110</ItemLink> <!-- Louis Baekeland -->
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID="192742,193079" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>2145100106</ItemLink> <!-- Father Jozef -->
+    </Item>
+  </ModOp>
+  <ModOp GUID="192848" Type="add" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>2145100112</ItemLink> <!-- Julien Moens -->
+    </Item>
+  </ModOp>
+  <!-- ### END REWARD POOLS ### -->
+</ModOps>

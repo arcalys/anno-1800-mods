@@ -1,0 +1,54 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Start - Zenon Gramme -->
+    <Text>
+      <GUID>2145100104</GUID>
+      <Text>Zenon Gramme, architect of modern energy</Text>
+    </Text>
+    <Text>
+      <GUID>2145100105</GUID>
+      <Text>Key figure in the field of energy. His inventions have revolutionized industrial production methods, providing factories with enhanced energy efficiency. Always at the forefront of innovation, he supports industries in their transition toward more efficient processes.</Text>
+    </Text>
+    <!-- End - Zenon Gramme -->
+    <!-- Start - Father Jozef -->
+    <Text>
+      <GUID>2145100106</GUID>
+      <Text>Father Jozef, patron saint of the forsaken</Text>
+    </Text>
+    <Text>
+      <GUID>2145100107</GUID>
+      <Text>Known for his tireless dedication to the forgotten, he inspires hope and compassion, strengthening the bond among residents and improving the lives of the most vulnerable.</Text>
+    </Text>
+    <!-- End - Father Jozef -->
+    <!-- Start - Jeannine Toussaint -->
+    <Text>
+      <GUID>2145100108</GUID>
+      <Text>Jeannine Toussaint, artisan of luxury</Text>
+    </Text>
+    <Text>
+      <GUID>2145100109</GUID>
+      <Text>A legendary jeweler, she embodies refinement and innovation in the art of luxury jewelry and watchmaking. Under her influence, artisans have perfected techniques that minimize material usage while significantly increasing their productivity.</Text>
+    </Text>
+    <!-- End - Jeannine Toussaint -->
+    <!-- Start - Louis Baekeland -->
+    <Text>
+      <GUID>2145100110</GUID>
+      <Text>Louis Baekeland, genius chemist</Text>
+    </Text>
+    <Text>
+      <GUID>2145100111</GUID>
+      <Text>A visionary inventor, Louis Baekeland revolutionized the chemical industry by creating the first synthetic plastic. His genius paved the way for an era of innovative materials, forever transforming industrial manufacturing. The factories he influences see their efficiency skyrocketing and costs reduced, embodying the spirit of technical progress.</Text>
+    </Text>
+    <!-- End - Louis Baekeland -->
+    <!-- Start - Julien Moens -->
+    <Text>
+      <GUID>2145100112</GUID>
+      <Text>Julien Moens, the father of philately</Text>
+    </Text>
+    <Text>
+      <GUID>2145100113</GUID>
+      <Text>He revolutionized stamps, elevating them to true treasures for collectors. Thanks to his influence, post offices experience unprecedented prosperity, boosting their efficiency.</Text>
+    </Text>
+    <!-- End - Julien Moens -->
+  </ModOp>
+</ModOps>
