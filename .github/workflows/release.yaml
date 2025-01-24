@@ -1,0 +1,35 @@
+name: Release mod
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Create release
+      id: create_release
+      uses: gh-actions/create-release@v1
+      with:
+        tag_name: ${{ github.ref }}
+        release_name: Release ${{ github.ref }}
+        draft: false
+        prerelease: false
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Create the folder structure and zip contents
+      run: |
+        git ls-tree --name-only HEAD | grep -v '^\.git' | xargs -I {} cp -r {} "${MOD_NAME}/"
+        zip -r "${{ env.MOD_NAME }}.zip" "${{ env.MOD_NAME }}"
+
+    - name: Upload the artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: ${{ env.MOD_NAME }}
+        path: "${{ env.MOD_NAME }}.zip"
