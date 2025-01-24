@@ -31,10 +31,16 @@
                       <Item>
                         <Asset>2145100112</Asset> <!-- Julien Moens -->
                       </Item>
+                      <Item>
+                        <Asset>2145100114</Asset> <!-- Antonin Depage -->
+                      </Item>
                     </UnhideAssets>
                     <UnlockAssets>
                       <Item>
                         <Asset>2145100112</Asset> <!-- Julien Moens -->
+                      </Item>
+                      <Item>
+                        <Asset>2145100114</Asset> <!-- Antonin Depage -->
                       </Item>
                     </UnlockAssets>
                   </ActionUnlockAsset>
@@ -476,7 +482,7 @@
             <Value>25</Value>
             <Percental>1</Percental>
           </ProductivityUpgrade>
-          </FactoryUpgrade>
+        </FactoryUpgrade>
         <ResidenceUpgrade>
           <GoodConsumptionUpgrade>
             <Item>
@@ -511,9 +517,70 @@
     </Asset>
   </ModOp>
   <!-- End - Julien Moens -->
+  <!-- Start - Antonin Depage -->
+  <ModOp Type="addNextSibling" GUID="190193">
+    <Asset>
+      <Template>TownhallItem</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100114</GUID>
+          <Name>Antonin Depage, humanitarian doctor</Name>
+          <IconFilename>data/graphics/ui/icons/antonin_depage.png</IconFilename>
+          <InfoDescription>2145100115</InfoDescription>
+        </Standard>
+        <Text />
+        <Item>
+          <MaxStackSize>1</MaxStackSize>
+          <Rarity>Epic</Rarity>
+          <ItemType>Specialist</ItemType>
+          <Allocation>TownHall</Allocation>
+          <TradePrice>350000</TradePrice>
+          <TradePriceOnlineCurrency>350000</TradePriceOnlineCurrency>
+        </Item>
+        <ItemEffect>
+          <EffectTargets>
+            <Item>
+              <GUID>190777</GUID>
+            </Item>
+          </EffectTargets>
+        </ItemEffect>
+        <BuildingUpgrade>
+          <ResolverUnitCountUpgrade>
+            <Value>1</Value>
+          </ResolverUnitCountUpgrade>
+          <ResolverUnitDecreaseUpgrade>
+            <Value>10</Value>
+            <Percental>1</Percental>
+          </ResolverUnitDecreaseUpgrade>
+          <ResolverUnitMovementSpeedUpgrade>
+            <Value>20</Value>
+            <Percental>1</Percental>
+          </ResolverUnitMovementSpeedUpgrade>
+        </BuildingUpgrade>
+        <ExpeditionAttribute>
+          <BaseMorale>10</BaseMorale>
+          <ExpeditionAttributes>
+            <Item>
+              <Attribute>PerkMale</Attribute>
+              <Amount>1</Amount>
+            </Item>
+            <Item>
+              <Attribute>Diplomacy</Attribute>
+              <Amount>25</Amount>
+            </Item>
+            <Item>
+              <Attribute>Medicine</Attribute>
+              <Amount>25</Amount>
+            </Item>
+          </ExpeditionAttributes>
+          <ItemDifficulties>Average;Hard</ItemDifficulties>
+        </ExpeditionAttribute>
+      </Values>
+    </Asset>
+  </ModOp>
+  <!-- End - Antonin Depage -->
   <!-- ### END SPECIALISTS ### -->
   <!-- ### REWARD POOLS ### -->
-
   <ModOp Type="add" GUID="192732,193074,193079,193234" Path="/Values/RewardPool/ItemsPool">
     <Item>
       <ItemLink>2145100104</ItemLink> <!-- Zenon Gramme -->
@@ -533,6 +600,9 @@
   <ModOp GUID="192848" Type="add" Path="/Values/RewardPool/ItemsPool">
     <Item>
       <ItemLink>2145100112</ItemLink> <!-- Julien Moens -->
+    </Item>
+    <Item>
+      <ItemLink>2145100114</ItemLink> <!-- Antonin Depage -->
     </Item>
   </ModOp>
   <!-- ### END REWARD POOLS ### -->

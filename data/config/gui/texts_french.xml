@@ -50,5 +50,15 @@
       <Text>Il a révolutionné les timbres, les élevant au rang de véritables trésors à collectionner. Grâce à lui, les bureaux de poste connaissent une prospérité sans précédent, augmentant leur efficacité.</Text>
     </Text>
     <!-- End - Julien Moens -->
+    <!-- Start - Antonin Depage -->
+    <Text>
+      <GUID>2145100114</GUID>
+      <Text>Antonin Depage, médecin humanitaire</Text>
+    </Text>
+    <Text>
+      <GUID>2145100115</GUID>
+      <Text>Médecin et humanitaire de renom, améliorant les soins de santé et dirigeant les secours en cas de catastrophe. Son expertise améliore la santé de vos citoyens et l'efficacité de vos hôpitaux.</Text>
+    </Text>
+    <!-- End Antonin Depage -->
   </ModOp>
 </ModOps>

@@ -12,6 +12,7 @@ Please note that this is still a work in progress, and these specialists may be 
 - Zenon Gramme (inspired by `Zénobe Gramme`).
 
 ### Epic specialists
+- Antonin Depage (inspired by `Antoine Depage`).
 - Julien Moens (inspired by `Jean-Baptiste Moens`).
 
 ## Used GUIDs
@@ -25,3 +26,4 @@ This mod uses the following GUIDs:
 - **2145100108-2145100109:** Jeannine Toussaint, artisan of luxury, legendary guildhouse specialist
 - **2145100110-2145100111:** Louis Baekeland, genius chemist, legendary guildhouse specialist
 - **2145100112-2145100113:** Julien Moens, the father of philately, epic townhall specialist
+- **2145100114-2145100115:** Antonin Depage, humanitarian doctor, epic townhall specialist

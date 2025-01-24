@@ -50,5 +50,15 @@
       <Text>He revolutionized stamps, elevating them to true treasures for collectors. Thanks to his influence, post offices experience unprecedented prosperity, boosting their efficiency.</Text>
     </Text>
     <!-- End - Julien Moens -->
+    <!-- Start - Antonin Depage -->
+    <Text>
+      <GUID>2145100114</GUID>
+      <Text>Antonin Depage, humanitarian doctor</Text>
+    </Text>
+    <Text>
+      <GUID>2145100115</GUID>
+      <Text>Renowned doctor and humanitarian, improving healthcare and leading disaster relief efforts. His expertise boosts the health of your citizens and improves efficiency for your hospitals.</Text>
+    </Text>
+    <!-- End Antonin Depage -->
   </ModOp>
 </ModOps>
