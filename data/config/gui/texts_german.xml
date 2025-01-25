@@ -3,61 +3,61 @@
     <!-- Start - Zenon Gramme -->
     <Text>
       <GUID>2145100104</GUID>
-      <Text>Zenon Gramme, architect of modern energy</Text>
+      <Text>Zenon Gramme, Architekt der modernen Energie</Text>
     </Text>
     <Text>
       <GUID>2145100105</GUID>
-      <Text>Key figure in the field of energy. His inventions have revolutionized industrial production methods, providing factories with enhanced energy efficiency. Always at the forefront of innovation, he supports industries in their transition toward more efficient processes.</Text>
+      <Text>Schlüsselfigur im Bereich Energie. Seine Erfindungen haben die industriellen Produktionsmethoden revolutioniert und Fabriken eine höhere Energieeffizienz ermöglicht. Er ist immer an der Spitze der Innovation und unterstützt die Industrie bei ihrem Übergang zu effizienteren Prozessen.</Text>
     </Text>
     <!-- End - Zenon Gramme -->
     <!-- Start - Father Jozef -->
     <Text>
       <GUID>2145100106</GUID>
-      <Text>Father Jozef, patron saint of the forsaken</Text>
+      <Text>Pater Jozef, Schutzpatron der Verlassenen</Text>
     </Text>
     <Text>
       <GUID>2145100107</GUID>
-      <Text>Known for his tireless dedication to the forgotten, he inspires hope and compassion, strengthening the bond among residents and improving the lives of the most vulnerable.</Text>
+      <Text>Bekannt für seinen unermüdlichen Einsatz für die Vergessenen, weckt er Hoffnung und Mitgefühl, stärkt die Bindung zwischen den Bewohnern und verbessert das Leben der Schwächsten.</Text>
     </Text>
     <!-- End - Father Jozef -->
     <!-- Start - Jeannine Toussaint -->
     <Text>
       <GUID>2145100108</GUID>
-      <Text>Jeannine Toussaint, artisan of luxury</Text>
+      <Text>Jeannine Toussaint, Kunsthandwerkerin des Luxus</Text>
     </Text>
     <Text>
       <GUID>2145100109</GUID>
-      <Text>A legendary jeweler, she embodies refinement and innovation in the art of luxury jewelry and watchmaking. Under her influence, artisans have perfected techniques that minimize material usage while significantly increasing their productivity.</Text>
+      <Text>Als legendäre Juwelierin verkörpert sie Raffinesse und Innovation in der Kunst des Luxusschmucks und der Uhrmacherkunst. Unter ihrem Einfluss haben Kunsthandwerker Techniken perfektioniert, die den Materialverbrauch minimieren und gleichzeitig ihre Produktivität deutlich steigern.</Text>
     </Text>
     <!-- End - Jeannine Toussaint -->
     <!-- Start - Louis Baekeland -->
     <Text>
       <GUID>2145100110</GUID>
-      <Text>Louis Baekeland, genius chemist</Text>
+      <Text>Louis Baekeland, genialer Chemiker</Text>
     </Text>
     <Text>
       <GUID>2145100111</GUID>
-      <Text>A visionary inventor, Louis Baekeland revolutionized the chemical industry by creating the first synthetic plastic. His genius paved the way for an era of innovative materials, forever transforming industrial manufacturing. The factories he influences see their efficiency skyrocketing and costs reduced, embodying the spirit of technical progress.</Text>
+      <Text>Als visionärer Erfinder revolutionierte Louis Baekeland die chemische Industrie, indem er den ersten synthetischen Kunststoff schuf. Sein Genie ebnete den Weg für eine Ära innovativer Materialien, die die industrielle Fertigung für immer veränderten. Die Fabriken, die er beeinflusst, sehen ihre Effizienz in die Höhe schnellen und Kosten senken sich und verkörpern den Geist des technischen Fortschritts.</Text>
     </Text>
     <!-- End - Louis Baekeland -->
-    <!-- Start - Julien Moens -->
+     <!-- Start - Julien Moens -->
     <Text>
       <GUID>2145100112</GUID>
-      <Text>Julien Moens, the father of philately</Text>
+      <Text>Julien Moens, der Vater der Philatelie</Text>
     </Text>
     <Text>
       <GUID>2145100113</GUID>
-      <Text>He revolutionized stamps, elevating them to true treasures for collectors. Thanks to his influence, post offices experience unprecedented prosperity, boosting their efficiency.</Text>
+      <Text>Er revolutionierte die Briefmarken und machte sie zu wahren Schätzen für Sammler. Dank seines Einflusses erleben die Postämter eine nie dagewesene Prosperität und steigern ihre Effizienz.</Text>
     </Text>
     <!-- End - Julien Moens -->
     <!-- Start - Antonin Depage -->
     <Text>
       <GUID>2145100114</GUID>
-      <Text>Antonin Depage, humanitarian doctor</Text>
+      <Text>Antonin Depage, humanitärer Arzt</Text>
     </Text>
     <Text>
       <GUID>2145100115</GUID>
-      <Text>Renowned doctor and humanitarian, improving healthcare and leading disaster relief efforts. His expertise boosts the health of your citizens and improves efficiency for your hospitals.</Text>
+      <Text>Renommierter Arzt und humanitärer Helfer, der die Gesundheitsversorgung verbessert und Katastrophenhilfe leitet. Sein Fachwissen fördert die Gesundheit Ihrer Bürger und verbessert die Effizienz Ihrer Krankenhäuser.</Text>
     </Text>
     <!-- End Antonin Depage -->
   </ModOp>
