@@ -50,5 +50,15 @@
       <Text>他重塑了邮票，将它们提升为值得收藏的珍品。由于他的影响，邮政业务进入了新的繁荣，大大提高了效率。</Text>
     </Text>
     <!-- End - Julien Moens -->
+    <!-- Start - Antonin Depage -->
+    <Text>
+      <GUID>2145100114</GUID>
+      <Text>Antonin Depage, humanitarian doctor</Text>
+    </Text>
+    <Text>
+      <GUID>2145100115</GUID>
+      <Text>Renowned doctor and humanitarian, improving healthcare and leading disaster relief efforts. His expertise boosts the health of your citizens and improves efficiency for your hospitals.</Text>
+    </Text>
+    <!-- End Antonin Depage -->
   </ModOp>
 </ModOps>
