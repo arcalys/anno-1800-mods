@@ -14,14 +14,13 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Create release
-      id: create_release
-      uses: gh-actions/create-release@v1
+      uses: elgohr/Github-Release-Action@v5
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: ${{ github.ref }}
-        release_name: Release ${{ github.ref }}
-        draft: false
+        tag: ${{ github.ref }}
+        title: Release ${{ github.ref }}
         prerelease: false
-        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Create the folder structure and zip contents
       run: |
