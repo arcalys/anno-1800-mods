@@ -3,62 +3,52 @@
     <!-- Start - Zenon Gramme -->
     <Text>
       <GUID>2145100104</GUID>
-      <Text>Zenon Gramme, architect of modern energy</Text>
+      <Text>“现代能源构建者”，泽诺布·格拉姆</Text>
     </Text>
     <Text>
       <GUID>2145100105</GUID>
-      <Text>Key figure in the field of energy. His inventions have revolutionized industrial production methods, providing factories with enhanced energy efficiency. Always at the forefront of innovation, he supports industries in their transition toward more efficient processes.</Text>
+      <Text>电气史上的节点性人物。他发明的高压直流发电机推动了电气化工业革命，为工厂提供了更高效稳定的能源。他始终站在创新的最前沿，致力于推动工业流程效率革新。</Text>
     </Text>
     <!-- End - Zenon Gramme -->
     <!-- Start - Father Jozef -->
     <Text>
       <GUID>2145100106</GUID>
-      <Text>Father Jozef, patron saint of the forsaken</Text>
+      <Text>“贫苦人的守护者”，约瑟夫神父</Text>
     </Text>
     <Text>
       <GUID>2145100107</GUID>
-      <Text>Known for his tireless dedication to the forgotten, he inspires hope and compassion, strengthening the bond among residents and improving the lives of the most vulnerable.</Text>
+      <Text>他因对弱势群体始终如一的奉献而被世人熟知。他使贫苦者看到了生活的希望，并激发了全社会对穷人的同情之心。他的努力加强了全社会的团结，并改善了最弱势群体的生活。</Text>
     </Text>
     <!-- End - Father Jozef -->
     <!-- Start - Jeannine Toussaint -->
     <Text>
       <GUID>2145100108</GUID>
-      <Text>Jeannine Toussaint, artisan of luxury</Text>
+      <Text>“奢侈品艺术家”，珍妮·杜桑</Text>
     </Text>
     <Text>
       <GUID>2145100109</GUID>
-      <Text>A legendary jeweler, she embodies refinement and innovation in the art of luxury jewelry and watchmaking. Under her influence, artisans have perfected techniques that minimize material usage while significantly increasing their productivity.</Text>
+      <Text>作为一位传奇珠宝商，她在奢华珠宝和紧密钟表业中体现出了精巧的技艺和新颖的创意。在她的影响下，工匠们精进了技术，最大程度上减少了耗材，同时显著提高了生产效率。</Text>
     </Text>
     <!-- End - Jeannine Toussaint -->
     <!-- Start - Louis Baekeland -->
     <Text>
       <GUID>2145100110</GUID>
-      <Text>Louis Baekeland, genius chemist</Text>
+      <Text>“天才化学家”，路易斯·贝克兰</Text>
     </Text>
     <Text>
       <GUID>2145100111</GUID>
-      <Text>A visionary inventor, Louis Baekeland revolutionized the chemical industry by creating the first synthetic plastic. His genius paved the way for an era of innovative materials, forever transforming industrial manufacturing. The factories he influences see their efficiency skyrocketing and costs reduced, embodying the spirit of technical progress.</Text>
+      <Text>路易斯·贝克兰是一位胸怀大志的发明家。他发明了第一种合成塑料，并彻底改变了化工业。他的成果奠定了合成材料学的发展基础，并永远地改变了人类制造业。他供职的工厂效率直线上升，并大幅度削减了成本，是创新意义的最好实证。</Text>
     </Text>
     <!-- End - Louis Baekeland -->
     <!-- Start - Julien Moens -->
     <Text>
       <GUID>2145100112</GUID>
-      <Text>Julien Moens, the father of philately</Text>
+      <Text>“集邮活动创始人”，朱利安·莫恩斯</Text>
     </Text>
     <Text>
       <GUID>2145100113</GUID>
-      <Text>He revolutionized stamps, elevating them to true treasures for collectors. Thanks to his influence, post offices experience unprecedented prosperity, boosting their efficiency.</Text>
+      <Text>他重塑了邮票，将它们提升为值得收藏的珍品。由于他的影响，邮政业务进入了新的繁荣，大大提高了效率。</Text>
     </Text>
     <!-- End - Julien Moens -->
-    <!-- Start - Antonin Depage -->
-    <Text>
-      <GUID>2145100114</GUID>
-      <Text>Antonin Depage, humanitarian doctor</Text>
-    </Text>
-    <Text>
-      <GUID>2145100115</GUID>
-      <Text>Renowned doctor and humanitarian, improving healthcare and leading disaster relief efforts. His expertise boosts the health of your citizens and improves efficiency for your hospitals.</Text>
-    </Text>
-    <!-- End Antonin Depage -->
   </ModOp>
 </ModOps>
