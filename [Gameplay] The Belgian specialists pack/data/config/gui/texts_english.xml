@@ -59,6 +59,16 @@
       <GUID>2145100115</GUID>
       <Text>Renowned doctor and humanitarian, improving healthcare and leading disaster relief efforts. His expertise boosts the health of your citizens and improves efficiency for your hospitals.</Text>
     </Text>
-    <!-- End Antonin Depage -->
+    <!-- End - Antonin Depage -->
+    <!-- Start - Marie-Jeanne Libert -->
+    <Text>
+      <GUID>2145100116</GUID>
+      <Text>Marie-Jeanne Libert, renowned botanist</Text>
+    </Text>
+    <Text>
+      <GUID>2145100117</GUID>
+      <Text>A renowned botanist and naturalist, she works tirelessly to study and protect the plant life of your islands. Her unparalleled expertise brings new opportunities for your botanical gardens and tourism.</Text>
+    </Text>
+    <!-- End - Marie-Jeanne Libert -->
   </ModOp>
 </ModOps>

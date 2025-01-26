@@ -59,6 +59,16 @@
       <GUID>2145100115</GUID>
       <Text>Médecin et humanitaire de renom, améliorant les soins de santé et dirigeant les secours en cas de catastrophe. Son expertise améliore la santé de vos citoyens et l'efficacité de vos hôpitaux.</Text>
     </Text>
-    <!-- End Antonin Depage -->
+    <!-- End - Antonin Depage -->
+    <!-- Start - Marie-Jeanne Libert -->
+    <Text>
+      <GUID>2145100116</GUID>
+      <Text>Marie-Jeanne Libert, botaniste de renom</Text>
+    </Text>
+    <Text>
+      <GUID>2145100117</GUID>
+      <Text>Botaniste et naturaliste de renom, elle consacre son énergie à l'étude et à la préservation de la flore de vos îles. Son expertise inégalée ouvre de nouvelles opportunités pour vos jardins botaniques et le tourisme.</Text>
+    </Text>
+    <!-- End - Marie-Jeanne Libert -->
   </ModOp>
 </ModOps>

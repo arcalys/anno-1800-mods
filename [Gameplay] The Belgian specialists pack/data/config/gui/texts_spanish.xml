@@ -59,6 +59,16 @@
       <GUID>2145100115</GUID>
       <Text>Médico y filántropo de renombre, que mejora la atención médica y lidera los esfuerzos de socorro en casos de desastre. Su experiencia mejora la salud de sus ciudadanos y la eficiencia de sus hospitales.</Text>
     </Text>
-    <!-- End Antonin Depage -->
+    <!-- End - Antonin Depage -->
+    <!-- Start - Marie-Jeanne Libert -->
+    <Text>
+      <GUID>2145100116</GUID>
+      <Text>Marie-Jeanne Libert, botánica de renombre</Text>
+    </Text>
+    <Text>
+      <GUID>2145100117</GUID>
+      <Text>Reconocida botánica y naturalista, trabaja incansablemente para estudiar y proteger la vida vegetal de sus islas. Su experiencia incomparable brinda nuevas oportunidades para sus jardines botánicos y el turismo.</Text>
+    </Text>
+    <!-- End - Marie-Jeanne Libert -->
   </ModOp>
 </ModOps>

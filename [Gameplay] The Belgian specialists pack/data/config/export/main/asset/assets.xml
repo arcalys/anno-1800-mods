@@ -579,6 +579,67 @@
     </Asset>
   </ModOp>
   <!-- End - Antonin Depage -->
+  <!-- Start - Marie-Jeanne Libert -->
+  <ModOp Type="addNextSibling" GUID="190193">
+    <Asset>
+      <Template>TownhallItem</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100116</GUID>
+          <Name>Marie-Jeanne Libert, renowned botanist</Name>
+          <IconFilename>data/graphics/ui/icons/marie_jeanne_libert.png</IconFilename>
+          <InfoDescription>2145100117</InfoDescription>
+        </Standard>
+        <Text />
+        <Item>
+          <MaxStackSize>1</MaxStackSize>
+          <Rarity>Epic</Rarity>
+          <ItemType>Specialist</ItemType>
+          <Allocation>TownHall</Allocation>
+          <TradePrice>350000</TradePrice>
+          <TradePriceOnlineCurrency>350000</TradePriceOnlineCurrency>
+        </Item>
+        <ItemEffect>
+          <EffectTargets>
+            <Item>
+              <GUID>193667</GUID>
+            </Item>
+          </EffectTargets>
+        </ItemEffect>
+        <BuildingUpgrade>
+          <MaintenanceUpgrade>
+            <Value>-20</Value>
+            <Percental>1</Percental>
+          </MaintenanceUpgrade>
+        </BuildingUpgrade>
+        <CultureUpgrade>
+            <AttractivenessUpgrade>
+                <Value>20</Value>
+                <Percental>1</Percental>
+            </AttractivenessUpgrade>
+        </CultureUpgrade>
+        <ExpeditionAttribute>
+          <BaseMorale>10</BaseMorale>
+          <ExpeditionAttributes>
+            <Item>
+              <Attribute>PerkFemale</Attribute>
+              <Amount>1</Amount>
+            </Item>
+            <Item>
+              <Attribute>Medicine</Attribute>
+              <Amount>25</Amount>
+            </Item>
+            <Item>
+              <Attribute>Diplomacy</Attribute>
+              <Amount>15</Amount>
+            </Item>
+          </ExpeditionAttributes>
+          <ItemDifficulties>Average;Hard</ItemDifficulties>
+        </ExpeditionAttribute>
+      </Values>
+    </Asset>
+  </ModOp>
+  <!-- End - Marie-Jeanne Libert -->
   <!-- ### END SPECIALISTS ### -->
   <!-- ### REWARD POOLS ### -->
   <ModOp Type="add" GUID="192732,193074,193079,193234" Path="/Values/RewardPool/ItemsPool">
@@ -603,6 +664,9 @@
     </Item>
     <Item>
       <ItemLink>2145100114</ItemLink> <!-- Antonin Depage -->
+    </Item>
+    <Item>
+      <ItemLink>2145100116</ItemLink> <!-- Marie-Jeanne Libert -->
     </Item>
   </ModOp>
   <!-- ### END REWARD POOLS ### -->

@@ -40,7 +40,7 @@
       <Text>Als visionärer Erfinder revolutionierte Louis Baekeland die chemische Industrie, indem er den ersten synthetischen Kunststoff schuf. Sein Genie ebnete den Weg für eine Ära innovativer Materialien, die die industrielle Fertigung für immer veränderten. Die Fabriken, die er beeinflusst, sehen ihre Effizienz in die Höhe schnellen und Kosten senken sich und verkörpern den Geist des technischen Fortschritts.</Text>
     </Text>
     <!-- End - Louis Baekeland -->
-     <!-- Start - Julien Moens -->
+    <!-- Start - Julien Moens -->
     <Text>
       <GUID>2145100112</GUID>
       <Text>Julien Moens, der Vater der Philatelie</Text>
@@ -59,6 +59,16 @@
       <GUID>2145100115</GUID>
       <Text>Renommierter Arzt und humanitärer Helfer, der die Gesundheitsversorgung verbessert und Katastrophenhilfe leitet. Sein Fachwissen fördert die Gesundheit Ihrer Bürger und verbessert die Effizienz Ihrer Krankenhäuser.</Text>
     </Text>
-    <!-- End Antonin Depage -->
+    <!-- End - Antonin Depage -->
+    <!-- Start - Marie-Jeanne Libert -->
+    <Text>
+      <GUID>2145100116</GUID>
+      <Text>Marie-Jeanne Libert, renommierte Botanikerin</Text>
+    </Text>
+    <Text>
+      <GUID>2145100117</GUID>
+      <Text>Als renommierte Botanikerin und Naturforscherin arbeitet sie unermüdlich daran, die Pflanzenwelt Ihrer Inseln zu erforschen und zu schützen. Ihr unvergleichliches Fachwissen bringt neue Möglichkeiten für Ihren botanischen Garten und Tourismus.</Text>
+    </Text>
+    <!-- End - Marie-Jeanne Libert -->
   </ModOp>
 </ModOps>

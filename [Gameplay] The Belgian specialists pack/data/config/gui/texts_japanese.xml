@@ -59,6 +59,16 @@
       <GUID>2145100115</GUID>
       <Text>有名な医師であり、人道主義者であり、医療を改善し、災害救援活動を主導しています。彼の専門知識は、市民の健康を増進し、病院の効率を向上させます。</Text>
     </Text>
-    <!-- End Antonin Depage -->
+    <!-- End - Antonin Depage -->
+    <!-- Start - Marie-Jeanne Libert -->
+    <Text>
+      <GUID>2145100116</GUID>
+      <Text>マリー・ジャンヌ・リベール、有名な植物学者</Text>
+    </Text>
+    <Text>
+      <GUID>2145100117</GUID>
+      <Text>有名な植物学者であり自然主義者である彼女は、あなたの島の植物の生活を研究し保護するためにたゆまぬ努力をしています。彼女の比類のない専門知識は、あなたの植物園と観光に新たな機会をもたらします。</Text>
+    </Text>
+    <!-- End - Marie-Jeanne Libert -->
   </ModOp>
 </ModOps>

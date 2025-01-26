@@ -59,6 +59,16 @@
       <GUID>2145100115</GUID>
       <Text>Znany lekarz i działacz humanitarny, poprawiający opiekę zdrowotną i prowadzący działania ratunkowe w przypadku klęsk żywiołowych. Jego wiedza specjalistyczna przyczynia się do poprawy stanu zdrowia obywateli i poprawy wydajności szpitali.</Text>
     </Text>
-    <!-- End Antonin Depage -->
+    <!-- End - Antonin Depage -->
+    <!-- Start - Marie-Jeanne Libert -->
+    <Text>
+      <GUID>2145100116</GUID>
+      <Text>Marie-Jeanne Libert, znana botaniczka</Text>
+    </Text>
+    <Text>
+      <GUID>2145100117</GUID>
+      <Text>Znana botaniczka i przyrodnik, niestrudzenie pracuje nad badaniem i ochroną życia roślinnego na twoich wyspach. Jej niezrównana wiedza specjalistyczna otwiera nowe możliwości dla Twoich ogrodów botanicznych i turystyki.</Text>
+    </Text>
+    <!-- End - Marie-Jeanne Libert -->
   </ModOp>
 </ModOps>

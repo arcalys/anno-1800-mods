@@ -59,6 +59,16 @@
       <GUID>2145100115</GUID>
       <Text>Rinomato medico e umanitario, migliora l'assistenza sanitaria e guida gli sforzi di soccorso in caso di calamità. La sua esperienza migliora la salute dei tuoi cittadini e migliora l'efficienza dei tuoi ospedali.</Text>
     </Text>
-    <!-- End Antonin Depage -->
+    <!-- End - Antonin Depage -->
+    <!-- Start - Marie-Jeanne Libert -->
+    <Text>
+      <GUID>2145100116</GUID>
+      <Text>Marie-Jeanne Libert, famosa botanica</Text>
+    </Text>
+    <Text>
+      <GUID>2145100117</GUID>
+      <Text>Rinomata botanica e naturalista, lavora instancabilmente per studiare e proteggere la flora delle vostre isole. La sua impareggiabile esperienza offre nuove opportunità per i tuoi giardini botanici e il turismo.</Text>
+    </Text>
+    <!-- End - Marie-Jeanne Libert -->
   </ModOp>
 </ModOps>
