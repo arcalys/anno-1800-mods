@@ -1,4 +1,4 @@
-# The Belgians specialist pack
+# The Belgian specialists pack
 
 Bring a taste of Belgium to your Anno 1800 experience! This mod introduces a range of Belgian-inspired new specialists.
 
