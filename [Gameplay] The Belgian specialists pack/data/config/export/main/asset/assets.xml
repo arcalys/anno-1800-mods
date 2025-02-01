@@ -29,18 +29,18 @@
                   <ActionUnlockAsset>
                     <UnhideAssets>
                       <Item>
-                        <Asset>2145100112</Asset> <!-- Julien Moens -->
+                        <Asset>2145100112</Asset>                        <!-- Julien Moens -->
                       </Item>
                       <Item>
-                        <Asset>2145100114</Asset> <!-- Antonin Depage -->
+                        <Asset>2145100114</Asset>                        <!-- Antonin Depage -->
                       </Item>
                     </UnhideAssets>
                     <UnlockAssets>
                       <Item>
-                        <Asset>2145100112</Asset> <!-- Julien Moens -->
+                        <Asset>2145100112</Asset>                        <!-- Julien Moens -->
                       </Item>
                       <Item>
-                        <Asset>2145100114</Asset> <!-- Antonin Depage -->
+                        <Asset>2145100114</Asset>                        <!-- Antonin Depage -->
                       </Item>
                     </UnlockAssets>
                   </ActionUnlockAsset>
@@ -82,16 +82,16 @@
                   <ActionUnlockAsset>
                     <UnhideAssets>
                       <Item>
-                        <Asset>2145100104</Asset> <!-- Zenon Gramme -->
+                        <Asset>2145100104</Asset>                        <!-- Zenon Gramme -->
                       </Item>
                       <Item>
-                        <Asset>2145100106</Asset> <!-- Father Jozef -->
+                        <Asset>2145100106</Asset>                        <!-- Father Jozef -->
                       </Item>
                       <Item>
-                        <Asset>2145100108</Asset> <!-- Jeannine Toussaint -->
+                        <Asset>2145100108</Asset>                        <!-- Jeannine Toussaint -->
                       </Item>
                       <Item>
-                        <Asset>2145100112</Asset> <!-- Julien Moens -->
+                        <Asset>2145100112</Asset>                        <!-- Julien Moens -->
                       </Item>
                     </UnhideAssets>
                   </ActionUnlockAsset>
@@ -133,13 +133,16 @@
                   <ActionUnlockAsset>
                     <UnlockAssets>
                       <Item>
-                        <Asset>2145100104</Asset> <!-- Zenon Gramme -->
+                        <Asset>2145100104</Asset>
                       </Item>
                       <Item>
-                        <Asset>2145100106</Asset> <!-- Father Jozef -->
+                        <Asset>2145100106</Asset>
                       </Item>
                       <Item>
-                        <Asset>2145100108</Asset> <!-- Jeannine Toussaint -->
+                        <Asset>2145100108</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2145100118</Asset>
                       </Item>
                     </UnlockAssets>
                   </ActionUnlockAsset>
@@ -613,10 +616,10 @@
           </MaintenanceUpgrade>
         </BuildingUpgrade>
         <CultureUpgrade>
-            <AttractivenessUpgrade>
-                <Value>20</Value>
-                <Percental>1</Percental>
-            </AttractivenessUpgrade>
+          <AttractivenessUpgrade>
+            <Value>20</Value>
+            <Percental>1</Percental>
+          </AttractivenessUpgrade>
         </CultureUpgrade>
         <ExpeditionAttribute>
           <BaseMorale>10</BaseMorale>
@@ -640,33 +643,108 @@
     </Asset>
   </ModOp>
   <!-- End - Marie-Jeanne Libert -->
+  <!-- Jan Nauheus -->
+  <ModOp Type="addNextSibling" GUID="190193">
+    <Asset>
+      <Template>GuildhouseItem</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100118</GUID>
+          <Name>Jan Nauheus, master of chocolate</Name>
+          <IconFilename>data/graphics/ui/icons/jan_nauheus.png</IconFilename>
+          <InfoDescription>2145100119</InfoDescription>
+        </Standard>
+        <Text />
+        <Item>
+          <MaxStackSize>1</MaxStackSize>
+          <Rarity>Legendary</Rarity>
+          <ItemType>Specialist</ItemType>
+          <Allocation>GuildHouse</Allocation>
+          <TradePrice>1250000</TradePrice>
+          <TradePriceOnlineCurrency>1250000</TradePriceOnlineCurrency>
+        </Item>
+        <ItemEffect>
+          <EffectTargets>
+            <Item>
+              <GUID>1010341</GUID>
+            </Item>
+          </EffectTargets>
+        </ItemEffect>
+        <FactoryUpgrade>
+          <ProductivityUpgrade>
+            <Value>55</Value>
+            <Percental>1</Percental>
+          </ProductivityUpgrade>
+          <AdditionalOutput>
+            <Item>
+              <Product>1010239</Product>
+              <AdditionalOutputCycle>5</AdditionalOutputCycle>
+              <Amount>1</Amount>
+            </Item>
+          </AdditionalOutput>
+        </FactoryUpgrade>
+        <BuildingUpgrade>
+          <MaintenanceUpgrade>
+            <Value>-20</Value>
+            <Percental>1</Percental>
+          </MaintenanceUpgrade>
+          <WorkforceAmountUpgrade>
+            <Value>-20</Value>
+            <Percental>1</Percental>
+          </WorkforceAmountUpgrade>
+        </BuildingUpgrade>
+        <ExpeditionAttribute>
+          <BaseMorale>10</BaseMorale>
+          <ExpeditionAttributes>
+            <Item>
+              <Attribute>PerkMale</Attribute>
+              <Amount>1</Amount>
+            </Item>
+            <Item>
+              <Attribute>Crafting</Attribute>
+              <Amount>55</Amount>
+            </Item>
+          </ExpeditionAttributes>
+          <ItemDifficulties>Hard</ItemDifficulties>
+        </ExpeditionAttribute>
+      </Values>
+    </Asset>
+  </ModOp>
   <!-- ### END SPECIALISTS ### -->
   <!-- ### REWARD POOLS ### -->
   <ModOp Type="add" GUID="192732,193074,193079,193234" Path="/Values/RewardPool/ItemsPool">
     <Item>
-      <ItemLink>2145100104</ItemLink> <!-- Zenon Gramme -->
+      <ItemLink>2145100104</ItemLink>      <!-- Zenon Gramme -->
     </Item>
     <Item>
-      <ItemLink>2145100108</ItemLink> <!-- Jeannine Toussaint -->
+      <ItemLink>2145100108</ItemLink>      <!-- Jeannine Toussaint -->
     </Item>
     <Item>
-      <ItemLink>2145100110</ItemLink> <!-- Louis Baekeland -->
+      <ItemLink>2145100110</ItemLink>      <!-- Louis Baekeland -->
+    </Item>
+    <Item>
+      <ItemLink>2145100118</ItemLink>      <!-- Louis Baekeland -->
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID="192737" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>2145100118</ItemLink>
     </Item>
   </ModOp>
   <ModOp Type="add" GUID="192742,193079" Path="/Values/RewardPool/ItemsPool">
     <Item>
-      <ItemLink>2145100106</ItemLink> <!-- Father Jozef -->
+      <ItemLink>2145100106</ItemLink>      <!-- Father Jozef -->
     </Item>
   </ModOp>
   <ModOp GUID="192848" Type="add" Path="/Values/RewardPool/ItemsPool">
     <Item>
-      <ItemLink>2145100112</ItemLink> <!-- Julien Moens -->
+      <ItemLink>2145100112</ItemLink>      <!-- Julien Moens -->
     </Item>
     <Item>
-      <ItemLink>2145100114</ItemLink> <!-- Antonin Depage -->
+      <ItemLink>2145100114</ItemLink>      <!-- Antonin Depage -->
     </Item>
     <Item>
-      <ItemLink>2145100116</ItemLink> <!-- Marie-Jeanne Libert -->
+      <ItemLink>2145100116</ItemLink>      <!-- Marie-Jeanne Libert -->
     </Item>
   </ModOp>
   <!-- ### END REWARD POOLS ### -->

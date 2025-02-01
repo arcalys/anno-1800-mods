@@ -1,6 +1,6 @@
 <ModOps>
   <ModOp Type="add" Path="/TextExport/Texts">
-    <!-- Start - Zenon Gramme -->
+    <!-- Zenon Gramme -->
     <Text>
       <GUID>2145100104</GUID>
       <Text>Zenon Gramme, Architekt der modernen Energie</Text>
@@ -9,8 +9,7 @@
       <GUID>2145100105</GUID>
       <Text>Schlüsselfigur im Bereich Energie. Seine Erfindungen haben die industriellen Produktionsmethoden revolutioniert und Fabriken eine höhere Energieeffizienz ermöglicht. Er ist immer an der Spitze der Innovation und unterstützt die Industrie bei ihrem Übergang zu effizienteren Prozessen.</Text>
     </Text>
-    <!-- End - Zenon Gramme -->
-    <!-- Start - Father Jozef -->
+    <!-- Father Jozef -->
     <Text>
       <GUID>2145100106</GUID>
       <Text>Pater Jozef, Schutzpatron der Verlassenen</Text>
@@ -19,8 +18,7 @@
       <GUID>2145100107</GUID>
       <Text>Bekannt für seinen unermüdlichen Einsatz für die Vergessenen, weckt er Hoffnung und Mitgefühl, stärkt die Bindung zwischen den Bewohnern und verbessert das Leben der Schwächsten.</Text>
     </Text>
-    <!-- End - Father Jozef -->
-    <!-- Start - Jeannine Toussaint -->
+    <!-- Jeannine Toussaint -->
     <Text>
       <GUID>2145100108</GUID>
       <Text>Jeannine Toussaint, Kunsthandwerkerin des Luxus</Text>
@@ -29,8 +27,7 @@
       <GUID>2145100109</GUID>
       <Text>Als legendäre Juwelierin verkörpert sie Raffinesse und Innovation in der Kunst des Luxusschmucks und der Uhrmacherkunst. Unter ihrem Einfluss haben Kunsthandwerker Techniken perfektioniert, die den Materialverbrauch minimieren und gleichzeitig ihre Produktivität deutlich steigern.</Text>
     </Text>
-    <!-- End - Jeannine Toussaint -->
-    <!-- Start - Louis Baekeland -->
+    <!-- Louis Baekeland -->
     <Text>
       <GUID>2145100110</GUID>
       <Text>Louis Baekeland, genialer Chemiker</Text>
@@ -39,8 +36,7 @@
       <GUID>2145100111</GUID>
       <Text>Als visionärer Erfinder revolutionierte Louis Baekeland die chemische Industrie, indem er den ersten synthetischen Kunststoff schuf. Sein Genie ebnete den Weg für eine Ära innovativer Materialien, die die industrielle Fertigung für immer veränderten. Die Fabriken, die er beeinflusst, sehen ihre Effizienz in die Höhe schnellen und Kosten senken sich und verkörpern den Geist des technischen Fortschritts.</Text>
     </Text>
-    <!-- End - Louis Baekeland -->
-    <!-- Start - Julien Moens -->
+    <!-- Julien Moens -->
     <Text>
       <GUID>2145100112</GUID>
       <Text>Julien Moens, der Vater der Philatelie</Text>
@@ -49,8 +45,7 @@
       <GUID>2145100113</GUID>
       <Text>Er revolutionierte die Briefmarken und machte sie zu wahren Schätzen für Sammler. Dank seines Einflusses erleben die Postämter eine nie dagewesene Prosperität und steigern ihre Effizienz.</Text>
     </Text>
-    <!-- End - Julien Moens -->
-    <!-- Start - Antonin Depage -->
+    <!-- Antonin Depage -->
     <Text>
       <GUID>2145100114</GUID>
       <Text>Antonin Depage, humanitärer Arzt</Text>
@@ -59,8 +54,7 @@
       <GUID>2145100115</GUID>
       <Text>Renommierter Arzt und humanitärer Helfer, der die Gesundheitsversorgung verbessert und Katastrophenhilfe leitet. Sein Fachwissen fördert die Gesundheit Ihrer Bürger und verbessert die Effizienz Ihrer Krankenhäuser.</Text>
     </Text>
-    <!-- End - Antonin Depage -->
-    <!-- Start - Marie-Jeanne Libert -->
+    <!-- Marie-Jeanne Libert -->
     <Text>
       <GUID>2145100116</GUID>
       <Text>Marie-Jeanne Libert, renommierte Botanikerin</Text>
@@ -69,6 +63,14 @@
       <GUID>2145100117</GUID>
       <Text>Als renommierte Botanikerin und Naturforscherin arbeitet sie unermüdlich daran, die Pflanzenwelt Ihrer Inseln zu erforschen und zu schützen. Ihr unvergleichliches Fachwissen bringt neue Möglichkeiten für Ihren botanischen Garten und Tourismus.</Text>
     </Text>
-    <!-- End - Marie-Jeanne Libert -->
+    <!-- Jan Nauheus -->
+    <Text>
+      <GUID>2145100118</GUID>
+      <Text>Jan Nauheus, Meister der Schokolade</Text>
+    </Text>
+    <Text>
+      <GUID>2145100119</GUID>
+      <Text>Als wahrer Pionier der Schokoladenherstellung kreierte und perfektionierte er Pralinen, begeisterte die Elite und revolutionierte die Schokoladenproduktion.</Text>
+    </Text>
   </ModOp>
 </ModOps>

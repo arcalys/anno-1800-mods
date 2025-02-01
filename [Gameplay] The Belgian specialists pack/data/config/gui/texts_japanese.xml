@@ -1,6 +1,6 @@
 <ModOps>
   <ModOp Type="add" Path="/TextExport/Texts">
-    <!-- Start - Zenon Gramme -->
+    <!-- Zenon Gramme -->
     <Text>
       <GUID>2145100104</GUID>
       <Text>ゼノン・グラム、現代エネルギーの建築家</Text>
@@ -9,8 +9,7 @@
       <GUID>2145100105</GUID>
       <Text>エネルギー分野のキーパーソン。彼の発明は工業生産方法に革命をもたらし、工場にエネルギー効率の向上をもたらしました。常にイノベーションの最前線に立ち、より効率的なプロセスへの移行を支援する業界をサポートしています。</Text>
     </Text>
-    <!-- End - Zenon Gramme -->
-    <!-- Start - Father Jozef -->
+    <!-- Father Jozef -->
     <Text>
       <GUID>2145100106</GUID>
       <Text>ヨゼフ神父、見捨てられた者の守護聖人</Text>
@@ -19,8 +18,7 @@
       <GUID>2145100107</GUID>
       <Text>忘れられた人々へのたゆまぬ献身で知られる彼は、希望と思いやりを鼓舞し、住民間の絆を強め、最も弱い立場にある人々の生活を改善しています。</Text>
     </Text>
-    <!-- End - Father Jozef -->
-    <!-- Start - Jeannine Toussaint -->
+    <!-- Jeannine Toussaint -->
     <Text>
       <GUID>2145100108</GUID>
       <Text>ジャンニーヌ・トゥーサン、ラグジュアリーの職人</Text>
@@ -29,8 +27,7 @@
       <GUID>2145100109</GUID>
       <Text>伝説的なジュエラーである彼女は、高級ジュエリーと時計製造の芸術における洗練と革新を体現しています。彼女の影響下で、職人たちは材料の使用量を最小限に抑えながら生産性を大幅に向上させる技術を完成させました。</Text>
     </Text>
-    <!-- End - Jeannine Toussaint -->
-    <!-- Start - Louis Baekeland -->
+    <!-- Louis Baekeland -->
     <Text>
       <GUID>2145100110</GUID>
       <Text>ルイス・ベークランド、天才化学者</Text>
@@ -39,8 +36,7 @@
       <GUID>2145100111</GUID>
       <Text>先見の明のある発明家であるルイス・ベークランドは、最初の合成プラスチックを生み出し、化学産業に革命をもたらしました。彼の天才は、革新的な素材の時代への道を開き、工業生産を永遠に変革しました。彼が影響を与える工場は、効率が急上昇し、コストが削減され、技術進歩の精神を体現しています。</Text>
     </Text>
-    <!-- End - Louis Baekeland -->
-    <!-- Start - Julien Moens -->
+    <!-- Julien Moens -->
     <Text>
       <GUID>2145100112</GUID>
       <Text>ジュリアン・モーエンス、切手収集の父</Text>
@@ -49,8 +45,7 @@
       <GUID>2145100113</GUID>
       <Text>彼は切手に革命を起こし、切手をコレクターにとって真の宝物にまで高めました。彼の影響のおかげで、郵便局はかつてない繁栄を遂げ、効率を高めました。</Text>
     </Text>
-    <!-- End - Julien Moens -->
-    <!-- Start - Antonin Depage -->
+    <!-- Antonin Depage -->
     <Text>
       <GUID>2145100114</GUID>
       <Text>アントニン・デパージュ、人道主義者の医師</Text>
@@ -59,8 +54,7 @@
       <GUID>2145100115</GUID>
       <Text>有名な医師であり、人道主義者であり、医療を改善し、災害救援活動を主導しています。彼の専門知識は、市民の健康を増進し、病院の効率を向上させます。</Text>
     </Text>
-    <!-- End - Antonin Depage -->
-    <!-- Start - Marie-Jeanne Libert -->
+    <!-- Marie-Jeanne Libert -->
     <Text>
       <GUID>2145100116</GUID>
       <Text>マリー・ジャンヌ・リベール、有名な植物学者</Text>
@@ -69,6 +63,14 @@
       <GUID>2145100117</GUID>
       <Text>有名な植物学者であり自然主義者である彼女は、あなたの島の植物の生活を研究し保護するためにたゆまぬ努力をしています。彼女の比類のない専門知識は、あなたの植物園と観光に新たな機会をもたらします。</Text>
     </Text>
-    <!-- End - Marie-Jeanne Libert -->
+    <!-- Jan Nauheus -->
+    <Text>
+      <GUID>2145100118</GUID>
+      <Text>ヤン・ナウヘウス、チョコレートの達人</Text>
+    </Text>
+    <Text>
+      <GUID>2145100119</GUID>
+      <Text>チョコレート作りの真のパイオニアである彼は、プラリネを作成して完成させ、エリートを喜ばせ、チョコレート生産に革命をもたらしました。</Text>
+    </Text>
   </ModOp>
 </ModOps>

@@ -1,6 +1,6 @@
 <ModOps>
   <ModOp Type="add" Path="/TextExport/Texts">
-    <!-- Start - Zenon Gramme -->
+    <!-- Zenon Gramme -->
     <Text>
       <GUID>2145100104</GUID>
       <Text>Zenon Gramme, architekt nowoczesnej energetyki</Text>
@@ -9,8 +9,7 @@
       <GUID>2145100105</GUID>
       <Text>Kluczowa postać w dziedzinie energetyki. Jego wynalazki zrewolucjonizowały przemysłowe metody produkcji, zapewniając fabrykom zwiększoną efektywność energetyczną. Zawsze w czołówce innowacji, wspiera branże w ich transformacji w kierunku bardziej wydajnych procesów.</Text>
     </Text>
-    <!-- End - Zenon Gramme -->
-    <!-- Start - Father Jozef -->
+    <!-- Father Jozef -->
     <Text>
       <GUID>2145100106</GUID>
       <Text>Ojciec Józef, patron opuszczonych</Text>
@@ -19,8 +18,7 @@
       <GUID>2145100107</GUID>
       <Text>Znany ze swojego niestrudzonego poświęcenia dla zapomnianych, wzbudza nadzieję i współczucie, wzmacniając więź między mieszkańcami i poprawiając jakość życia najbardziej bezbronnych.</Text>
     </Text>
-    <!-- End - Father Jozef -->
-    <!-- Start - Jeannine Toussaint -->
+    <!-- Jeannine Toussaint -->
     <Text>
       <GUID>2145100108</GUID>
       <Text>Jeannine Toussaint, rzemieślnik luksusu</Text>
@@ -29,8 +27,7 @@
       <GUID>2145100109</GUID>
       <Text>Legendarna jubilerka, uosabia wyrafinowanie i innowacyjność w sztuce luksusowej biżuterii i zegarmistrzostwa. Pod jej wpływem rzemieślnicy udoskonalili techniki, które minimalizują zużycie materiału, jednocześnie znacznie zwiększając ich produktywność.</Text>
     </Text>
-    <!-- End - Jeannine Toussaint -->
-    <!-- Start - Louis Baekeland -->
+    <!-- Louis Baekeland -->
     <Text>
       <GUID>2145100110</GUID>
       <Text>Louis Baekeland, genialny chemik</Text>
@@ -39,8 +36,7 @@
       <GUID>2145100111</GUID>
       <Text>Wizjonerski wynalazca Louis Baekeland zrewolucjonizował przemysł chemiczny, tworząc pierwszy syntetyczny plastik. Jego geniusz utorował drogę do ery innowacyjnych materiałów, które na zawsze przekształciły produkcję przemysłową. Fabryki, na które ma wpływ, odnotowują gwałtowny wzrost wydajności i redukcję kosztów, co ucieleśnia ducha postępu technicznego.</Text>
     </Text>
-    <!-- End - Louis Baekeland -->
-    <!-- Start - Julien Moens -->
+    <!-- Julien Moens -->
     <Text>
       <GUID>2145100112</GUID>
       <Text>Julien Moens, ojciec filatelistyki</Text>
@@ -49,8 +45,7 @@
       <GUID>2145100113</GUID>
       <Text>Zrewolucjonizował znaczki, podnosząc je do rangi prawdziwych skarbów dla kolekcjonerów. Dzięki jego wpływom urzędy pocztowe przeżywają niespotykany dotąd dobrobyt, co zwiększa ich efektywność.</Text>
     </Text>
-    <!-- End - Julien Moens -->
-    <!-- Start - Antonin Depage -->
+    <!-- Antonin Depage -->
     <Text>
       <GUID>2145100114</GUID>
       <Text>Antonin Depage, lekarz humanitarny</Text>
@@ -59,8 +54,7 @@
       <GUID>2145100115</GUID>
       <Text>Znany lekarz i działacz humanitarny, poprawiający opiekę zdrowotną i prowadzący działania ratunkowe w przypadku klęsk żywiołowych. Jego wiedza specjalistyczna przyczynia się do poprawy stanu zdrowia obywateli i poprawy wydajności szpitali.</Text>
     </Text>
-    <!-- End - Antonin Depage -->
-    <!-- Start - Marie-Jeanne Libert -->
+    <!-- Marie-Jeanne Libert -->
     <Text>
       <GUID>2145100116</GUID>
       <Text>Marie-Jeanne Libert, znana botaniczka</Text>
@@ -69,6 +63,14 @@
       <GUID>2145100117</GUID>
       <Text>Znana botaniczka i przyrodnik, niestrudzenie pracuje nad badaniem i ochroną życia roślinnego na twoich wyspach. Jej niezrównana wiedza specjalistyczna otwiera nowe możliwości dla Twoich ogrodów botanicznych i turystyki.</Text>
     </Text>
-    <!-- End - Marie-Jeanne Libert -->
+    <!-- Jan Nauheus -->
+    <Text>
+      <GUID>2145100118</GUID>
+      <Text>Jan Nauheus, mistrz czekolady</Text>
+    </Text>
+    <Text>
+      <GUID>2145100119</GUID>
+      <Text>Prawdziwy pionier w produkcji czekolady, tworzył i doskonalił praliny, zachwycając elitę i rewolucjonizując produkcję czekolady.</Text>
+    </Text>
   </ModOp>
 </ModOps>

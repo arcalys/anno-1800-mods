@@ -1,6 +1,6 @@
 <ModOps>
   <ModOp Type="add" Path="/TextExport/Texts">
-    <!-- Start - Zenon Gramme -->
+    <!-- Zenon Gramme -->
     <Text>
       <GUID>2145100104</GUID>
       <Text>“现代能源构建者”，泽诺布·格拉姆</Text>
@@ -9,8 +9,7 @@
       <GUID>2145100105</GUID>
       <Text>电气史上的节点性人物。他发明的高压直流发电机推动了电气化工业革命，为工厂提供了更高效稳定的能源。他始终站在创新的最前沿，致力于推动工业流程效率革新。</Text>
     </Text>
-    <!-- End - Zenon Gramme -->
-    <!-- Start - Father Jozef -->
+    <!-- Father Jozef -->
     <Text>
       <GUID>2145100106</GUID>
       <Text>“贫苦人的守护者”，约瑟夫神父</Text>
@@ -19,8 +18,7 @@
       <GUID>2145100107</GUID>
       <Text>他因对弱势群体始终如一的奉献而被世人熟知。他使贫苦者看到了生活的希望，并激发了全社会对穷人的同情之心。他的努力加强了全社会的团结，并改善了最弱势群体的生活。</Text>
     </Text>
-    <!-- End - Father Jozef -->
-    <!-- Start - Jeannine Toussaint -->
+    <!-- Jeannine Toussaint -->
     <Text>
       <GUID>2145100108</GUID>
       <Text>“奢侈品艺术家”，珍妮·杜桑</Text>
@@ -29,8 +27,7 @@
       <GUID>2145100109</GUID>
       <Text>作为一位传奇珠宝商，她在奢华珠宝和紧密钟表业中体现出了精巧的技艺和新颖的创意。在她的影响下，工匠们精进了技术，最大程度上减少了耗材，同时显著提高了生产效率。</Text>
     </Text>
-    <!-- End - Jeannine Toussaint -->
-    <!-- Start - Louis Baekeland -->
+    <!-- Louis Baekeland -->
     <Text>
       <GUID>2145100110</GUID>
       <Text>“天才化学家”，路易斯·贝克兰</Text>
@@ -39,8 +36,7 @@
       <GUID>2145100111</GUID>
       <Text>路易斯·贝克兰是一位胸怀大志的发明家。他发明了第一种合成塑料，并彻底改变了化工业。他的成果奠定了合成材料学的发展基础，并永远地改变了人类制造业。他供职的工厂效率直线上升，并大幅度削减了成本，是创新意义的最好实证。</Text>
     </Text>
-    <!-- End - Louis Baekeland -->
-    <!-- Start - Julien Moens -->
+    <!-- Julien Moens -->
     <Text>
       <GUID>2145100112</GUID>
       <Text>“集邮活动创始人”，朱利安·莫恩斯</Text>
@@ -49,8 +45,7 @@
       <GUID>2145100113</GUID>
       <Text>他重塑了邮票，将它们提升为值得收藏的珍品。由于他的影响，邮政业务进入了新的繁荣，大大提高了效率。</Text>
     </Text>
-    <!-- End - Julien Moens -->
-    <!-- Start - Antonin Depage -->
+    <!-- Antonin Depage -->
     <Text>
       <GUID>2145100114</GUID>
       <Text>“人道主义医生”，安托万·德佩奇</Text>
@@ -59,8 +54,7 @@
       <GUID>2145100115</GUID>
       <Text>著名医生和人道主义者，致力于改善医疗条件，以及自然灾害后的治疗工作。他的专业知识能够提高公民的健康水平，并提高医院的效率。</Text>
     </Text>
-    <!-- End - Antonin Depage -->
-    <!-- Start - Marie-Jeanne Libert -->
+    <!-- Marie-Jeanne Libert -->
     <Text>
       <GUID>2145100116</GUID>
       <Text>Marie-Jeanne Libert，著名植物学家</Text>
@@ -69,6 +63,14 @@
       <GUID>2145100117</GUID>
       <Text>作为著名的植物学家和博物学家，她孜孜不倦地研究和保护您岛屿的植物生命。她无与伦比的专业知识为您的植物园和旅游业带来了新的机会。</Text>
     </Text>
-    <!-- End - Marie-Jeanne Libert -->
+    <!-- Jan Nauheus -->
+    <Text>
+      <GUID>2145100118</GUID>
+      <Text>Jan Nauheus，巧克力大师</Text>
+    </Text>
+    <Text>
+      <GUID>2145100119</GUID>
+      <Text>作为巧克力制作的真正先驱，他创造并完善了果仁糖，取悦了精英阶层并彻底改变了巧克力生产。</Text>
+    </Text>
   </ModOp>
 </ModOps>

@@ -7,6 +7,7 @@ Please note that this is still a work in progress, and these specialists may be 
 ## Contents
 ### Legendary specialists
 - Father Jozef (inspired by `Father Damien`).
+- Jan Nauheus (inspired by `Jean Neuhaus`).
 - Jeannine Toussaint (inspired by `Jeanne Toussaint`).
 - Louis Baekeland (inspired by `Léo Baekeland`).
 - Zenon Gramme (inspired by `Zénobe Gramme`).
@@ -29,3 +30,4 @@ This mod uses the following GUIDs:
 - **2145100112-2145100113:** Julien Moens, the father of philately, epic townhall specialist
 - **2145100114-2145100115:** Antonin Depage, humanitarian doctor, epic townhall specialist
 - **2145100116-2145100117:** Marie-Jeanne Libert, expert botanist, epic townhall specialist
+- **2145100118-2145100119:** Jan Nauheus, master of chocolate, legendary guildhouse specialist

@@ -1,6 +1,6 @@
 <ModOps>
   <ModOp Type="add" Path="/TextExport/Texts">
-    <!-- Start - Zenon Gramme -->
+    <!-- Zenon Gramme -->
     <Text>
       <GUID>2145100104</GUID>
       <Text>Zenon Gramme, architecte de l'énergie moderne</Text>
@@ -9,8 +9,7 @@
       <GUID>2145100105</GUID>
       <Text>Référence incontournable dans le domaine de l'énergie. Ses inventions ont transformé les méthodes de production industrielle, offrant aux usines une efficacité énergétique accrue. Toujours à la pointe de l'innovation, il accompagne les industries dans leur transition vers des processus plus performants.</Text>
     </Text>
-    <!-- End - Zenon Gramme -->
-    <!-- Start - Father Jozef -->
+    <!-- Father Jozef -->
     <Text>
       <GUID>2145100106</GUID>
       <Text>Père Jozef, saint des exclus</Text>
@@ -19,8 +18,7 @@
       <GUID>2145100107</GUID>
       <Text>Reconnu pour son inlassable dévouement envers les démunis et les oubliés, il inspire espoir et compassion, renforçant la solidarité entre les habitants et améliorant les conditions de vie des plus vulnérables.</Text>
     </Text>
-    <!-- End - Father Jozef -->
-    <!-- Start - Jeannine Toussaint -->
+    <!-- Jeannine Toussaint -->
     <Text>
       <GUID>2145100108</GUID>
       <Text>Jeannine Toussaint, créatrice de luxe</Text>
@@ -29,8 +27,7 @@
       <GUID>2145100109</GUID>
       <Text>Joaillière légendaire, elle incarne le raffinement et l'innovation dans l'art de la bijouterie et des montres de luxe. Sous son influence, les artisans ont perfectionné des techniques qui réduisent l'utilisation de matériaux tout en multipliant leur productivité.</Text>
     </Text>
-    <!-- End - Jeannine Toussaint -->
-    <!-- Start - Louis Baekeland -->
+    <!-- Louis Baekeland -->
     <Text>
       <GUID>2145100110</GUID>
       <Text>Louis Baekeland, chimiste de génie</Text>
@@ -39,8 +36,7 @@
       <GUID>2145100111</GUID>
       <Text>Inventeur visionnaire, il a révolutionné l'industrie chimique en créant le premier plastique synthétique. Son génie a ouvert la voie à une ère de matériaux innovants, transformant à jamais la fabrication industrielle. Les usines où il intervient voient leur efficacité décuplée et leurs coûts réduits, incarnant l'esprit du progrès technique.</Text>
     </Text>
-    <!-- End - Louis Baekeland -->
-    <!-- Start - Julien Moens -->
+    <!-- Julien Moens -->
     <Text>
       <GUID>2145100112</GUID>
       <Text>Julien Moens, le père de la philatélie</Text>
@@ -49,8 +45,7 @@
       <GUID>2145100113</GUID>
       <Text>Il a révolutionné les timbres, les élevant au rang de véritables trésors à collectionner. Grâce à lui, les bureaux de poste connaissent une prospérité sans précédent, augmentant leur efficacité.</Text>
     </Text>
-    <!-- End - Julien Moens -->
-    <!-- Start - Antonin Depage -->
+    <!-- Antonin Depage -->
     <Text>
       <GUID>2145100114</GUID>
       <Text>Antonin Depage, médecin humanitaire</Text>
@@ -59,8 +54,7 @@
       <GUID>2145100115</GUID>
       <Text>Médecin et humanitaire de renom, améliorant les soins de santé et dirigeant les secours en cas de catastrophe. Son expertise améliore la santé de vos citoyens et l'efficacité de vos hôpitaux.</Text>
     </Text>
-    <!-- End - Antonin Depage -->
-    <!-- Start - Marie-Jeanne Libert -->
+    <!-- Marie-Jeanne Libert -->
     <Text>
       <GUID>2145100116</GUID>
       <Text>Marie-Jeanne Libert, botaniste de renom</Text>
@@ -69,6 +63,14 @@
       <GUID>2145100117</GUID>
       <Text>Botaniste et naturaliste de renom, elle consacre son énergie à l'étude et à la préservation de la flore de vos îles. Son expertise inégalée ouvre de nouvelles opportunités pour vos jardins botaniques et le tourisme.</Text>
     </Text>
-    <!-- End - Marie-Jeanne Libert -->
+    <!-- Jan Nauheus -->
+    <Text>
+      <GUID>2145100118</GUID>
+      <Text>Jan Nauheus, maître chocolatier</Text>
+    </Text>
+    <Text>
+      <GUID>2145100119</GUID>
+      <Text>Véritable pionnier du chocolat, il a créé et perfectionné la praline, ravissant l'élite et révolutionnant la production de chocolat.</Text>
+    </Text>
   </ModOp>
 </ModOps>

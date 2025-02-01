@@ -1,6 +1,6 @@
 <ModOps>
   <ModOp Type="add" Path="/TextExport/Texts">
-    <!-- Start - Zenon Gramme -->
+    <!-- Zenon Gramme -->
     <Text>
       <GUID>2145100104</GUID>
       <Text>Zenon Gramme, architetto dell'energia moderna</Text>
@@ -9,8 +9,7 @@
       <GUID>2145100105</GUID>
       <Text>Figura chiave nel campo dell'energia. Le sue invenzioni hanno rivoluzionato i metodi di produzione industriale, fornendo alle fabbriche una maggiore efficienza energetica. Sempre all'avanguardia nell'innovazione, supporta le industrie nella loro transizione verso processi più efficienti.</Text>
     </Text>
-    <!-- End - Zenon Gramme -->
-    <!-- Start - Father Jozef -->
+    <!-- Father Jozef -->
     <Text>
       <GUID>2145100106</GUID>
       <Text>Padre Jozef, patrono degli abbandonati</Text>
@@ -19,8 +18,7 @@
       <GUID>2145100107</GUID>
       <Text>Noto per la sua instancabile dedizione ai dimenticati, ispira speranza e compassione, rafforzando il legame tra i residenti e migliorando la vita dei più vulnerabili.</Text>
     </Text>
-    <!-- End - Father Jozef -->
-    <!-- Start - Jeannine Toussaint -->
+    <!-- Jeannine Toussaint -->
     <Text>
       <GUID>2145100108</GUID>
       <Text>Jeannine Toussaint, artigiana del lusso</Text>
@@ -29,8 +27,7 @@
       <GUID>2145100109</GUID>
       <Text>Leggendaria gioielliera, incarna la raffinatezza e l'innovazione nell'arte della gioielleria e dell'orologeria di lusso. Sotto la sua influenza, gli artigiani hanno perfezionato tecniche che riducono al minimo l'uso di materiali aumentando significativamente la loro produttività.</Text>
     </Text>
-    <!-- End - Jeannine Toussaint -->
-    <!-- Start - Louis Baekeland -->
+    <!-- Louis Baekeland -->
     <Text>
       <GUID>2145100110</GUID>
       <Text>Louis Baekeland, geniale chimico</Text>
@@ -39,8 +36,7 @@
       <GUID>2145100111</GUID>
       <Text>Inventore visionario, Louis Baekeland ha rivoluzionato l'industria chimica creando la prima plastica sintetica. Il suo genio ha aperto la strada a un'era di materiali innovativi, trasformando per sempre la produzione industriale. Le fabbriche che influenza vedono la loro efficienza salire alle stelle e ridurre i costi, incarnando lo spirito del progresso tecnico.</Text>
     </Text>
-    <!-- End - Louis Baekeland -->
-    <!-- Start - Julien Moens -->
+    <!-- Julien Moens -->
     <Text>
       <GUID>2145100112</GUID>
       <Text>Julien Moens, il padre della filatelia</Text>
@@ -49,8 +45,7 @@
       <GUID>2145100113</GUID>
       <Text>Ha rivoluzionato i francobolli, elevandoli a veri e propri tesori per i collezionisti. Grazie alla sua influenza, gli uffici postali sperimentano una prosperità senza precedenti, aumentando la loro efficienza.</Text>
     </Text>
-    <!-- End - Julien Moens -->
-    <!-- Start - Antonin Depage -->
+    <!-- Antonin Depage -->
     <Text>
       <GUID>2145100114</GUID>
       <Text>Antonin Depage, medico umanitario</Text>
@@ -59,8 +54,7 @@
       <GUID>2145100115</GUID>
       <Text>Rinomato medico e umanitario, migliora l'assistenza sanitaria e guida gli sforzi di soccorso in caso di calamità. La sua esperienza migliora la salute dei tuoi cittadini e migliora l'efficienza dei tuoi ospedali.</Text>
     </Text>
-    <!-- End - Antonin Depage -->
-    <!-- Start - Marie-Jeanne Libert -->
+    <!-- Marie-Jeanne Libert -->
     <Text>
       <GUID>2145100116</GUID>
       <Text>Marie-Jeanne Libert, famosa botanica</Text>
@@ -69,6 +63,14 @@
       <GUID>2145100117</GUID>
       <Text>Rinomata botanica e naturalista, lavora instancabilmente per studiare e proteggere la flora delle vostre isole. La sua impareggiabile esperienza offre nuove opportunità per i tuoi giardini botanici e il turismo.</Text>
     </Text>
-    <!-- End - Marie-Jeanne Libert -->
+    <!-- Jan Nauheus -->
+    <Text>
+      <GUID>2145100118</GUID>
+      <Text>Jan Nauheus, maestro del cioccolato</Text>
+    </Text>
+    <Text>
+      <GUID>2145100119</GUID>
+      <Text>Vero e proprio pioniere della cioccolateria, ha creato e perfezionato le praline, deliziando l'élite e rivoluzionando la produzione di cioccolato.</Text>
+    </Text>
   </ModOp>
 </ModOps>
