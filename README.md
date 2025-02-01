@@ -8,5 +8,5 @@ This repository contains a collection of mods for Anno 1800.
 
 ## Mods
 
-- Additional tourist recipes (not published yet)
+- The Belgian recipes
 - The Belgian specialists pack
