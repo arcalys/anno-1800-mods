@@ -61,18 +61,18 @@
             </Item>
             <Item>
               <PosX>385</PosX>
-              <PosY>55</PosY>
+              <PosY>25</PosY>
               <UICirclePointer>SouthWest</UICirclePointer>
             </Item>
             <Item>
-              <PosX>25</PosX>
+              <PosX>35</PosX>
               <PosY>250</PosY>
               <UICirclePointer>East</UICirclePointer>
             </Item>
             <Item>
-              <PosX>385</PosX>
+              <PosX>370</PosX>
               <PosY>250</PosY>
-              <UICirclePointer>West</UICirclePointer>
+              <UICirclePointer>NorthWest</UICirclePointer>
             </Item>
           </RecipeIngredientUIData>
           <RecipeUnlockConditionText>0</RecipeUnlockConditionText>
