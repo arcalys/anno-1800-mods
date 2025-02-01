@@ -1,0 +1,22 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Smoked pork roast-->
+    <Text>
+      <GUID>2145100400</GUID>
+      <Text>Smoked pork roast</Text>
+    </Text>
+    <Text>
+      <GUID>2145100401</GUID>
+      <Text>A slow-smoked pork roast, infused with rich flavors. A hearty dish, enjoyed by both workers and gourmets alike.</Text>
+    </Text>
+    <!-- Pralines -->
+    <Text>
+      <GUID>2145100406</GUID>
+      <Text>Pralines</Text>
+    </Text>
+    <Text>
+      <GUID>2145100407</GUID>
+      <Text>Delicate chocolate bites with a smooth rum-infused ganache. A rich and refined treat.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

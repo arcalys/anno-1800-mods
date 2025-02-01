@@ -1,0 +1,22 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Smoked pork roast -->
+    <Text>
+      <GUID>2145100400</GUID>
+      <Text>Rôti de porc fumé</Text>
+    </Text>
+    <Text>
+      <GUID>2145100401</GUID>
+      <Text>Un rôti de porc fumé lentement au feu de bois, imprégné de saveurs riches. Un plat robuste, apprécié aussi bien des ouvriers que des gourmets.</Text>
+    </Text>
+    <!-- Pralines -->
+    <Text>
+      <GUID>2145100406</GUID>
+      <Text>Pralines</Text>
+    </Text>
+    <Text>
+      <GUID>2145100407</GUID>
+      <Text>De fines bouchées de chocolat fourrées d'une ganache onctueuse infusée au rhum. Une douceur exquise qui allie gourmandise et raffinement.</Text>
+    </Text>
+  </ModOp>
+</ModOps>
