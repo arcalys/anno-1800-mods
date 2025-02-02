@@ -1,0 +1,24 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2145100500</GUID>
+      <Text>Chicory</Text>
+    </Text>
+    <Text>
+      <GUID>2145100501</GUID>
+      <Text>TODO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100502</GUID>
+      <Text>Fertility (chicory)</Text>
+    </Text>
+    <Text>
+      <GUID>2145100503</GUID>
+      <Text>Chicory plantation</Text>
+    </Text>
+    <Text>
+      <GUID>2145100504</GUID>
+      <Text>Chicory field</Text>
+    </Text>
+  </ModOp>
+</ModOps>
