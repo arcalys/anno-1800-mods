@@ -1,24 +1,88 @@
 <ModOps>
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
-      <GUID>2145100500</GUID>
-      <Text>Chicorée</Text>
+      <GUID>2145100700</GUID>
+      <Text>Racine de chicorée</Text>
     </Text>
     <Text>
-      <GUID>2145100501</GUID>
+      <GUID>2145100701</GUID>
       <Text>TODO</Text>
     </Text>
     <Text>
-      <GUID>2145100502</GUID>
+      <GUID>2145100702</GUID>
+      <Text>Racine de chicorée torréfiée</Text>
+    </Text>
+    <Text>
+      <GUID>2145100703</GUID>
+      <Text>TODO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100704</GUID>
       <Text>Fertilité (chicorée)</Text>
     </Text>
     <Text>
-      <GUID>2145100503</GUID>
+      <GUID>2145100705</GUID>
       <Text>Plantation de chicorée</Text>
     </Text>
     <Text>
-      <GUID>2145100504</GUID>
+      <GUID>2145100706</GUID>
       <Text>Champ de chicorée</Text>
+    </Text>
+    <Text>
+      <GUID>2145100707</GUID>
+      <Text>Brûlerie de chicorée</Text>
+    </Text>
+    <Text>
+      <GUID>2145100708</GUID>
+      <Text>TODO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100709</GUID>
+      <Text>Fabrique de chicorée</Text>
+    </Text>
+    <Text>
+      <GUID>2145100710</GUID>
+      <Text>TODO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100711</GUID>
+      <Text>Chicorée</Text>
+    </Text>
+    <Text>
+      <GUID>2145100712</GUID>
+      <Text>TODO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100713</GUID>
+      <Text>Semences de chicorée</Text>
+    </Text>
+    <Text>
+      <GUID>2145100714</GUID>
+      <Text>Ces semences vous permettent de cultiver des champs de chicorée en terre étrangère.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100715</GUID>
+      <Text>Semences de chicorée supérieures</Text>
+    </Text>
+    <Text>
+      <GUID>2145100716</GUID>
+      <Text>Ces semences vous permettent de cultiver des champs de chicorée prospères en terre étrangère.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100717</GUID>
+      <Text>Semences de chicorée hybrides</Text>
+    </Text>
+    <Text>
+      <GUID>2145100718</GUID>
+      <Text>Ces semences ont été adaptées pour prospérer dans des sols variés avec un rendement en chicorée amélioré.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100719</GUID>
+      <Text>Super semences de chicorée</Text>
+    </Text>
+    <Text>
+      <GUID>2145100720</GUID>
+      <Text>Fertilité de chicorée fournie</Text>
     </Text>
   </ModOp>
 </ModOps>
