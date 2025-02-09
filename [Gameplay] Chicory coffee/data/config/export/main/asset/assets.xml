@@ -866,7 +866,7 @@
   <!-- ### TRIGGERS ### -->
   <Group>
     <!-- Unhide everything at 1 engineer -->
-    <ModOp Type="addNextSibling" GUID="130222" Path="/Values/Trigger/TriggerActions/Item/TriggerAction/Values/ActionUnlockAsset/UnhideAssets/Item[Asset='130126]">
+    <ModOp Type="addNextSibling" GUID="130222" Path="/Values/Trigger/TriggerActions/Item/TriggerAction/Values/ActionUnlockAsset/UnhideAssets/Item[Asset='130126']">
       <Item>
         <Asset>2145100911</Asset>
       </Item>
