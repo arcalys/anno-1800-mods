@@ -666,14 +666,20 @@
       </Asset>
     </ModOp>
 
-    <!-- <ModOp Type="add" GUID="6000018,193856,193875,190897" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+    <ModOp Type="add" GUID="25599,193856,193875,6000018" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
       <Item>
         <GUID>2145100907</GUID>
       </Item>
       <Item>
         <GUID>2145100909</GUID>
       </Item>
-    </ModOp> -->
+    </ModOp>
+
+    <ModOp Type="add" GUID="193778" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+      <Item>
+        <GUID>2145100909</GUID>
+      </Item>
+    </ModOp>
   </Group>
 
   <!-- ### PRODUCTION CHAIN ###-->
