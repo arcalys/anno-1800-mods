@@ -374,7 +374,7 @@
       </Asset>
     </ModOp>
 
-    <!-- Farm field -->
+    <!-- Farm fields -->
     <ModOp Type="addNextSibling" GUID="100657">
       <Asset>
         <Template>Farmfield</Template>
@@ -455,8 +455,9 @@
     </ModOp>
   </Group>
 
-  <!-- Factory buildings -->
+  <!-- ### FACTORY BUILDINGS ### -->
   <Group>
+    <!-- Chicory roastery -->
     <ModOp Type="addNextSibling" GUID="1010343">
       <Asset>
         <Template>FactoryBuilding7</Template>
@@ -563,6 +564,7 @@
       </Asset>
     </ModOp>
 
+    <!-- Chicory coffee factory -->
     <ModOp Type="addNextSibling" GUID="1010343">
       <Asset>
         <Template>FactoryBuilding7</Template>
@@ -674,8 +676,9 @@
     </ModOp> -->
   </Group>
 
-  <!-- Production chain -->
+  <!-- ### PRODUCTION CHAIN ###-->
   <Group>
+    <!-- Chicory coffee -->
     <ModOp Type="addNextSibling" GUID="500091">
       <Asset>
         <Template>ProductionChain</Template>
@@ -716,6 +719,7 @@
       </Asset>
     </ModOp>
 
+    <!-- Replace coffee production chain in the menus -->
     <ModOp Type="replace" GUID="25000192" Path="/Values/ConstructionCategory/BuildingList/Item[Building='500902']">
       <Item>
         <Building>2145100911</Building>
