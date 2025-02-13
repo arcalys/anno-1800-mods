@@ -1,0 +1,48 @@
+{
+    "Version": "0.1.0",
+    "ModID": "belgian_brew",
+    "IncompatibleIds": [],
+    "ModDependencies": [],
+    "Category": {
+      "Chinese": "Gameplay",
+      "English": "Gameplay",
+      "French": "Gameplay",
+      "German": "Gameplay",
+      "Italian": "Gameplay",
+      "Korean": "Gameplay",
+      "Polish": "Gameplay",
+      "Russian": "Gameplay",
+      "Spanish": "Gameplay",
+      "Taiwanese": "Gameplay"
+    },
+    "ModName": {
+      "Chinese": "The Belgian brew",
+      "English": "The Belgian brew",
+      "French": "The Belgian brew",
+      "German": "The Belgian brew",
+      "Italian": "The Belgian brew",
+      "Korean": "The Belgian brew",
+      "Polish": "The Belgian brew",
+      "Russian": "The Belgian brew",
+      "Spanish": "The Belgian brew",
+      "Taiwanese": "The Belgian brew"
+    },
+    "Description": {
+      "Chinese": "file::README.md",
+      "English": "file::README.md",
+      "French": "file::README.md",
+      "German": "file::README.md",
+      "Italian": "file::README.md",
+      "Korean": "file::README.md",
+      "Polish": "file::README.md",
+      "Russian": "file::README.md",
+      "Spanish": "file::README.md",
+      "Taiwanese": "file::README.md"
+    },
+    "KnownIssues": null,
+    "DLCDependencies": [],
+    "LoadAfterIds": [],
+    "CreatorName": "arcalys,chocolinanes",
+    "CreatorContact": "https://github.com/arcalys",
+    "Image": ""
+  }
