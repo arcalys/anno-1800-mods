@@ -8,12 +8,12 @@
         <Standard>
           <GUID>2145100400</GUID>
           <Name>recipe_smoked_pork_roast</Name>
-          <IconFilename>data/graphics/ui/icons/smoked_pork_roast.png</IconFilename>
+          <IconFilename>data/graphics/icons/smoked_pork_roast.png</IconFilename>
         </Standard>
         <Recipe>
           <RecipeBuilding>2145100402</RecipeBuilding>
           <RecipeDescriptionText>2145100401</RecipeDescriptionText>
-          <RecipeImage>data/graphics/ui/recipebook/smoked_pork_roast_sketch.png</RecipeImage>
+          <RecipeImage>data/graphics/recipebook/smoked_pork_roast_sketch.png</RecipeImage>
           <RecipeIngredientUIData>
             <Item>
               <PosX>5</PosX>
@@ -47,12 +47,12 @@
         <Standard>
           <GUID>2145100406</GUID>
           <Name>recipe_pralines</Name>
-          <IconFilename>data/graphics/ui/icons/pralines.png</IconFilename>
+          <IconFilename>data/graphics/icons/pralines.png</IconFilename>
         </Standard>
         <Recipe>
           <RecipeBuilding>2145100408</RecipeBuilding>
           <RecipeDescriptionText>2145100407</RecipeDescriptionText>
-          <RecipeImage>data/graphics/ui/recipebook/pralines_sketch.png</RecipeImage>
+          <RecipeImage>data/graphics/recipebook/pralines_sketch.png</RecipeImage>
           <RecipeIngredientUIData>
             <Item>
               <PosX>5</PosX>
@@ -93,7 +93,7 @@
         <Standard>
           <GUID>2145100402</GUID>
           <Name>restaurant_smoked_pork_roast</Name>
-          <IconFilename>data/graphics/ui/icons/smoked_pork_roast.png</IconFilename>
+          <IconFilename>data/graphics/icons/smoked_pork_roast.png</IconFilename>
         </Standard>
         <FactoryBase>
           <FactoryInputs>
@@ -151,7 +151,7 @@
         <Standard>
           <GUID>2145100408</GUID>
           <Name>cafe_pralines</Name>
-          <IconFilename>data/graphics/ui/icons/pralines.png</IconFilename>
+          <IconFilename>data/graphics/icons/pralines.png</IconFilename>
         </Standard>
         <FactoryBase>
           <FactoryInputs>
@@ -214,7 +214,7 @@
         <Standard>
           <GUID>2145100403</GUID>
           <Name>buff_smoked_pork_roast_30</Name>
-          <IconFilename>data/graphics/ui/icons/smoked_pork_roast.png</IconFilename>
+          <IconFilename>data/graphics/icons/smoked_pork_roast.png</IconFilename>
         </Standard>
         <Text>
           <TextOverride>2145100400</TextOverride>
@@ -252,7 +252,7 @@
         <Standard>
           <GUID>2145100404</GUID>
           <Name>buff_smoked_pork_roast_70</Name>
-          <IconFilename>data/graphics/ui/icons/smoked_pork_roast.png</IconFilename>
+          <IconFilename>data/graphics/icons/smoked_pork_roast.png</IconFilename>
         </Standard>
         <Text>
           <TextOverride>2145100400</TextOverride>
@@ -290,7 +290,7 @@
         <Standard>
           <GUID>2145100405</GUID>
           <Name>buff_smoked_pork_roast_100</Name>
-          <IconFilename>data/graphics/ui/icons/smoked_pork_roast.png</IconFilename>
+          <IconFilename>data/graphics/icons/smoked_pork_roast.png</IconFilename>
         </Standard>
         <Text>
           <TextOverride>2145100400</TextOverride>
@@ -331,7 +331,7 @@
         <Standard>
           <GUID>2145100409</GUID>
           <Name>buff_pralines_30</Name>
-          <IconFilename>data/graphics/ui/icons/pralines.png</IconFilename>
+          <IconFilename>data/graphics/icons/pralines.png</IconFilename>
         </Standard>
         <Text>
           <TextOverride>2145100406</TextOverride>
@@ -369,7 +369,7 @@
         <Standard>
           <GUID>2145100410</GUID>
           <Name>buff_pralines_70</Name>
-          <IconFilename>data/graphics/ui/icons/pralines.png</IconFilename>
+          <IconFilename>data/graphics/icons/pralines.png</IconFilename>
         </Standard>
         <Text>
           <TextOverride>2145100406</TextOverride>
@@ -407,7 +407,7 @@
         <Standard>
           <GUID>2145100411</GUID>
           <Name>buff_pralines_100</Name>
-          <IconFilename>data/graphics/ui/icons/pralines.png</IconFilename>
+          <IconFilename>data/graphics/icons/pralines.png</IconFilename>
         </Standard>
         <Text>
           <TextOverride>2145100406</TextOverride>
