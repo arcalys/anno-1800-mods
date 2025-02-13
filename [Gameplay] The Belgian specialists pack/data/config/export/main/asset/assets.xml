@@ -177,7 +177,7 @@
         <Standard>
           <GUID>2145100104</GUID>
           <Name>Zenon Gramme, architect of modern energy</Name>
-          <IconFilename>data/graphics/ui/icons/zenon_gramme.png</IconFilename>
+          <IconFilename>data/graphics/icons/zenon_gramme.png</IconFilename>
           <InfoDescription>2145100105</InfoDescription>
         </Standard>
         <Text />
@@ -251,7 +251,7 @@
         <Standard>
           <GUID>2145100106</GUID>
           <Name>Father Jozef, patron saint of the forsaken</Name>
-          <IconFilename>data/graphics/ui/icons/father_jozef.png</IconFilename>
+          <IconFilename>data/graphics/icons/father_jozef.png</IconFilename>
           <InfoDescription>2145100107</InfoDescription>
         </Standard>
         <Text />
@@ -318,7 +318,7 @@
         <Standard>
           <GUID>2145100108</GUID>
           <Name>Jeannine Toussaint, artisan of luxury</Name>
-          <IconFilename>data/graphics/ui/icons/jeannine_toussaint.png</IconFilename>
+          <IconFilename>data/graphics/icons/jeannine_toussaint.png</IconFilename>
           <InfoDescription>2145100109</InfoDescription>
         </Standard>
         <Text />
@@ -394,7 +394,7 @@
         <Standard>
           <GUID>2145100110</GUID>
           <Name>Louis Baekeland, genius chemist</Name>
-          <IconFilename>data/graphics/ui/icons/louis_baekeland.png</IconFilename>
+          <IconFilename>data/graphics/icons/louis_baekeland.png</IconFilename>
           <InfoDescription>2145100111</InfoDescription>
         </Standard>
         <Text />
@@ -470,7 +470,7 @@
         <Standard>
           <GUID>2145100112</GUID>
           <Name>Julien Moens, the father of philately</Name>
-          <IconFilename>data/graphics/ui/icons/julien_moens.png</IconFilename>
+          <IconFilename>data/graphics/icons/julien_moens.png</IconFilename>
           <InfoDescription>2145100113</InfoDescription>
         </Standard>
         <Text />
@@ -540,7 +540,7 @@
         <Standard>
           <GUID>2145100114</GUID>
           <Name>Antonin Depage, humanitarian doctor</Name>
-          <IconFilename>data/graphics/ui/icons/antonin_depage.png</IconFilename>
+          <IconFilename>data/graphics/icons/antonin_depage.png</IconFilename>
           <InfoDescription>2145100115</InfoDescription>
         </Standard>
         <Text />
@@ -602,7 +602,7 @@
         <Standard>
           <GUID>2145100116</GUID>
           <Name>Marie-Jeanne Libert, renowned botanist</Name>
-          <IconFilename>data/graphics/ui/icons/marie_jeanne_libert.png</IconFilename>
+          <IconFilename>data/graphics/icons/marie_jeanne_libert.png</IconFilename>
           <InfoDescription>2145100117</InfoDescription>
         </Standard>
         <Text />
@@ -663,7 +663,7 @@
         <Standard>
           <GUID>2145100118</GUID>
           <Name>Jan Nauheus, master of chocolate</Name>
-          <IconFilename>data/graphics/ui/icons/jan_nauheus.png</IconFilename>
+          <IconFilename>data/graphics/icons/jan_nauheus.png</IconFilename>
           <InfoDescription>2145100119</InfoDescription>
         </Standard>
         <Text />
