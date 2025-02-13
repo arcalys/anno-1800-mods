@@ -2,7 +2,7 @@
 
 Bring a taste of Belgium to your Anno 1800 experience! This mod introduces a range of Belgian-inspired recipes for tourist buildings.
 
-Please note that this is still a work in progress, and these recipes may be altered until the mod reaches version 1.0.
+Please note that this is still a work in progress, and this mod may be altered until it reaches version 1.0.
 
 ## Contents
 ### Cafe recipes

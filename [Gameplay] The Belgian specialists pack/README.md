@@ -2,7 +2,7 @@
 
 Bring a taste of Belgium to your Anno 1800 experience! This mod introduces a range of Belgian-inspired new specialists.
 
-Please note that this is still a work in progress, and these specialists may be altered until the mod reaches version 1.0.
+Please note that this is still a work in progress, and this mod may be altered until it reaches version 1.0.
 
 ## Contents
 ### Legendary specialists
@@ -19,8 +19,8 @@ Please note that this is still a work in progress, and these specialists may be 
 
 ## Used GUIDs
 This mod uses the following GUIDs:
-- **2145100100:** trigger to unhide and unlock rare specialists
-- **2145100101:** trigger to unhide and unlock epic specialists
+- **2145100100:** trigger to unlock rare specialists
+- **2145100101:** trigger to unlock epic specialists
 - **2145100102:** trigger to unhide legendary specialists at 1 engineer
 - **2145100103:** trigger to unlock legendary specialists at 1000 engineers
 - **2145100104-2145100105:** Zenon Gramme, architect of modern energy, legendary guildhouse specialist
