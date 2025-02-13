@@ -8,6 +8,6 @@ This repository contains a collection of mods for Anno 1800.
 
 ## Mods
 
-- Chicory coffee
-- The Belgian recipes
-- The Belgian specialists pack
+- Chicory coffee (in progress)
+- The Belgian recipes (in progress)
+- The Belgian specialists pack (released)
