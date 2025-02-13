@@ -6,7 +6,7 @@
       <Values>
         <Standard>
           <GUID>2145100101</GUID>
-          <Name>Unhide and unlock epic specialists</Name>
+          <Name>Unlock epic specialists</Name>
         </Standard>
         <Trigger>
           <TriggerCondition>
@@ -27,17 +27,6 @@
                 <Values>
                   <Action />
                   <ActionUnlockAsset>
-                    <UnhideAssets>
-                      <Item>
-                        <Asset>2145100112</Asset>
-                      </Item>
-                      <Item>
-                        <Asset>2145100114</Asset>
-                      </Item>
-                      <Item>
-                        <Asset>2145100116</Asset>
-                      </Item>
-                    </UnhideAssets>
                     <UnlockAssets>
                       <Item>
                         <Asset>2145100112</Asset>
@@ -49,60 +38,6 @@
                         <Asset>2145100116</Asset>
                       </Item>
                     </UnlockAssets>
-                  </ActionUnlockAsset>
-                </Values>
-              </TriggerAction>
-            </Item>
-          </TriggerActions>
-        </Trigger>
-        <TriggerSetup />
-      </Values>
-    </Asset>
-  </ModOp>
-  <ModOp Type="addnextSibling" GUID="130248">
-    <Asset>
-      <Template>Trigger</Template>
-      <Values>
-        <Standard>
-          <GUID>2145100102</GUID>
-          <Name>Unhide legendary specialists</Name>
-        </Standard>
-        <Trigger>
-          <TriggerCondition>
-            <Template>ConditionPlayerCounter</Template>
-            <Values>
-              <Condition />
-              <ConditionPlayerCounter>
-                <PlayerCounter>PopulationByLevel</PlayerCounter>
-                <Context>15000003</Context>
-                <CounterAmount>1</CounterAmount>
-              </ConditionPlayerCounter>
-            </Values>
-          </TriggerCondition>
-          <TriggerActions>
-            <Item>
-              <TriggerAction>
-                <Template>ActionUnlockAsset</Template>
-                <Values>
-                  <Action />
-                  <ActionUnlockAsset>
-                    <UnhideAssets>
-                      <Item>
-                        <Asset>2145100104</Asset>
-                      </Item>
-                      <Item>
-                        <Asset>2145100106</Asset>
-                      </Item>
-                      <Item>
-                        <Asset>2145100108</Asset>
-                      </Item>
-                      <Item>
-                        <Asset>2145100110</Asset>
-                      </Item>
-                      <Item>
-                        <Asset>2145100118</Asset>
-                      </Item>
-                    </UnhideAssets>
                   </ActionUnlockAsset>
                 </Values>
               </TriggerAction>
@@ -723,6 +658,78 @@
     </Asset>
   </ModOp>
 
+  <!-- Rudolphe Queletet-->
+  <ModOp Type="addNextSibling" GUID="190193">
+    <Asset>
+      <Template>TownhallItem</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100120</GUID>
+          <Name>Rudolphe Queletet, architect of statistics</Name>
+          <IconFilename>data/graphics/icons/rudolphe_queletet.png</IconFilename>
+          <InfoDescription>2145100121</InfoDescription>
+        </Standard>
+        <Text />
+        <Item>
+          <MaxStackSize>1</MaxStackSize>
+          <Rarity>Legendary</Rarity>
+          <ItemType>Specialist</ItemType>
+          <Allocation>TownHall</Allocation>
+          <TradePrice>1250000</TradePrice>
+          <TradePriceOnlineCurrency>1250000</TradePriceOnlineCurrency>
+        </Item>
+        <ItemEffect>
+          <EffectTargets>
+            <Item>
+              <GUID>190775</GUID>
+            </Item>
+            <Item>
+              <GUID>190776</GUID>
+            </Item>
+            <Item>
+              <GUID>190777</GUID>
+            </Item>
+          </EffectTargets>
+        </ItemEffect>
+        <BuildingUpgrade>
+          <MaintenanceUpgrade>
+            <Value>-50</Value>
+            <Percental>1</Percental>
+          </MaintenanceUpgrade>
+          <ResolverUnitCountUpgrade>
+            <Value>1</Value>
+          </ResolverUnitCountUpgrade>
+          <ResolverUnitDecreaseUpgrade>
+            <Value>50</Value>
+            <Percental>1</Percental>
+          </ResolverUnitDecreaseUpgrade>
+          <ResolverUnitMovementSpeedUpgrade>
+            <Value>50</Value>
+            <Percental>1</Percental>
+          </ResolverUnitMovementSpeedUpgrade>
+        </BuildingUpgrade>
+        <ExpeditionAttribute>
+          <BaseMorale>10</BaseMorale>
+          <ExpeditionAttributes>
+            <Item>
+              <Attribute>PerkHypnotist</Attribute>
+              <Amount>1</Amount>
+            </Item>
+            <Item>
+              <Attribute>PerkMale</Attribute>
+              <Amount>1</Amount>
+            </Item>
+            <Item>
+              <Attribute>Diplomacy</Attribute>
+              <Amount>50</Amount>
+            </Item>
+          </ExpeditionAttributes>
+          <ItemDifficulties>Hard</ItemDifficulties>
+        </ExpeditionAttribute>
+      </Values>
+    </Asset>
+  </ModOp>
+
   <!-- ### REWARD POOLS ### -->
   <ModOp Type="add" GUID="192732,193074,193079,193234" Path="/Values/RewardPool/ItemsPool">
     <Item>
@@ -746,6 +753,9 @@
   <ModOp Type="add" GUID="192742,193079" Path="/Values/RewardPool/ItemsPool">
     <Item>
       <ItemLink>2145100106</ItemLink>
+    </Item>
+    <Item>
+      <ItemLink>2145100120</ItemLink>
     </Item>
   </ModOp>
   <ModOp GUID="192848" Type="add" Path="/Values/RewardPool/ItemsPool">

@@ -72,5 +72,14 @@
       <GUID>2145100119</GUID>
       <Text>Véritable pionnier du chocolat, il a créé et perfectionné la praline, ravissant l'élite et révolutionnant la production de chocolat.</Text>
     </Text>
+    <!-- Rudolphe Queletet -->
+    <Text>
+      <GUID>2145100120</GUID>
+      <Text>Rudolphe Queletet, le pionnier des statistiques</Text>
+    </Text>
+    <Text>
+      <GUID>2145100121</GUID>
+      <Text>Pionnier des statistiques et des sciences sociales, il améliore la productivité et l'efficacité des services publics en optimisant la gestion de la main-d'œuvre et la planification économique.</Text>
+    </Text>
   </ModOp>
 </ModOps>

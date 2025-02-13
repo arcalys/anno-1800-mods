@@ -72,5 +72,14 @@
       <GUID>2145100119</GUID>
       <Text>A true pioneer in chocolate-making, he created and perfected pralines, delighting the elite and revolutionizing chocolate production.</Text>
     </Text>
+    <!-- Rudolphe Queletet -->
+    <Text>
+      <GUID>2145100120</GUID>
+      <Text>Rudolphe Queletet, architect of statistics</Text>
+    </Text>
+    <Text>
+      <GUID>2145100121</GUID>
+      <Text>A pioneering statistician and social scientist, he improves productivity and efficiency across all public services, optimizing workforce management and economic planning.</Text>
+    </Text>
   </ModOp>
 </ModOps>

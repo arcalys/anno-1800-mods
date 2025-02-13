@@ -72,5 +72,16 @@
       <GUID>2145100119</GUID>
       <Text>초콜릿 제조의 진정한 선구자인 그는 프랄린을 만들고 완성하여 엘리트층을 기쁘게 하고 초콜릿 생산에 혁명을 일으켰습니다.</Text>
     </Text>
+    <!-- Rudolphe Queletet -->
+    <Text>
+      <!-- TODO translation -->
+      <GUID>2145100120</GUID>
+      <Text>Rudolphe Queletet, architect of statistics</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>2145100121</GUID>
+      <Text>A pioneering statistician and social scientist, he improves productivity and efficiency across all public services, optimizing workforce management and economic planning.</Text>
+    </Text>
   </ModOp>
 </ModOps>
