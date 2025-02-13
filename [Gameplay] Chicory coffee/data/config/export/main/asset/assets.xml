@@ -206,7 +206,7 @@
           <Object>
             <Variations>
               <Item>
-                <Filename>data/graphics/buildings/production/agriculture_10/agriculture_10.cfg</Filename>
+                <Filename>data/graphics/buildings/chicory_plantation/chicory_plantation.cfg</Filename>
               </Item>
             </Variations>
             <Skins>
@@ -402,25 +402,34 @@
           <Object>
             <Variations>
               <Item>
-                <Filename>data/graphics/buildings/production/agriculture_10/agriculture_10_field_01.cfg</Filename>
+                <Filename>data/graphics/buildings/chicory_plantation/chicory_plantation_field_01.cfg</Filename>
               </Item>
               <Item>
-                <Filename>data/graphics/buildings/production/agriculture_10/agriculture_10_field_02.cfg</Filename>
+                <Filename>data/graphics/buildings/chicory_plantation/chicory_plantation_field_02.cfg</Filename>
               </Item>
               <Item>
-                <Filename>data/graphics/buildings/production/agriculture_10/agriculture_10_field_03.cfg</Filename>
+                <Filename>data/graphics/buildings/chicory_plantation/chicory_plantation_field_03.cfg</Filename>
               </Item>
               <Item>
-                <Filename>data/graphics/buildings/production/agriculture_10/agriculture_10_field_04.cfg</Filename>
+                <Filename>data/graphics/buildings/chicory_plantation/chicory_plantation_field_04.cfg</Filename>
               </Item>
               <Item>
-                <Filename>data/graphics/buildings/production/agriculture_10/agriculture_10_field_05.cfg</Filename>
+                <Filename>data/graphics/buildings/chicory_plantation/chicory_plantation_field_05.cfg</Filename>
               </Item>
               <Item>
-                <Filename>data/graphics/buildings/production/agriculture_10/agriculture_10_field_06.cfg</Filename>
+                <Filename>data/graphics/buildings/chicory_plantation/chicory_plantation_field_06.cfg</Filename>
               </Item>
               <Item>
-                <Filename>data/graphics/buildings/production/agriculture_10/agriculture_10_field_07.cfg</Filename>
+                <Filename>data/graphics/buildings/chicory_plantation/chicory_plantation_field_07.cfg</Filename>
+              </Item>
+              <Item>
+                <Filename>data/graphics/buildings/chicory_plantation/chicory_plantation_field_08.cfg</Filename>
+              </Item>
+              <Item>
+                <Filename>data/graphics/buildings/chicory_plantation/chicory_plantation_field_09.cfg</Filename>
+              </Item>
+              <Item>
+                <Filename>data/graphics/buildings/chicory_plantation/chicory_plantation_field_10.cfg</Filename>
               </Item>
             </Variations>
             <Skins>
@@ -602,7 +611,7 @@
           <Object>
             <Variations>
               <Item>
-                <Filename>data/graphics/buildings/production/food_colony01_03/food_colony01_03.cfg</Filename>
+                <Filename>data/graphics/buildings/chicory_coffee_factory/chicory_coffee_factory.cfg</Filename>
               </Item>
             </Variations>
           </Object>
