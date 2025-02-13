@@ -1,5 +1,5 @@
 {
-    "Version": "0.5.0",
+    "Version": "1.0.0",
     "ModID": "belgian_specialists_pack",
     "IncompatibleIds": [],
     "ModDependencies": [],
@@ -18,7 +18,7 @@
     "ModName": {
       "Chinese": "The Belgian specialists pack",
       "English": "The Belgian specialists pack",
-      "French": "Le pack de spécialistes belges",
+      "French": "The Belgian specialists pack",
       "German": "The Belgian specialists pack",
       "Italian": "The Belgian specialists pack",
       "Korean": "The Belgian specialists pack",
