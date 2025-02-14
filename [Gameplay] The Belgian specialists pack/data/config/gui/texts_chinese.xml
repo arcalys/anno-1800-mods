@@ -74,14 +74,12 @@
     </Text>
     <!-- Rudolphe Queletet -->
     <Text>
-      <!-- TODO translation -->
       <GUID>2145100120</GUID>
-      <Text>Rudolphe Queletet, architect of statistics</Text>
+      <Text>Rudolphe Queletet，统计架构师</Text>
     </Text>
     <Text>
-      <!-- TODO translation -->
       <GUID>2145100121</GUID>
-      <Text>A pioneering statistician and social scientist, he improves productivity and efficiency across all public services, optimizing workforce management and economic planning.</Text>
+      <Text>作为开创性的统计学家和社会科学家，他提高了所有公共服务的生产力和效率，优化了劳动力管理和经济规划。</Text>
     </Text>
   </ModOp>
 </ModOps>
