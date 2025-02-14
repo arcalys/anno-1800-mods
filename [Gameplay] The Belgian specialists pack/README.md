@@ -10,13 +10,13 @@ Please note that this is still a work in progress, and this mod may be altered u
 - Jan Nauheus (inspired by `Jean Neuhaus`).
 - Jeannine Toussaint (inspired by `Jeanne Toussaint`).
 - Louis Baekeland (inspired by `Léo Baekeland`).
+- Rudolphe Queletet (inspired by `Adolphe Quetelet`).
 - Zenon Gramme (inspired by `Zénobe Gramme`).
 
 ### Epic specialists
 - Antonin Depage (inspired by `Antoine Depage`).
 - Julien Moens (inspired by `Jean-Baptiste Moens`).
 - Marie-Jeanne Libert (inspired by `Marie-Anne Libert`).
-- Rudolphe Queletet (inspired by `Adolphe Quetelet`).
 
 ## Used GUIDs
 This mod uses the following GUIDs:
