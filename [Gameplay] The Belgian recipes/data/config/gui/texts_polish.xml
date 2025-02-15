@@ -1,0 +1,31 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Smoked pork roast-->
+    <Text>
+      <GUID>2145100400</GUID>
+      <Text>Pieczeń wieprzowa wędzona</Text>
+    </Text>
+    <Text>
+      <GUID>2145100401</GUID>
+      <Text>Wolno wędzona pieczeń wieprzowa, nasycona bogatymi smakami. Obfite danie, które smakuje zarówno pracownikom, jak i smakoszom.</Text>
+    </Text>
+    <!-- Pralines -->
+    <Text>
+      <GUID>2145100406</GUID>
+      <Text>Praliny</Text>
+    </Text>
+    <Text>
+      <GUID>2145100407</GUID>
+      <Text>Delikatna czekolada przegryza się gładkim ganache z dodatkiem rumu. Bogata i wyrafinowana uczta.</Text>
+    </Text>
+    <!-- Liège waffles -->
+    <Text>
+      <GUID>2145100412</GUID>
+      <Text>Wafle korkowe</Text>
+    </Text>
+    <Text>
+      <GUID>2145100413</GUID>
+      <Text>Grube i karmelizowane gofry z rozpływającymi się perełkami cukru i zachwycającym aromatem. Prawdziwy skarb smakoszy, chrupiący na zewnątrz i miękki w środku.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

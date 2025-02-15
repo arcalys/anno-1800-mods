@@ -1,0 +1,31 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Smoked pork roast-->
+    <Text>
+      <GUID>2145100400</GUID>
+      <Text>Geräucherter Schweinebraten</Text>
+    </Text>
+    <Text>
+      <GUID>2145100401</GUID>
+      <Text>Ein langsam geräucherter Schweinebraten, der mit reichhaltigen Aromen angereichert ist. Ein herzhaftes Gericht, das sowohl von Arbeitern als auch von Feinschmeckern genossen wird.</Text>
+    </Text>
+    <!-- Pralines -->
+    <Text>
+      <GUID>2145100406</GUID>
+      <Text>Pralinen</Text>
+    </Text>
+    <Text>
+      <GUID>2145100407</GUID>
+      <Text>Zarte Schokoladenstücke mit einer glatten, mit Rum angereicherten Ganache. Ein reichhaltiger und raffinierter Genuss.</Text>
+    </Text>
+    <!-- Liège waffles -->
+    <Text>
+      <GUID>2145100412</GUID>
+      <Text>Kork-Waffeln</Text>
+    </Text>
+    <Text>
+      <GUID>2145100413</GUID>
+      <Text>Dicke und karamellisierte Waffeln mit schmelzenden Zuckerperlen und einem herrlichen Aroma. Ein wahrer Gourmet-Schatz, außen knusprig und innen weich.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

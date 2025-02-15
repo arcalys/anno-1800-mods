@@ -1,0 +1,31 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Smoked pork roast-->
+    <Text>
+      <GUID>2145100400</GUID>
+      <Text>·熏豬肉烤</Text>
+    </Text>
+    <Text>
+      <GUID>2145100401</GUID>
+      <Text>慢熏烤豬肉，風味濃郁。這道豐盛的菜餚，上班族和美食家都喜歡。</Text>
+    </Text>
+    <!-- Pralines -->
+    <Text>
+      <GUID>2145100406</GUID>
+      <Text>果仁糖</Text>
+    </Text>
+    <Text>
+      <GUID>2145100407</GUID>
+      <Text>精緻的巧克力小吃帶有光滑的朗姆酒甘納許。濃郁而精緻的款待。</Text>
+    </Text>
+    <!-- Liège waffles -->
+    <Text>
+      <GUID>2145100412</GUID>
+      <Text>軟木華夫餅</Text>
+    </Text>
+    <Text>
+      <GUID>2145100413</GUID>
+      <Text>厚實的焦糖華夫餅，帶有融化的糖珠和令人愉悅的香氣。真正的美食寶藏，外酥裡軟。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

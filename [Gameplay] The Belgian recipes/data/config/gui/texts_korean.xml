@@ -1,0 +1,31 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Smoked pork roast-->
+    <Text>
+      <GUID>2145100400</GUID>
+      <Text>훈제 돼지 고기 구이</Text>
+    </Text>
+    <Text>
+      <GUID>2145100401</GUID>
+      <Text>천천히 훈제한 돼지고기 구이로, 풍부한 풍미가 가미됩니다. 직장인도 미식가도 즐길 수 있는 푸짐한 요리입니다.</Text>
+    </Text>
+    <!-- Pralines -->
+    <Text>
+      <GUID>2145100406</GUID>
+      <Text>프랄린</Text>
+    </Text>
+    <Text>
+      <GUID>2145100407</GUID>
+      <Text>부드러운 럼주가 들어간 가나슈를 곁들인 섬세한 초콜릿 한입. 풍부하고 세련된 간식입니다.</Text>
+    </Text>
+    <!-- Liège waffles -->
+    <Text>
+      <GUID>2145100412</GUID>
+      <Text>코르크 와플</Text>
+    </Text>
+    <Text>
+      <GUID>2145100413</GUID>
+      <Text>두껍고 캐러멜 처리 된 와플에 녹는 설탕 진주와 기분 좋은 향기. 겉은 바삭하고 속은 부드러운 진정한 미식가의 보물입니다.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,31 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Smoked pork roast-->
+    <Text>
+      <GUID>2145100400</GUID>
+      <Text>Arrosto di maiale affumicato</Text>
+    </Text>
+    <Text>
+      <GUID>2145100401</GUID>
+      <Text>Un arrosto di maiale affumicato lentamente, infuso di sapori ricchi. Un piatto sostanzioso, apprezzato sia dai lavoratori che dai buongustai.</Text>
+    </Text>
+    <!-- Pralines -->
+    <Text>
+      <GUID>2145100406</GUID>
+      <Text>Praline</Text>
+    </Text>
+    <Text>
+      <GUID>2145100407</GUID>
+      <Text>Delicati bocconcini di cioccolato con una morbida ganache al rum. Una delizia ricca e raffinata.</Text>
+    </Text>
+    <!-- Liège waffles -->
+    <Text>
+      <GUID>2145100412</GUID>
+      <Text>Cialde di sughero</Text>
+    </Text>
+    <Text>
+      <GUID>2145100413</GUID>
+      <Text>Cialde dense e caramellate con perle di zucchero che si sciolgono e un aroma delizioso. Un vero tesoro gourmet, croccante fuori e morbido dentro.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,31 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Smoked pork roast-->
+    <!-- Pralines -->
+    <!-- Liège waffles -->
+    <Text>
+      <GUID>2145100400</GUID>
+      <Text>Asado de cerdo ahumado</Text>
+    </Text>
+    <Text>
+      <GUID>2145100401</GUID>
+      <Text>Un asado de cerdo ahumado a fuego lento, infundido con ricos sabores. Un plato contundente, disfrutado tanto por los trabajadores como por los gourmets.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100406</GUID>
+      <Text>Pralines</Text>
+    </Text>
+    <Text>
+      <GUID>2145100407</GUID>
+      <Text>Delicados bocados de chocolate con una suave ganache con infusión de ron. Una delicia rica y refinada.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100412</GUID>
+      <Text>Gofres de corcho</Text>
+    </Text>
+    <Text>
+      <GUID>2145100413</GUID>
+      <Text>Gofres espesos y caramelizados con perlas de azúcar derretidas y un aroma delicioso. Un verdadero tesoro gourmet, crujiente por fuera y suave por dentro.</Text>
+    </Text>
+  </ModOp>
+</ModOps>
