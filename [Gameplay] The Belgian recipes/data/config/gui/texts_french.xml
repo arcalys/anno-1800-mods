@@ -18,5 +18,14 @@
       <GUID>2145100407</GUID>
       <Text>De fines bouchées de chocolat fourrées d'une ganache onctueuse infusée au rhum. Une douceur exquise qui allie gourmandise et raffinement.</Text>
     </Text>
+    <!-- Liège waffles -->
+    <Text>
+      <GUID>2145100412</GUID>
+      <Text>Gaufres de Liège</Text>
+    </Text>
+    <Text>
+      <GUID>2145100413</GUID>
+      <Text>Des gaufres épaisses et caramélisées, aux perles de sucre fondantes et au parfum envoûtant. Un véritable trésor gourmand, croustillant à l'extérieur et moelleux à l'intérieur.</Text>
+    </Text>
   </ModOp>
 </ModOps>

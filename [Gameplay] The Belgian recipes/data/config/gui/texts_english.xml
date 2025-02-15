@@ -18,5 +18,14 @@
       <GUID>2145100407</GUID>
       <Text>Delicate chocolate bites with a smooth rum-infused ganache. A rich and refined treat.</Text>
     </Text>
+    <!-- Liège waffles -->
+    <Text>
+      <GUID>2145100412</GUID>
+      <Text>Liège waffles</Text>
+    </Text>
+    <Text>
+      <GUID>2145100413</GUID>
+      <Text>Thick and caramelized waffles with melting sugar pearls and a delightful aroma. A true gourmet treasure, crispy on the outside and soft on the inside.</Text>
+    </Text>
   </ModOp>
 </ModOps>
