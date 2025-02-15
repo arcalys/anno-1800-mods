@@ -1,87 +1,87 @@
 <ModOps>
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
-      <GUID>2145100900</GUID>
+      <GUID>2145100700</GUID>
       <Text>Chicory root</Text>
     </Text>
     <Text>
-      <GUID>2145100901</GUID>
+      <GUID>2145100701</GUID>
       <Text>TODO</Text>
     </Text>
     <Text>
-      <GUID>2145100902</GUID>
+      <GUID>2145100702</GUID>
       <Text>Roasted chicory root</Text>
     </Text>
     <Text>
-      <GUID>2145100903</GUID>
+      <GUID>2145100703</GUID>
       <Text>TODO</Text>
     </Text>
     <Text>
-      <GUID>2145100904</GUID>
+      <GUID>2145100704</GUID>
       <Text>Chicory fertility</Text>
     </Text>
     <Text>
-      <GUID>2145100905</GUID>
+      <GUID>2145100705</GUID>
       <Text>Chicory plantation</Text>
     </Text>
     <Text>
-      <GUID>2145100906</GUID>
+      <GUID>2145100706</GUID>
       <Text>Chicory field</Text>
     </Text>
     <Text>
-      <GUID>2145100907</GUID>
+      <GUID>2145100707</GUID>
       <Text>Chicory roastery</Text>
     </Text>
     <Text>
-      <GUID>2145100908</GUID>
+      <GUID>2145100708</GUID>
       <Text>TODO</Text>
     </Text>
     <Text>
-      <GUID>2145100909</GUID>
+      <GUID>2145100709</GUID>
       <Text>Chicory coffee factory</Text>
     </Text>
     <Text>
-      <GUID>2145100910</GUID>
+      <GUID>2145100710</GUID>
       <Text>TODO</Text>
     </Text>
     <Text>
-      <GUID>2145100911</GUID>
+      <GUID>2145100711</GUID>
       <Text>Chicory coffee</Text>
     </Text>
     <Text>
-      <GUID>2145100912</GUID>
+      <GUID>2145100712</GUID>
       <Text>TODO</Text>
     </Text>
     <Text>
-      <GUID>2145100913</GUID>
+      <GUID>2145100713</GUID>
       <Text>Chicory seeds</Text>
     </Text>
     <Text>
-      <GUID>2145100914</GUID>
+      <GUID>2145100714</GUID>
       <Text>These seeds can help you grow a few fields of chicory in alien soil.</Text>
     </Text>
     <Text>
-      <GUID>2145100915</GUID>
+      <GUID>2145100715</GUID>
       <Text>Quality chicory seeds</Text>
     </Text>
     <Text>
-      <GUID>2145100916</GUID>
+      <GUID>2145100716</GUID>
       <Text>These seeds can help you grow plentiful fields of chicory in alien soil.</Text>
     </Text>
     <Text>
-      <GUID>2145100917</GUID>
+      <GUID>2145100717</GUID>
       <Text>Hybrid chicory seeds</Text>
     </Text>
     <Text>
-      <GUID>2145100918</GUID>
+      <GUID>2145100718</GUID>
       <Text>These seeds have been adapted to grow in a very wide range of soils, and with an increased yield of chicory.</Text>
     </Text>
     <Text>
-      <GUID>2145100919</GUID>
+      <GUID>2145100719</GUID>
       <Text>Super chicory seeds</Text>
     </Text>
     <Text>
-      <GUID>2145100920</GUID>
+      <GUID>2145100720</GUID>
       <Text>Chicory fertility provided</Text>
     </Text>
   </ModOp>

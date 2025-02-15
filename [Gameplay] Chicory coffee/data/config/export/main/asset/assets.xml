@@ -7,10 +7,10 @@
         <Template>Product</Template>
         <Values>
           <Standard>
-            <GUID>2145100900</GUID>
+            <GUID>2145100700</GUID>
             <Name>Chicory root</Name>
             <IconFilename>data/graphics/icons/chicory_root.png</IconFilename>
-            <InfoDescription>2145100901</InfoDescription>
+            <InfoDescription>2145100701</InfoDescription>
           </Standard>
           <Text>
             <LocaText>
@@ -47,10 +47,10 @@
         <Template>Product</Template>
         <Values>
           <Standard>
-            <GUID>2145100902</GUID>
+            <GUID>2145100702</GUID>
             <Name>Roasted chicory root</Name>
             <IconFilename>data/graphics/icons/roasted_chicory_root.png</IconFilename>
-            <InfoDescription>2145100903</InfoDescription>
+            <InfoDescription>2145100703</InfoDescription>
           </Standard>
           <Text>
             <LocaText>
@@ -90,51 +90,51 @@
     <!-- Product storage lists -->
     <ModOp Type="add" GUID="120055" Path="/Values/ProductStorageList/ProductList">
       <Item>
-        <Product>2145100900</Product>
+        <Product>2145100700</Product>
       </Item>
     </ModOp>
 
     <ModOp Type="add" GUID="120055" Path="/Values/ProductStorageList/ProductList">
       <Item>
-        <Product>2145100902</Product>
+        <Product>2145100702</Product>
       </Item>
     </ModOp>
 
     <!-- Product lists -->
     <ModOp Type="add" GUID="502004,502020,502037" Path="/Values/ProductList/List">
       <Item>
-        <Product>2145100900</Product>
+        <Product>2145100700</Product>
       </Item>
     </ModOp>
 
     <ModOp Type="add" GUID="502005,502020,502043" Path="/Values/ProductList/List">
       <Item>
-        <Product>2145100902</Product>
+        <Product>2145100702</Product>
       </Item>
     </ModOp>
 
     <ModOp Type="addNextSibling" GUID="502233" Path="/Values/ProductList/List/Item[Product='1010194']">
       <Item>
-        <Product>2145100900</Product>
+        <Product>2145100700</Product>
       </Item>
     </ModOp>
 
     <ModOp Type="addNextSibling" GUID="502234" Path="/Values/ProductList/List/Item[Product='1010215']">
       <Item>
-        <Product>2145100902</Product>
+        <Product>2145100702</Product>
       </Item>
     </ModOp>
 
     <!-- Trade contracts -->
     <ModOp Type="addNextSibling" GUID="131764" Path="/Values/TradeContractFeature/Traders/Item[TraderName='131819']/TradeLevels/Item/Trades/Item[Good='1010194']">
       <Item>
-        <Good>2145100900</Good>
+        <Good>2145100700</Good>
       </Item>
     </ModOp>
     <ModOp Type="addNextSibling" GUID="131764" Path="/Values/TradeContractFeature/Traders/Item[TraderName='131809']/TradeLevels/Item/Trades/Item[Good='1010215']">
       <Item>
         <Level>Rare</Level>
-        <Good>2145100902</Good>
+        <Good>2145100702</Good>
       </Item>
     </ModOp>
   </Group>
@@ -146,7 +146,7 @@
         <Template>Fertility</Template>
         <Values>
           <Standard>
-            <GUID>2145100904</GUID>
+            <GUID>2145100704</GUID>
             <Name>Chicory fertility</Name>
             <IconFilename>data/graphics/icons/chicory_root.png</IconFilename>
           </Standard>
@@ -157,19 +157,19 @@
 
     <ModOp Type="add" GUID="5000000" Path="/Values/Region/AllowedFertilities">
       <Item>
-        <Fertility>2145100904</Fertility>
+        <Fertility>2145100704</Fertility>
       </Item>
     </ModOp>
 
     <ModOp Type="addNextSibling" GUID="500204" Path="/Values/MinimapScene/FertilityOrder/Item[GUID='1010572']">
       <Item>
-        <GUID>2145100904</GUID>
+        <GUID>2145100704</GUID>
       </Item>
     </ModOp>
 
     <ModOp Type="add" GUID="141508,141509,141511,141512,141513,141514,141515,141516,141518,141519,141521,141523,141524,141525,142436,142438,142439,142442,142443,142445,142447" Path="/Values/FertilitySet/Fertilities">
       <Item>
-        <Fertility>2145100904</Fertility>
+        <Fertility>2145100704</Fertility>
       </Item>
     </ModOp>
   </Group>
@@ -182,7 +182,7 @@
         <Template>FarmBuilding</Template>
         <Values>
           <Standard>
-            <GUID>2145100905</GUID>
+            <GUID>2145100705</GUID>
             <Name>Chicory plantation</Name>
             <IconFilename>data/graphics/icons/chicory_root.png</IconFilename>
           </Standard>
@@ -276,12 +276,12 @@
           <Infolayer />
           <UpgradeList />
           <Factory7>
-            <NeededFertility>2145100904</NeededFertility>
+            <NeededFertility>2145100704</NeededFertility>
           </Factory7>
           <FactoryBase>
             <FactoryOutputs>
               <Item>
-                <Product>2145100900</Product>
+                <Product>2145100700</Product>
                 <Amount>1</Amount>
                 <StorageAmount>4</StorageAmount>
               </Item>
@@ -298,7 +298,7 @@
             </ModuleLimits>
             <ConstructionOptions>
               <Item>
-                <ModuleGUID>2145100906</ModuleGUID>
+                <ModuleGUID>2145100706</ModuleGUID>
               </Item>
             </ConstructionOptions>
             <AdditionalModule>269837</AdditionalModule>
@@ -380,7 +380,7 @@
         <Template>Farmfield</Template>
         <Values>
           <Standard>
-            <GUID>2145100906</GUID>
+            <GUID>2145100706</GUID>
             <Name>Chicory field</Name>
             <IconFilename>data/ui/2kimages/main/3dicons/icon_farmfield_module.png</IconFilename>
           </Standard>
@@ -472,10 +472,10 @@
         <Template>FactoryBuilding7</Template>
         <Values>
           <Standard>
-            <GUID>2145100907</GUID>
+            <GUID>2145100707</GUID>
             <Name>Chicory roastery</Name>
             <IconFilename>data/graphics/icons/roasted_chicory_root.png</IconFilename>
-            <InfoDescription>2145100908</InfoDescription>
+            <InfoDescription>2145100708</InfoDescription>
           </Standard>
           <Building>
             <BuildModeRandomRotation>90</BuildModeRandomRotation>
@@ -533,7 +533,7 @@
           <FactoryBase>
             <FactoryInputs>
               <Item>
-                <Product>2145100900</Product>
+                <Product>2145100700</Product>
                 <Amount>1</Amount>
                 <StorageAmount>10</StorageAmount>
               </Item>
@@ -545,7 +545,7 @@
             </FactoryInputs>
             <FactoryOutputs>
               <Item>
-                <Product>2145100902</Product>
+                <Product>2145100702</Product>
                 <Amount>1</Amount>
                 <StorageAmount>10</StorageAmount>
               </Item>
@@ -579,10 +579,10 @@
         <Template>FactoryBuilding7</Template>
         <Values>
           <Standard>
-            <GUID>2145100909</GUID>
+            <GUID>2145100709</GUID>
             <Name>Chicory coffee factory</Name>
             <IconFilename>data/ui/2kimages/main/3dicons/icon_coffe_cup.png</IconFilename>
-            <InfoDescription>2145100910</InfoDescription>
+            <InfoDescription>2145100710</InfoDescription>
           </Standard>
           <Building>
             <BuildModeRandomRotation>90</BuildModeRandomRotation>
@@ -640,7 +640,7 @@
           <FactoryBase>
             <FactoryInputs>
               <Item>
-                <Product>2145100902</Product>
+                <Product>2145100702</Product>
                 <Amount>1</Amount>
                 <StorageAmount>10</StorageAmount>
               </Item>
@@ -677,16 +677,16 @@
 
     <ModOp Type="add" GUID="25599,193856,193875,6000018" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
       <Item>
-        <GUID>2145100907</GUID>
+        <GUID>2145100707</GUID>
       </Item>
       <Item>
-        <GUID>2145100909</GUID>
+        <GUID>2145100709</GUID>
       </Item>
     </ModOp>
 
     <ModOp Type="add" GUID="193778" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
       <Item>
-        <GUID>2145100909</GUID>
+        <GUID>2145100709</GUID>
       </Item>
     </ModOp>
   </Group>
@@ -699,19 +699,19 @@
         <Template>ProductionChain</Template>
         <Values>
           <Standard>
-            <GUID>2145100911</GUID>
+            <GUID>2145100711</GUID>
             <Name>Chicory coffee</Name>
             <IconFilename>data/ui/2kimages/main/3dicons/icon_coffe_cup.png</IconFilename>
-            <InfoDescription>2145100912</InfoDescription>
+            <InfoDescription>2145100712</InfoDescription>
           </Standard>
           <ProductionChain>
-            <Building>2145100909</Building>
+            <Building>2145100709</Building>
             <Tier1>
               <Item>
-                <Building>2145100907</Building>
+                <Building>2145100707</Building>
                 <Tier2>
                   <Item>
-                    <Building>2145100905</Building>
+                    <Building>2145100705</Building>
                   </Item>
                   <Item>
                     <Building>1010266</Building>
@@ -737,13 +737,13 @@
     <!-- Replace coffee production chain in the menus -->
     <ModOp Type="replace" GUID="25000192" Path="/Values/ConstructionCategory/BuildingList/Item[Building='500902']">
       <Item>
-        <Building>2145100911</Building>
+        <Building>2145100711</Building>
       </Item>
     </ModOp>
 
     <ModOp Type="replace" GUID="500945" Path="/Values/ConstructionCategory/BuildingList/Item[Building='500902']">
       <Item>
-        <Building>2145100911</Building>
+        <Building>2145100711</Building>
       </Item>
     </ModOp>
   </Group>
@@ -756,10 +756,10 @@
         <Template>GuildhouseItem</Template>
         <Values>
           <Standard>
-            <GUID>2145100913</GUID>
+            <GUID>2145100713</GUID>
             <Name>Chicory seeds</Name>
             <IconFilename>data/graphics/icons/chicory_seeds.png</IconFilename>
-            <InfoDescription>2145100914</InfoDescription>
+            <InfoDescription>2145100714</InfoDescription>
           </Standard>
           <Item>
             <MaxStackSize>1</MaxStackSize>
@@ -772,12 +772,12 @@
               <Value>-15</Value>
               <Percental>1</Percental>
             </ProductivityUpgrade>
-            <AddedFertility>2145100904</AddedFertility>
+            <AddedFertility>2145100704</AddedFertility>
           </FactoryUpgrade>
           <ItemEffect>
             <EffectTargets>
               <Item>
-                <GUID>2145100905</GUID>
+                <GUID>2145100705</GUID>
               </Item>
             </EffectTargets>
           </ItemEffect>
@@ -787,10 +787,10 @@
         <Template>GuildhouseItem</Template>
         <Values>
           <Standard>
-            <GUID>2145100915</GUID>
+            <GUID>2145100715</GUID>
             <Name>Quality chicory seeds</Name>
             <IconFilename>data/graphics/icons/chicory_seeds.png</IconFilename>
-            <InfoDescription>2145100916</InfoDescription>
+            <InfoDescription>2145100716</InfoDescription>
           </Standard>
           <Item>
             <MaxStackSize>1</MaxStackSize>
@@ -800,12 +800,12 @@
             <TradePriceOnlineCurrency>50000</TradePriceOnlineCurrency>
           </Item>
           <FactoryUpgrade>
-            <AddedFertility>2145100904</AddedFertility>
+            <AddedFertility>2145100704</AddedFertility>
           </FactoryUpgrade>
           <ItemEffect>
             <EffectTargets>
               <Item>
-                <GUID>2145100905</GUID>
+                <GUID>2145100705</GUID>
               </Item>
             </EffectTargets>
           </ItemEffect>
@@ -815,10 +815,10 @@
         <Template>GuildhouseItem</Template>
         <Values>
           <Standard>
-            <GUID>2145100917</GUID>
+            <GUID>2145100717</GUID>
             <Name>Hybrid chicory seeds</Name>
             <IconFilename>data/graphics/icons/chicory_seeds.png</IconFilename>
-            <InfoDescription>2145100918</InfoDescription>
+            <InfoDescription>2145100718</InfoDescription>
           </Standard>
           <Item>
             <MaxStackSize>1</MaxStackSize>
@@ -832,12 +832,12 @@
               <Value>25</Value>
               <Percental>1</Percental>
             </ProductivityUpgrade>
-            <AddedFertility>2145100904</AddedFertility>
+            <AddedFertility>2145100704</AddedFertility>
           </FactoryUpgrade>
           <ItemEffect>
             <EffectTargets>
               <Item>
-                <GUID>2145100905</GUID>
+                <GUID>2145100705</GUID>
               </Item>
             </EffectTargets>
           </ItemEffect>
@@ -847,10 +847,10 @@
         <Template>GuildhouseItem</Template>
         <Values>
           <Standard>
-            <GUID>2145100919</GUID>
+            <GUID>2145100719</GUID>
             <Name>Super chicory seeds</Name>
             <IconFilename>data/graphics/icons/chicory_seeds.png</IconFilename>
-            <InfoDescription>2145100920</InfoDescription>
+            <InfoDescription>2145100720</InfoDescription>
           </Standard>
           <Item>
             <MaxStackSize>1</MaxStackSize>
@@ -864,12 +864,12 @@
               <Value>50</Value>
               <Percental>1</Percental>
             </ProductivityUpgrade>
-            <AddedFertility>2145100904</AddedFertility>
+            <AddedFertility>2145100704</AddedFertility>
           </FactoryUpgrade>
           <ItemEffect>
             <EffectTargets>
               <Item>
-                <GUID>2145100905</GUID>
+                <GUID>2145100705</GUID>
               </Item>
             </EffectTargets>
           </ItemEffect>
@@ -883,7 +883,7 @@
     <!-- Unhide everything at 1 engineer -->
     <ModOp Type="addNextSibling" GUID="130222" Path="/Values/Trigger/TriggerActions/Item/TriggerAction/Values/ActionUnlockAsset/UnhideAssets/Item[Asset='130126']">
       <Item>
-        <Asset>2145100911</Asset>
+        <Asset>2145100711</Asset>
       </Item>
     </ModOp>
 
@@ -893,7 +893,7 @@
         <Template>Trigger</Template>
         <Values>
           <Standard>
-            <GUID>2145100921</GUID>
+            <GUID>2145100721</GUID>
             <Name>Unhide trigger</Name>
           </Standard>
           <Trigger>
@@ -917,22 +917,22 @@
                     <ActionUnlockAsset>
                       <UnlockAssets>
                         <Item>
-                          <Asset>2145100900</Asset>
+                          <Asset>2145100700</Asset>
                         </Item>
                         <Item>
-                          <Asset>2145100902</Asset>
+                          <Asset>2145100702</Asset>
                         </Item>
                         <Item>
-                          <Asset>2145100905</Asset>
+                          <Asset>2145100705</Asset>
                         </Item>
                         <Item>
-                          <Asset>2145100907</Asset>
+                          <Asset>2145100707</Asset>
                         </Item>
                         <Item>
-                          <Asset>2145100909</Asset>
+                          <Asset>2145100709</Asset>
                         </Item>
                         <Item>
-                          <Asset>2145100911</Asset>
+                          <Asset>2145100711</Asset>
                         </Item>
                       </UnlockAssets>
                     </ActionUnlockAsset>
