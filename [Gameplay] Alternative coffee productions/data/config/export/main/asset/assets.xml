@@ -92,9 +92,6 @@
       <Item>
         <Product>2145100700</Product>
       </Item>
-    </ModOp>
-
-    <ModOp Type="add" GUID="120055" Path="/Values/ProductStorageList/ProductList">
       <Item>
         <Product>2145100702</Product>
       </Item>

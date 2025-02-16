@@ -1,0 +1,48 @@
+{
+  "Version": "0.1.0",
+  "ModID": "alternative_coffee_productions",
+  "IncompatibleIds": [],
+  "ModDependencies": [],
+  "Category": {
+    "Chinese": "Gameplay",
+    "English": "Gameplay",
+    "French": "Gameplay",
+    "German": "Gameplay",
+    "Italian": "Gameplay",
+    "Korean": "Gameplay",
+    "Polish": "Gameplay",
+    "Russian": "Gameplay",
+    "Spanish": "Gameplay",
+    "Taiwanese": "Gameplay"
+  },
+  "ModName": {
+    "Chinese": "Alternative coffee productions",
+    "English": "Alternative coffee productions",
+    "French": "Alternative coffee productions",
+    "German": "Alternative coffee productions",
+    "Italian": "Alternative coffee productions",
+    "Korean": "Alternative coffee productions",
+    "Polish": "Alternative coffee productions",
+    "Russian": "Alternative coffee productions",
+    "Spanish": "Alternative coffee productions",
+    "Taiwanese": "Alternative coffee productions"
+  },
+  "Description": {
+    "Chinese": "file::README.md",
+    "English": "file::README.md",
+    "French": "file::README.md",
+    "German": "file::README.md",
+    "Italian": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [],
+  "LoadAfterIds": [],
+  "CreatorName": "arcalys,chocolinanes",
+  "CreatorContact": "https://github.com/arcalys",
+  "Image": ""
+}
