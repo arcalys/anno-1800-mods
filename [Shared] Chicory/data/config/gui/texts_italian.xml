@@ -1,0 +1,56 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2145100920</GUID>
+      <Text>Cicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100921</GUID>
+      <Text>Una pianta rustica coltivata per le sue radici e foglie. La radice di cicoria, una volta tostata, viene utilizzata come sostituto del caffè. Le sue foglie possono essere trasformate in fertilizzante naturale, arricchendo i terreni agricoli.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100922</GUID>
+      <Text>Fertilità della cicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100923</GUID>
+      <Text>Piantagione di cicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100924</GUID>
+      <Text>Campo di cicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100925</GUID>
+      <Text>Semi di cicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100926</GUID>
+      <Text>Questi semi possono aiutarti a coltivare alcuni campi di cicoria in terreno alieno.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100927</GUID>
+      <Text>Semi di cicoria di qualità</Text>
+    </Text>
+    <Text>
+      <GUID>2145100928</GUID>
+      <Text>Questi semi possono aiutarti a coltivare abbondanti campi di cicoria in terreno alieno.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100929</GUID>
+      <Text>Semi di cicoria ibrida</Text>
+    </Text>
+    <Text>
+      <GUID>2145100930</GUID>
+      <Text>Questi semi sono stati adattati per crescere in una gamma molto ampia di terreni e con una maggiore resa di cicoria.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100931</GUID>
+      <Text>Semi di cicoria super</Text>
+    </Text>
+    <Text>
+      <GUID>2145100932</GUID>
+      <Text>Questi semi sono stati adattati per crescere in una gamma molto ampia di terreni e con una resa massima di cicoria.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

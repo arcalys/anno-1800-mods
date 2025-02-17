@@ -1,32 +1,12 @@
 <ModOps>
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
-      <GUID>2145100700</GUID>
-      <Text>Chicory root</Text>
-    </Text>
-    <Text>
-      <GUID>2145100701</GUID>
-      <Text>TODO</Text>
-    </Text>
-    <Text>
       <GUID>2145100702</GUID>
       <Text>Roasted chicory root</Text>
     </Text>
     <Text>
       <GUID>2145100703</GUID>
       <Text>TODO</Text>
-    </Text>
-    <Text>
-      <GUID>2145100704</GUID>
-      <Text>Chicory fertility</Text>
-    </Text>
-    <Text>
-      <GUID>2145100705</GUID>
-      <Text>Chicory plantation</Text>
-    </Text>
-    <Text>
-      <GUID>2145100706</GUID>
-      <Text>Chicory field</Text>
     </Text>
     <Text>
       <GUID>2145100707</GUID>
@@ -51,38 +31,6 @@
     <Text>
       <GUID>2145100712</GUID>
       <Text>TODO</Text>
-    </Text>
-    <Text>
-      <GUID>2145100713</GUID>
-      <Text>Chicory seeds</Text>
-    </Text>
-    <Text>
-      <GUID>2145100714</GUID>
-      <Text>These seeds can help you grow a few fields of chicory in alien soil.</Text>
-    </Text>
-    <Text>
-      <GUID>2145100715</GUID>
-      <Text>Quality chicory seeds</Text>
-    </Text>
-    <Text>
-      <GUID>2145100716</GUID>
-      <Text>These seeds can help you grow plentiful fields of chicory in alien soil.</Text>
-    </Text>
-    <Text>
-      <GUID>2145100717</GUID>
-      <Text>Hybrid chicory seeds</Text>
-    </Text>
-    <Text>
-      <GUID>2145100718</GUID>
-      <Text>These seeds have been adapted to grow in a very wide range of soils, and with an increased yield of chicory.</Text>
-    </Text>
-    <Text>
-      <GUID>2145100719</GUID>
-      <Text>Super chicory seeds</Text>
-    </Text>
-    <Text>
-      <GUID>2145100720</GUID>
-      <Text>Chicory fertility provided</Text>
     </Text>
   </ModOp>
 </ModOps>

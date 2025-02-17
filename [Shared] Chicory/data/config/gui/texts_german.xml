@@ -1,0 +1,56 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2145100920</GUID>
+      <Text>Chicorée</Text>
+    </Text>
+    <Text>
+      <GUID>2145100921</GUID>
+      <Text>Eine winterharte Pflanze, die wegen ihrer Wurzeln und Blätter angebaut wird. Die Chicorée-Wurzel wird, sobald sie geröstet ist, als Kaffeeersatz verwendet. Seine Blätter können in natürlichen Dünger umgewandelt werden, der landwirtschaftliche Flächen bereichert.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100922</GUID>
+      <Text>Fruchtbarkeit der Chicorée</Text>
+    </Text>
+    <Text>
+      <GUID>2145100923</GUID>
+      <Text>Chicorée-Plantage</Text>
+    </Text>
+    <Text>
+      <GUID>2145100924</GUID>
+      <Text>Chicorée-Feld</Text>
+    </Text>
+    <Text>
+      <GUID>2145100925</GUID>
+      <Text>Chicorée-Samen</Text>
+    </Text>
+    <Text>
+      <GUID>2145100926</GUID>
+      <Text>Diese Samen können dir helfen, ein paar Chicorée-Felder in fremder Erde anzubauen.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100927</GUID>
+      <Text>Hochwertige Chicorée-Samen</Text>
+    </Text>
+    <Text>
+      <GUID>2145100928</GUID>
+      <Text>Diese Samen können dir helfen, reichlich Chicorée-Felder in fremder Erde anzubauen.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100929</GUID>
+      <Text>Hybrid-Chicorée-Samen</Text>
+    </Text>
+    <Text>
+      <GUID>2145100930</GUID>
+      <Text>Diese Samen wurden für den Anbau auf einer Vielzahl von Böden und mit einem erhöhten Ertrag an Chicorée angepasst.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100931</GUID>
+      <Text>Super Chicorée-Samen</Text>
+    </Text>
+    <Text>
+      <GUID>2145100932</GUID>
+      <Text>Diese Samen wurden so angepasst, dass sie auf einer Vielzahl von Böden und mit einem maximalen Ertrag an Chicorée wachsen.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

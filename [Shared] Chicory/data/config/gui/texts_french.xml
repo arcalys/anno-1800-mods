@@ -1,0 +1,56 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2145100920</GUID>
+      <Text>Chicorée</Text>
+    </Text>
+    <Text>
+      <GUID>2145100921</GUID>
+      <Text>Une plante rustique cultivée pour ses racines et ses feuilles. La racine de chicorée, une fois torréfiée, est utilisée comme substitut du café. Ses feuilles peuvent être transformées en engrais naturel, enrichissant ainsi les terres agricoles.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100922</GUID>
+      <Text>Fertilité (chicorée)</Text>
+    </Text>
+    <Text>
+      <GUID>2145100923</GUID>
+      <Text>Plantation de chicorée</Text>
+    </Text>
+    <Text>
+      <GUID>2145100924</GUID>
+      <Text>Champ de chicorée</Text>
+    </Text>
+    <Text>
+      <GUID>2145100925</GUID>
+      <Text>Semences de chicorée</Text>
+    </Text>
+    <Text>
+      <GUID>2145100926</GUID>
+      <Text>Ces semences vous permettent de cultiver des champs de chicorée en terre étrangère.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100927</GUID>
+      <Text>Semences de chicorée supérieures</Text>
+    </Text>
+    <Text>
+      <GUID>2145100928</GUID>
+      <Text>Ces semences vous permettent de cultiver des champs de chicorée prospères en terre étrangère.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100929</GUID>
+      <Text>Semences de chicorée hybrides</Text>
+    </Text>
+    <Text>
+      <GUID>2145100930</GUID>
+      <Text>Ces semences ont été adaptées pour prospérer dans des sols variés avec un rendement en chicorée amélioré.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100931</GUID>
+      <Text>Super semences de chicorée</Text>
+    </Text>
+    <Text>
+      <GUID>2145100932</GUID>
+      <Text>Ces semences ont été adaptées pour prospérer dans des sols variés avec un rendement maximum en chicorée.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

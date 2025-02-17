@@ -1,0 +1,56 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2145100920</GUID>
+      <Text>Cykoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100921</GUID>
+      <Text>Wytrzymała roślina uprawiana ze względu na korzenie i liście. Korzeń cykorii po wypaleniu służy jako substytut kawy. Jej liście można przekształcić w naturalny nawóz, wzbogacając grunty rolne.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100922</GUID>
+      <Text>Płodność cykorii</Text>
+    </Text>
+    <Text>
+      <GUID>2145100923</GUID>
+      <Text>Plantacja cykorii</Text>
+    </Text>
+    <Text>
+      <GUID>2145100924</GUID>
+      <Text>Pole cykorii</Text>
+    </Text>
+    <Text>
+      <GUID>2145100925</GUID>
+      <Text>Nasiona cykorii</Text>
+    </Text>
+    <Text>
+      <GUID>2145100926</GUID>
+      <Text>Te nasiona mogą pomóc ci wyhodować kilka pól cykorii w obcej glebie.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100927</GUID>
+      <Text>Wysokiej jakości nasiona cykorii</Text>
+    </Text>
+    <Text>
+      <GUID>2145100928</GUID>
+      <Text>Te nasiona mogą pomóc w uprawie obfitych pól cykorii w obcej glebie.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100929</GUID>
+      <Text>Hybrydowe nasiona cykorii</Text>
+    </Text>
+    <Text>
+      <GUID>2145100930</GUID>
+      <Text>Nasiona te zostały przystosowane do uprawy na bardzo szerokich glebach i przy zwiększonym plonie cykorii.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100931</GUID>
+      <Text>Super nasiona cykorii</Text>
+    </Text>
+    <Text>
+      <GUID>2145100932</GUID>
+      <Text>Nasiona te zostały przystosowane do uprawy na bardzo szerokich glebach i przy maksymalnym plonie cykorii.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

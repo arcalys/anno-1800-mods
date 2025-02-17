@@ -1,0 +1,56 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2145100920</GUID>
+      <Text>Achicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100921</GUID>
+      <Text>Una planta resistente cultivada por sus raíces y hojas. La raíz de achicoria, una vez tostada, se utiliza como sustituto del café. Sus hojas se pueden convertir en fertilizante natural, enriqueciendo las tierras agrícolas.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100922</GUID>
+      <Text>Fertilidad de la achicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100923</GUID>
+      <Text>Plantación de achicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100924</GUID>
+      <Text>Campo de achicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100925</GUID>
+      <Text>Semillas de achicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100926</GUID>
+      <Text>Estas semillas pueden ayudarte a cultivar algunos campos de achicoria en suelo alienígena.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100927</GUID>
+      <Text>Semillas de achicoria de calidad</Text>
+    </Text>
+    <Text>
+      <GUID>2145100928</GUID>
+      <Text>Estas semillas pueden ayudarte a cultivar abundantes campos de achicoria en suelo alienígena.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100929</GUID>
+      <Text>Semillas de achicoria híbrida</Text>
+    </Text>
+    <Text>
+      <GUID>2145100930</GUID>
+      <Text>Estas semillas se han adaptado para crecer en una amplia gama de suelos y con un mayor rendimiento de achicoria.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100931</GUID>
+      <Text>Semillas de súper achicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100932</GUID>
+      <Text>Estas semillas han sido adaptadas para crecer en una amplia gama de suelos, y con un rendimiento máximo de achicoria.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,48 @@
+{
+  "Version": "0.1.0",
+  "ModID": "shared_chicory",
+  "IncompatibleIds": [],
+  "ModDependencies": [],
+  "Category": {
+    "Chinese": "Shared",
+    "English": "Shared",
+    "French": "Shared",
+    "German": "Shared",
+    "Italian": "Shared",
+    "Korean": "Shared",
+    "Polish": "Shared",
+    "Russian": "Shared",
+    "Spanish": "Shared",
+    "Taiwanese": "Shared"
+  },
+  "ModName": {
+    "Chinese": "Chicory",
+    "English": "Chicory",
+    "French": "Chicory",
+    "German": "Chicory",
+    "Italian": "Chicory",
+    "Korean": "Chicory",
+    "Polish": "Chicory",
+    "Russian": "Chicory",
+    "Spanish": "Chicory",
+    "Taiwanese": "Chicory"
+  },
+  "Description": {
+    "Chinese": "file::README.md",
+    "English": "file::README.md",
+    "French": "file::README.md",
+    "German": "file::README.md",
+    "Italian": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [],
+  "LoadAfterIds": [],
+  "CreatorName": "arcalys,chocolinanes",
+  "CreatorContact": "https://github.com/arcalys",
+  "Image": ""
+}

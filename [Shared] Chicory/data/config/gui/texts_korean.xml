@@ -1,0 +1,56 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2145100920</GUID>
+      <Text>치코리</Text>
+    </Text>
+    <Text>
+      <GUID>2145100921</GUID>
+      <Text>뿌리와 잎을 위해 재배되는 강건한 식물. 치커리 뿌리는 한 번 볶으면 커피 대용품으로 사용됩니다. 잎은 천연 비료로 변하여 농경지를 비옥하게 할 수 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100922</GUID>
+      <Text>치커리 생식력</Text>
+    </Text>
+    <Text>
+      <GUID>2145100923</GUID>
+      <Text>치커리 농장</Text>
+    </Text>
+    <Text>
+      <GUID>2145100924</GUID>
+      <Text>치커리 밭</Text>
+    </Text>
+    <Text>
+      <GUID>2145100925</GUID>
+      <Text>치커리 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>2145100926</GUID>
+      <Text>이 씨앗은 외계 토양에서 치커리 밭 몇 개를 재배하는 데 도움이 될 수 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100927</GUID>
+      <Text>품질 좋은 치커리 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>2145100928</GUID>
+      <Text>이 씨앗은 외계 토양에서 풍부한 치커리 밭을 재배하는 데 도움이 될 수 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100929</GUID>
+      <Text>하이브리드 치커리 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>2145100930</GUID>
+      <Text>이 씨앗은 매우 넓은 범위의 토양에서 자랄 수 있도록 적응되었으며 치커리 수확량이 증가했습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100931</GUID>
+      <Text>슈퍼 치커리 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>2145100932</GUID>
+      <Text>이 씨앗은 매우 넓은 범위의 토양에서 자랄 수 있도록 적응되었으며 치커리의 최대 수확량으로 자랍니다.</Text>
+    </Text>
+  </ModOp>
+</ModOps>
