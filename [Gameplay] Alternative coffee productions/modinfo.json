@@ -41,7 +41,9 @@
   },
   "KnownIssues": null,
   "DLCDependencies": [],
-  "LoadAfterIds": [],
+  "LoadAfterIds": [
+    "shared_chicory"
+  ],
   "CreatorName": "arcalys,chocolinanes",
   "CreatorContact": "https://github.com/arcalys",
   "Image": ""
