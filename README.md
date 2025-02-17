@@ -16,5 +16,4 @@ This repository contains a collection of mods for Anno 1800.
 
 ## Shared mods
 
-- Barley (product, fertility, farm, seeds)
 - Chicory (product, fertility, farm, seeds)
