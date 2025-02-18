@@ -1,0 +1,68 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2145100700</GUID>
+      <Text>Жареный корень цикория</Text>
+    </Text>
+    <Text>
+      <GUID>2145100701</GUID>
+      <Text>Жареный корень с насыщенным и слегка горьковатым вкусом. Часто используемый в различных приготовлениях, он привносит глубину и сложность во многие рецепты.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100702</GUID>
+      <Text>Жареное зерно</Text>
+    </Text>
+    <Text>
+      <GUID>2145100703</GUID>
+      <Text>Зерно, которое было тщательно обжарено для усиления его глубокого поджаренного вкуса. Используется в различных кулинарных приготовлениях и приготовлении напитков.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100704</GUID>
+      <Text>Обжарочная цикория</Text>
+    </Text>
+    <Text>
+      <GUID>2145100705</GUID>
+      <Text>ВСЕ</Text>
+    </Text>
+    <Text>
+      <GUID>2145100706</GUID>
+      <Text>Обжарочный цех для зерна</Text>
+    </Text>
+    <Text>
+      <GUID>2145100707</GUID>
+      <Text>ВСЕ</Text>
+    </Text>
+    <Text>
+      <GUID>2145100708</GUID>
+      <Text>Кофейная фабрика из цикория</Text>
+    </Text>
+    <Text>
+      <GUID>2145100709</GUID>
+      <Text>ВСЕ</Text>
+    </Text>
+    <Text>
+      <GUID>2145100710</GUID>
+      <Text>Зерновая кофейная фабрика</Text>
+    </Text>
+    <Text>
+      <GUID>2145100711</GUID>
+      <Text>ВСЕ</Text>
+    </Text>
+    <Text>
+      <GUID>2145100712</GUID>
+      <Text>Производство кофе из цикория</Text>
+    </Text>
+    <Text>
+      <GUID>2145100713</GUID>
+      <Text>ВСЕ</Text>
+    </Text>
+    <Text>
+      <GUID>2145100714</GUID>
+      <Text>Производство зернового кофе</Text>
+    </Text>
+    <Text>
+      <GUID>2145100715</GUID>
+      <Text>ВСЕ</Text>
+    </Text>
+  </ModOp>
+</ModOps>

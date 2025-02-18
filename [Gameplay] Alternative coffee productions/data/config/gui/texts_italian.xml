@@ -1,0 +1,68 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2145100700</GUID>
+      <Text>Radice di cicoria tostata</Text>
+    </Text>
+    <Text>
+      <GUID>2145100701</GUID>
+      <Text>Una radice tostata dal sapore ricco e leggermente amarognolo. Spesso utilizzato in varie preparazioni, apporta profondità e complessità a molte ricette.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100702</GUID>
+      <Text>Chicchi tostati</Text>
+    </Text>
+    <Text>
+      <GUID>2145100703</GUID>
+      <Text>Chicco che è stato accuratamente tostato per esaltarne i sapori profondi e tostati. Utilizzato in varie preparazioni culinarie e bevande.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100704</GUID>
+      <Text>Torrefazione di cicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100705</GUID>
+      <Text>TUTTO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100706</GUID>
+      <Text>Torrefazione di cereali</Text>
+    </Text>
+    <Text>
+      <GUID>2145100707</GUID>
+      <Text>TUTTO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100708</GUID>
+      <Text>Fabbrica di caffè di cicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100709</GUID>
+      <Text>TUTTO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100710</GUID>
+      <Text>Fabbrica di caffè in grani</Text>
+    </Text>
+    <Text>
+      <GUID>2145100711</GUID>
+      <Text>TUTTO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100712</GUID>
+      <Text>Produzione caffè cicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100713</GUID>
+      <Text>TUTTO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100714</GUID>
+      <Text>Produzione di caffè in grani</Text>
+    </Text>
+    <Text>
+      <GUID>2145100715</GUID>
+      <Text>TUTTO</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,68 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2145100700</GUID>
+      <Text>Raíz de achicoria tostada</Text>
+    </Text>
+    <Text>
+      <GUID>2145100701</GUID>
+      <Text>Una raíz tostada con un sabor rico y ligeramente amargo. A menudo utilizado en diversas preparaciones, aporta profundidad y complejidad a muchas recetas.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100702</GUID>
+      <Text>Grano tostado</Text>
+    </Text>
+    <Text>
+      <GUID>2145100703</GUID>
+      <Text>Grano que ha sido cuidadosamente tostado para realzar sus sabores profundos y tostados. Se utiliza en diversas preparaciones culinarias y de bebidas.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100704</GUID>
+      <Text>Tostadora de achicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100705</GUID>
+      <Text>TODO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100706</GUID>
+      <Text>Tostadora de granos</Text>
+    </Text>
+    <Text>
+      <GUID>2145100707</GUID>
+      <Text>TODO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100708</GUID>
+      <Text>Fábrica de café de achicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100709</GUID>
+      <Text>TODO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100710</GUID>
+      <Text>Fábrica de café de grano</Text>
+    </Text>
+    <Text>
+      <GUID>2145100711</GUID>
+      <Text>TODO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100712</GUID>
+      <Text>Producción de café de achicoria</Text>
+    </Text>
+    <Text>
+      <GUID>2145100713</GUID>
+      <Text>TODO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100714</GUID>
+      <Text>Producción de café en grano</Text>
+    </Text>
+    <Text>
+      <GUID>2145100715</GUID>
+      <Text>TODO</Text>
+    </Text>
+  </ModOp>
+</ModOps>

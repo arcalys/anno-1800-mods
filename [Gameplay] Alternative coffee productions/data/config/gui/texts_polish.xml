@@ -1,0 +1,68 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2145100700</GUID>
+      <Text>Prażony korzeń cykorii</Text>
+    </Text>
+    <Text>
+      <GUID>2145100701</GUID>
+      <Text>Prażony korzeń o bogatym i lekko gorzkawym smaku. Często stosowany w różnych preparatach, nadaje głębi i złożoności wielu przepisom.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100702</GUID>
+      <Text>Ziarno prażone</Text>
+    </Text>
+    <Text>
+      <GUID>2145100703</GUID>
+      <Text>Ziarno, które zostało starannie palone, aby wzmocnić jego głębokie, opiekane smaki. Stosowany w różnych preparatach kulinarnych i napojów.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100704</GUID>
+      <Text>Palarnia cykorii</Text>
+    </Text>
+    <Text>
+      <GUID>2145100705</GUID>
+      <Text>CAŁY</Text>
+    </Text>
+    <Text>
+      <GUID>2145100706</GUID>
+      <Text>Palarnia zboża</Text>
+    </Text>
+    <Text>
+      <GUID>2145100707</GUID>
+      <Text>CAŁY</Text>
+    </Text>
+    <Text>
+      <GUID>2145100708</GUID>
+      <Text>Fabryka kawy z cykorii</Text>
+    </Text>
+    <Text>
+      <GUID>2145100709</GUID>
+      <Text>CAŁY</Text>
+    </Text>
+    <Text>
+      <GUID>2145100710</GUID>
+      <Text>Fabryka kawy zbożowej</Text>
+    </Text>
+    <Text>
+      <GUID>2145100711</GUID>
+      <Text>CAŁY</Text>
+    </Text>
+    <Text>
+      <GUID>2145100712</GUID>
+      <Text>Produkcja kawy z cykorii</Text>
+    </Text>
+    <Text>
+      <GUID>2145100713</GUID>
+      <Text>CAŁY</Text>
+    </Text>
+    <Text>
+      <GUID>2145100714</GUID>
+      <Text>Produkcja kawy zbożowej</Text>
+    </Text>
+    <Text>
+      <GUID>2145100715</GUID>
+      <Text>CAŁY</Text>
+    </Text>
+  </ModOp>
+</ModOps>

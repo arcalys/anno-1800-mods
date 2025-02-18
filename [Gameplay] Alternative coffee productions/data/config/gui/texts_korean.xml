@@ -1,0 +1,68 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2145100700</GUID>
+      <Text>구운 치커리 뿌리</Text>
+    </Text>
+    <Text>
+      <GUID>2145100701</GUID>
+      <Text>진하고 약간 쓴 맛이 나는 볶은 뿌리. 다양한 준비에 자주 사용되며 많은 요리법에 깊이와 복잡성을 제공합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100702</GUID>
+      <Text>볶은 곡물</Text>
+    </Text>
+    <Text>
+      <GUID>2145100703</GUID>
+      <Text>깊고 구운 풍미를 더하기 위해 정성스럽게 볶은 곡물입니다. 다양한 요리 및 음료 준비에 사용됩니다.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100704</GUID>
+      <Text>치커리 로스터리</Text>
+    </Text>
+    <Text>
+      <GUID>2145100705</GUID>
+      <Text>모두</Text>
+    </Text>
+    <Text>
+      <GUID>2145100706</GUID>
+      <Text>곡물 로스터리</Text>
+    </Text>
+    <Text>
+      <GUID>2145100707</GUID>
+      <Text>모두</Text>
+    </Text>
+    <Text>
+      <GUID>2145100708</GUID>
+      <Text>치커리 커피 팩토리</Text>
+    </Text>
+    <Text>
+      <GUID>2145100709</GUID>
+      <Text>모두</Text>
+    </Text>
+    <Text>
+      <GUID>2145100710</GUID>
+      <Text>곡물 커피 공장</Text>
+    </Text>
+    <Text>
+      <GUID>2145100711</GUID>
+      <Text>모두</Text>
+    </Text>
+    <Text>
+      <GUID>2145100712</GUID>
+      <Text>치커리 커피 생산</Text>
+    </Text>
+    <Text>
+      <GUID>2145100713</GUID>
+      <Text>모두</Text>
+    </Text>
+    <Text>
+      <GUID>2145100714</GUID>
+      <Text>곡물 커피 생산</Text>
+    </Text>
+    <Text>
+      <GUID>2145100715</GUID>
+      <Text>모두</Text>
+    </Text>
+  </ModOp>
+</ModOps>

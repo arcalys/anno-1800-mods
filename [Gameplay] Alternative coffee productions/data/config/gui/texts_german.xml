@@ -1,0 +1,68 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2145100700</GUID>
+      <Text>Geröstete Chicorée-Wurzel</Text>
+    </Text>
+    <Text>
+      <GUID>2145100701</GUID>
+      <Text>Eine geröstete Wurzel mit einem reichen und leicht bitteren Geschmack. Oft in verschiedenen Zubereitungen verwendet, verleiht es vielen Rezepten Tiefe und Komplexität.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100702</GUID>
+      <Text>Geröstetes Getreide</Text>
+    </Text>
+    <Text>
+      <GUID>2145100703</GUID>
+      <Text>Getreide, das sorgfältig geröstet wurde, um seine tiefen, gerösteten Aromen zu verstärken. Wird in verschiedenen kulinarischen und Getränkezubereitungen verwendet.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100704</GUID>
+      <Text>Chicorée-Rösterei</Text>
+    </Text>
+    <Text>
+      <GUID>2145100705</GUID>
+      <Text>ALLE</Text>
+    </Text>
+    <Text>
+      <GUID>2145100706</GUID>
+      <Text>Getreide-Rösterei</Text>
+    </Text>
+    <Text>
+      <GUID>2145100707</GUID>
+      <Text>ALLE</Text>
+    </Text>
+    <Text>
+      <GUID>2145100708</GUID>
+      <Text>Chicorée-Kaffeefabrik</Text>
+    </Text>
+    <Text>
+      <GUID>2145100709</GUID>
+      <Text>ALLE</Text>
+    </Text>
+    <Text>
+      <GUID>2145100710</GUID>
+      <Text>Getreide-Kaffeefabrik</Text>
+    </Text>
+    <Text>
+      <GUID>2145100711</GUID>
+      <Text>ALLE</Text>
+    </Text>
+    <Text>
+      <GUID>2145100712</GUID>
+      <Text>Herstellung von Chicorée-Kaffee</Text>
+    </Text>
+    <Text>
+      <GUID>2145100713</GUID>
+      <Text>ALLE</Text>
+    </Text>
+    <Text>
+      <GUID>2145100714</GUID>
+      <Text>Produktion von Getreidekaffee</Text>
+    </Text>
+    <Text>
+      <GUID>2145100715</GUID>
+      <Text>ALLE</Text>
+    </Text>
+  </ModOp>
+</ModOps>
