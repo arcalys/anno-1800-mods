@@ -1,35 +1,67 @@
 <ModOps>
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
-      <GUID>2145100702</GUID>
+      <GUID>2145100700</GUID>
       <Text>Roasted chicory root</Text>
     </Text>
     <Text>
-      <GUID>2145100703</GUID>
-      <Text>TODO</Text>
+      <GUID>2145100701</GUID>
+      <Text>A roasted root with a rich and slightly bitter flavor. Often used in various preparations, it brings depth and complexity to many recipes.</Text>
     </Text>
     <Text>
-      <GUID>2145100707</GUID>
+      <GUID>2145100702</GUID>
+      <Text>Roasted grain</Text>
+    </Text>
+    <Text>
+      <GUID>2145100703</GUID>
+      <Text>Grain that has been carefully roasted to enhance its deep, toasted flavors. Used in various culinary and beverage preparations.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100704</GUID>
       <Text>Chicory roastery</Text>
     </Text>
     <Text>
-      <GUID>2145100708</GUID>
+      <GUID>2145100705</GUID>
       <Text>TODO</Text>
     </Text>
     <Text>
-      <GUID>2145100709</GUID>
+      <GUID>2145100706</GUID>
+      <Text>Grain roastery</Text>
+    </Text>
+    <Text>
+      <GUID>2145100707</GUID>
+      <Text>TODO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100708</GUID>
       <Text>Chicory coffee factory</Text>
     </Text>
     <Text>
-      <GUID>2145100710</GUID>
+      <GUID>2145100709</GUID>
       <Text>TODO</Text>
     </Text>
     <Text>
+      <GUID>2145100710</GUID>
+      <Text>Grain coffee factory</Text>
+    </Text>
+    <Text>
       <GUID>2145100711</GUID>
-      <Text>Chicory coffee</Text>
+      <Text>TODO</Text>
     </Text>
     <Text>
       <GUID>2145100712</GUID>
+      <Text>Chicory coffee production</Text>
+    </Text>
+    <Text>
+      <GUID>2145100713</GUID>
+      <Text>TODO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100714</GUID>
+      <Text>Grain coffee production</Text>
+    </Text>
+    <Text>
+      <GUID>2145100715</GUID>
       <Text>TODO</Text>
     </Text>
   </ModOp>

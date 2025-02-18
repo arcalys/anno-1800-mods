@@ -1,15 +1,15 @@
 <ModOps>
-  <!-- ### PRODUCTS ### -->
-  <!-- Roasted chicory root -->
+  <!-- Products -->
   <ModOp Type="addNextSibling" GUID="120014">
+    <!-- Roasted chicory root -->
     <Asset>
       <Template>Product</Template>
       <Values>
         <Standard>
-          <GUID>2145100702</GUID>
+          <GUID>2145100700</GUID>
           <Name>Roasted chicory root</Name>
           <IconFilename>data/graphics/icons/roasted_chicory_root.png</IconFilename>
-          <InfoDescription>2145100703</InfoDescription>
+          <InfoDescription>2145100701</InfoDescription>
         </Standard>
         <Text>
           <LocaText>
@@ -44,22 +44,77 @@
         </ExpeditionAttribute>
       </Values>
     </Asset>
+
+    <!-- Roasted grain -->
+    <Asset>
+      <Template>Product</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100702</GUID>
+          <Name>Roasted grain</Name>
+          <IconFilename>data/graphics/icons/roasted_grain.png</IconFilename>
+          <InfoDescription>2145100703</InfoDescription>
+        </Standard>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Roasted grain</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+        </Text>
+        <Locked />
+        <Product>
+          <StorageLevel>Building</StorageLevel>
+          <ProductCategory>11703</ProductCategory>
+          <BasePrice>50</BasePrice>
+          <CivLevel>1</CivLevel>
+          <AssociatedRegion>Moderate</AssociatedRegion>
+          <ProductionRegions>
+            <Item>
+              <RegionType>Moderate</RegionType>
+            </Item>
+          </ProductionRegions>
+        </Product>
+        <ExpeditionAttribute>
+          <BaseMorale>0</BaseMorale>
+          <ExpeditionAttributes>
+            <Item>
+              <Attribute>Medicine</Attribute>
+              <Amount>10</Amount>
+            </Item>
+          </ExpeditionAttributes>
+        </ExpeditionAttribute>
+      </Values>
+    </Asset>
   </ModOp>
 
-  <!-- Product storage lists -->
+  <!-- Add roasted chicory root and roasted grain to StandardProductStorageList -->
   <ModOp Type="add" GUID="120055" Path="/Values/ProductStorageList/ProductList">
     <Item>
-      <Product>2145100702</Product>
+      <Product>2145100700</Product>
     </Item>
-  </ModOp>
-
-  <ModOp Type="add" GUID="502005,502020,502043" Path="/Values/ProductList/List">
     <Item>
       <Product>2145100702</Product>
     </Item>
   </ModOp>
 
+  <!-- Add roasted chicory root and roasted grain to WorkerWorkforceGoods, EngineerUnlockGoods and IntermediateGoods_Europe -->
+  <ModOp Type="add" GUID="502005,502020,502043" Path="/Values/ProductList/List">
+    <Item>
+      <Product>2145100700</Product>
+    </Item>
+    <Item>
+      <Product>2145100702</Product>
+    </Item>
+  </ModOp>
+
+  <!-- Add roasted chicory root and roasted grain to Feedl_ImportGoods -->
   <ModOp Type="addNextSibling" GUID="502234" Path="/Values/ProductList/List/Item[Product='1010215']">
+    <Item>
+      <Product>2145100700</Product>
+    </Item>
     <Item>
       <Product>2145100702</Product>
     </Item>
@@ -69,355 +124,632 @@
   <ModOp Type="addNextSibling" GUID="131764" Path="/Values/TradeContractFeature/Traders/Item[TraderName='131809']/TradeLevels/Item/Trades/Item[Good='1010215']">
     <Item>
       <Level>Rare</Level>
+      <Good>2145100700</Good>
+    </Item>
+    <Item>
+      <Level>Rare</Level>
       <Good>2145100702</Good>
     </Item>
   </ModOp>
-  <!-- ### FACTORY BUILDINGS ### -->
-  <Group>
+
+  <!-- Factory buildings -->
+  <ModOp Type="addNextSibling" GUID="1010343">
     <!-- Chicory roastery -->
-    <ModOp Type="addNextSibling" GUID="1010343">
-      <Asset>
-        <Template>FactoryBuilding7</Template>
-        <Values>
-          <Standard>
-            <GUID>2145100707</GUID>
-            <Name>Chicory roastery</Name>
-            <IconFilename>data/graphics/icons/roasted_chicory_root.png</IconFilename>
-            <InfoDescription>2145100708</InfoDescription>
-          </Standard>
-          <Building>
-            <BuildModeRandomRotation>90</BuildModeRandomRotation>
-            <AssociatedRegions>Moderate</AssociatedRegions>
-          </Building>
-          <Cost>
-            <Costs>
-              <Item>
-                <Ingredient>1010017</Ingredient>
-                <Amount>9000</Amount>
-              </Item>
-              <Item>
-                <Ingredient>1010196</Ingredient>
-                <Amount>15</Amount>
-              </Item>
-              <Item>
-                <Ingredient>1010205</Ingredient>
-                <Amount>10</Amount>
-              </Item>
-              <Item>
-                <Ingredient>1010218</Ingredient>
-                <Amount>5</Amount>
-              </Item>
-            </Costs>
-          </Cost>
-          <Object>
-            <Variations>
-              <Item>
-                <Filename>data/graphics/buildings/production/food_colony01_03/food_colony01_03.cfg</Filename>
-              </Item>
-            </Variations>
-          </Object>
-          <Selection>
-            <ParticipantMessageArcheType>Resident_tier03_atWork</ParticipantMessageArcheType>
-          </Selection>
-          <Text>
-            <LocaText>
-              <English>
-                <Text>Chicory roastery</Text>
-                <Status>Exported</Status>
-                <ExportCount>2</ExportCount>
-              </English>
-            </LocaText>
-          </Text>
-          <SoundEmitter>
-            <ActiveSounds>
-              <Item>
-                <Sound>200809</Sound>
-              </Item>
-              <Item>
-                <Sound>200662</Sound>
-              </Item>
-            </ActiveSounds>
-          </SoundEmitter>
-          <FactoryBase>
-            <FactoryInputs>
-              <Item>
-                <Product>2145100700</Product>
-                <Amount>1</Amount>
-                <StorageAmount>10</StorageAmount>
-              </Item>
-              <Item>
-                <Product>120008</Product>
-                <Amount>1</Amount>
-                <StorageAmount>10</StorageAmount>
-              </Item>
-            </FactoryInputs>
-            <FactoryOutputs>
-              <Item>
-                <Product>2145100702</Product>
-                <Amount>1</Amount>
-                <StorageAmount>10</StorageAmount>
-              </Item>
-            </FactoryOutputs>
-            <CycleTime>30</CycleTime>
-            <IsMainFactory>0</IsMainFactory>
-          </FactoryBase>
-          <Maintenance>
-            <Maintenances>
-              <Item>
-                <Product>1010017</Product>
-                <Amount>150</Amount>
-                <InactiveAmount>50</InactiveAmount>
-              </Item>
-              <Item>
-                <Product>1010116</Product>
-                <Amount>50</Amount>
-              </Item>
-            </Maintenances>
-          </Maintenance>
-          <Industrializable>
-            <BoostedByIndustrialization>1</BoostedByIndustrialization>
-          </Industrializable>
-        </Values>
-      </Asset>
-    </ModOp>
+    <Asset>
+      <Template>FactoryBuilding7</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100704</GUID>
+          <Name>Chicory roastery</Name>
+          <IconFilename>data/graphics/icons/roasted_chicory_root.png</IconFilename>
+          <InfoDescription>2145100705</InfoDescription>
+        </Standard>
+        <Building>
+          <BuildModeRandomRotation>90</BuildModeRandomRotation>
+          <AssociatedRegions>Moderate</AssociatedRegions>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>9000</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010196</Ingredient>
+              <Amount>15</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010205</Ingredient>
+              <Amount>10</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010218</Ingredient>
+              <Amount>5</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/buildings/production/processing_03/processing_03.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Selection>
+          <ParticipantMessageArcheType>Resident_tier03_atWork</ParticipantMessageArcheType>
+        </Selection>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Chicory roastery</Text>
+              <Status>Exported</Status>
+              <ExportCount>2</ExportCount>
+            </English>
+          </LocaText>
+        </Text>
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>200809</Sound>
+            </Item>
+            <Item>
+              <Sound>200662</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <FactoryBase>
+          <FactoryInputs>
+            <Item>
+              <Product>2145100920</Product>
+              <Amount>1</Amount>
+              <StorageAmount>10</StorageAmount>
+            </Item>
+            <Item>
+              <Product>120008</Product>
+              <Amount>1</Amount>
+              <StorageAmount>10</StorageAmount>
+            </Item>
+          </FactoryInputs>
+          <FactoryOutputs>
+            <Item>
+              <Product>2145100700</Product>
+              <Amount>1</Amount>
+              <StorageAmount>10</StorageAmount>
+            </Item>
+          </FactoryOutputs>
+          <CycleTime>30</CycleTime>
+          <IsMainFactory>0</IsMainFactory>
+        </FactoryBase>
+        <Maintenance>
+          <Maintenances>
+            <Item>
+              <Product>1010017</Product>
+              <Amount>150</Amount>
+              <InactiveAmount>50</InactiveAmount>
+            </Item>
+            <Item>
+              <Product>1010116</Product>
+              <Amount>50</Amount>
+            </Item>
+          </Maintenances>
+        </Maintenance>
+        <Industrializable>
+          <BoostedByIndustrialization>1</BoostedByIndustrialization>
+        </Industrializable>
+      </Values>
+    </Asset>
+
+    <!-- Grain roastery -->
+    <Asset>
+      <Template>FactoryBuilding7</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100706</GUID>
+          <Name>Grain roastery</Name>
+          <IconFilename>data/graphics/icons/roasted_grain.png</IconFilename>
+          <InfoDescription>2145100707</InfoDescription>
+        </Standard>
+        <Building>
+          <BuildModeRandomRotation>90</BuildModeRandomRotation>
+          <AssociatedRegions>Moderate</AssociatedRegions>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>9000</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010196</Ingredient>
+              <Amount>15</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010205</Ingredient>
+              <Amount>10</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010218</Ingredient>
+              <Amount>5</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/buildings/production/processing_03/processing_03.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Selection>
+          <ParticipantMessageArcheType>Resident_tier03_atWork</ParticipantMessageArcheType>
+        </Selection>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Grain roastery</Text>
+              <Status>Exported</Status>
+              <ExportCount>2</ExportCount>
+            </English>
+          </LocaText>
+        </Text>
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>200809</Sound>
+            </Item>
+            <Item>
+              <Sound>200662</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <FactoryBase>
+          <FactoryInputs>
+            <Item>
+              <Product>1010192</Product>
+              <Amount>1</Amount>
+              <StorageAmount>10</StorageAmount>
+            </Item>
+            <Item>
+              <Product>120008</Product>
+              <Amount>1</Amount>
+              <StorageAmount>10</StorageAmount>
+            </Item>
+          </FactoryInputs>
+          <FactoryOutputs>
+            <Item>
+              <Product>2145100702</Product>
+              <Amount>1</Amount>
+              <StorageAmount>10</StorageAmount>
+            </Item>
+          </FactoryOutputs>
+          <CycleTime>30</CycleTime>
+          <IsMainFactory>0</IsMainFactory>
+        </FactoryBase>
+        <Maintenance>
+          <Maintenances>
+            <Item>
+              <Product>1010017</Product>
+              <Amount>150</Amount>
+              <InactiveAmount>50</InactiveAmount>
+            </Item>
+            <Item>
+              <Product>1010116</Product>
+              <Amount>50</Amount>
+            </Item>
+          </Maintenances>
+        </Maintenance>
+        <Industrializable>
+          <BoostedByIndustrialization>1</BoostedByIndustrialization>
+        </Industrializable>
+      </Values>
+    </Asset>
 
     <!-- Chicory coffee factory -->
-    <ModOp Type="addNextSibling" GUID="1010343">
-      <Asset>
-        <Template>FactoryBuilding7</Template>
-        <Values>
-          <Standard>
-            <GUID>2145100709</GUID>
-            <Name>Chicory coffee factory</Name>
-            <IconFilename>data/ui/2kimages/main/3dicons/icon_coffe_cup.png</IconFilename>
-            <InfoDescription>2145100710</InfoDescription>
-          </Standard>
-          <Building>
-            <BuildModeRandomRotation>90</BuildModeRandomRotation>
-            <AssociatedRegions>Moderate</AssociatedRegions>
-          </Building>
-          <Cost>
-            <Costs>
-              <Item>
-                <Ingredient>1010017</Ingredient>
-                <Amount>9000</Amount>
-              </Item>
-              <Item>
-                <Ingredient>1010196</Ingredient>
-                <Amount>15</Amount>
-              </Item>
-              <Item>
-                <Ingredient>1010205</Ingredient>
-                <Amount>10</Amount>
-              </Item>
-              <Item>
-                <Ingredient>1010218</Ingredient>
-                <Amount>5</Amount>
-              </Item>
-            </Costs>
-          </Cost>
-          <Object>
-            <Variations>
-              <Item>
-                <Filename>data/graphics/buildings/chicory_coffee_factory/chicory_coffee_factory.cfg</Filename>
-              </Item>
-            </Variations>
-          </Object>
-          <Selection>
-            <ParticipantMessageArcheType>Resident_tier03_atWork</ParticipantMessageArcheType>
-          </Selection>
-          <Text>
-            <LocaText>
-              <English>
-                <Text>Chicory coffee factory</Text>
-                <Status>Exported</Status>
-                <ExportCount>2</ExportCount>
-              </English>
-            </LocaText>
-          </Text>
-          <SoundEmitter>
-            <ActiveSounds>
-              <Item>
-                <Sound>200809</Sound>
-              </Item>
-              <Item>
-                <Sound>200662</Sound>
-              </Item>
-            </ActiveSounds>
-          </SoundEmitter>
-          <FactoryBase>
-            <FactoryInputs>
-              <Item>
-                <Product>2145100702</Product>
-                <Amount>1</Amount>
-                <StorageAmount>10</StorageAmount>
-              </Item>
-            </FactoryInputs>
-            <FactoryOutputs>
-              <Item>
-                <Product>120032</Product>
-                <Amount>1</Amount>
-                <StorageAmount>10</StorageAmount>
-              </Item>
-            </FactoryOutputs>
-            <CycleTime>30</CycleTime>
-            <IsMainFactory>0</IsMainFactory>
-          </FactoryBase>
-          <Maintenance>
-            <Maintenances>
-              <Item>
-                <Product>1010017</Product>
-                <Amount>150</Amount>
-                <InactiveAmount>50</InactiveAmount>
-              </Item>
-              <Item>
-                <Product>1010116</Product>
-                <Amount>50</Amount>
-              </Item>
-            </Maintenances>
-          </Maintenance>
-          <Industrializable>
-            <BoostedByIndustrialization>1</BoostedByIndustrialization>
-          </Industrializable>
-        </Values>
-      </Asset>
-    </ModOp>
+    <Asset>
+      <Template>FactoryBuilding7</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100708</GUID>
+          <Name>Chicory coffee factory</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_coffe_cup.png</IconFilename>
+          <InfoDescription>2145100709</InfoDescription>
+        </Standard>
+        <Building>
+          <BuildModeRandomRotation>90</BuildModeRandomRotation>
+          <AssociatedRegions>Moderate</AssociatedRegions>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>9000</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010196</Ingredient>
+              <Amount>15</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010205</Ingredient>
+              <Amount>10</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010218</Ingredient>
+              <Amount>5</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/buildings/production/food_colony01_03/food_colony01_03.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Selection>
+          <ParticipantMessageArcheType>Resident_tier03_atWork</ParticipantMessageArcheType>
+        </Selection>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Chicory coffee factory</Text>
+              <Status>Exported</Status>
+              <ExportCount>2</ExportCount>
+            </English>
+          </LocaText>
+        </Text>
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>200809</Sound>
+            </Item>
+            <Item>
+              <Sound>200662</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <FactoryBase>
+          <FactoryInputs>
+            <Item>
+              <Product>2145100700</Product>
+              <Amount>1</Amount>
+              <StorageAmount>10</StorageAmount>
+            </Item>
+          </FactoryInputs>
+          <FactoryOutputs>
+            <Item>
+              <Product>120032</Product>
+              <Amount>1</Amount>
+              <StorageAmount>10</StorageAmount>
+            </Item>
+          </FactoryOutputs>
+          <CycleTime>30</CycleTime>
+          <IsMainFactory>0</IsMainFactory>
+        </FactoryBase>
+        <Maintenance>
+          <Maintenances>
+            <Item>
+              <Product>1010017</Product>
+              <Amount>150</Amount>
+              <InactiveAmount>50</InactiveAmount>
+            </Item>
+            <Item>
+              <Product>1010116</Product>
+              <Amount>50</Amount>
+            </Item>
+          </Maintenances>
+        </Maintenance>
+        <Industrializable>
+          <BoostedByIndustrialization>1</BoostedByIndustrialization>
+        </Industrializable>
+      </Values>
+    </Asset>
 
-    <ModOp Type="add" GUID="25599,193856,193875,6000018" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
-      <Item>
-        <GUID>2145100707</GUID>
-      </Item>
-      <Item>
-        <GUID>2145100709</GUID>
-      </Item>
-    </ModOp>
+    <!-- Grain coffee factory -->
+    <Asset>
+      <Template>FactoryBuilding7</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100710</GUID>
+          <Name>Grain coffee factory</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_coffe_cup.png</IconFilename>
+          <InfoDescription>2145100711</InfoDescription>
+        </Standard>
+        <Building>
+          <BuildModeRandomRotation>90</BuildModeRandomRotation>
+          <AssociatedRegions>Moderate</AssociatedRegions>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>9000</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010196</Ingredient>
+              <Amount>15</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010205</Ingredient>
+              <Amount>10</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010218</Ingredient>
+              <Amount>5</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/buildings/production/food_colony01_03/food_colony01_03.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Selection>
+          <ParticipantMessageArcheType>Resident_tier03_atWork</ParticipantMessageArcheType>
+        </Selection>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Grain coffee factory</Text>
+              <Status>Exported</Status>
+              <ExportCount>2</ExportCount>
+            </English>
+          </LocaText>
+        </Text>
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>200809</Sound>
+            </Item>
+            <Item>
+              <Sound>200662</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <FactoryBase>
+          <FactoryInputs>
+            <Item>
+              <Product>2145100702</Product>
+              <Amount>1</Amount>
+              <StorageAmount>10</StorageAmount>
+            </Item>
+          </FactoryInputs>
+          <FactoryOutputs>
+            <Item>
+              <Product>120032</Product>
+              <Amount>1</Amount>
+              <StorageAmount>10</StorageAmount>
+            </Item>
+          </FactoryOutputs>
+          <CycleTime>30</CycleTime>
+          <IsMainFactory>0</IsMainFactory>
+        </FactoryBase>
+        <Maintenance>
+          <Maintenances>
+            <Item>
+              <Product>1010017</Product>
+              <Amount>150</Amount>
+              <InactiveAmount>50</InactiveAmount>
+            </Item>
+            <Item>
+              <Product>1010116</Product>
+              <Amount>50</Amount>
+            </Item>
+          </Maintenances>
+        </Maintenance>
+        <Industrializable>
+          <BoostedByIndustrialization>1</BoostedByIndustrialization>
+        </Industrializable>
+      </Values>
+    </Asset>
+  </ModOp>
 
-    <ModOp Type="add" GUID="193778" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
-      <Item>
-        <GUID>2145100709</GUID>
-      </Item>
-    </ModOp>
-  </Group>
+  <!-- Add factory buildings to AllProductionBuildings, "all production except powerplant", "all production boosted by electricity" and "all production" -->
+  <ModOp Type="add" GUID="25599,193856,193875,6000018" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+    <Item>
+      <GUID>2145100704</GUID>
+    </Item>
+    <Item>
+      <GUID>2145100706</GUID>
+    </Item>
+    <Item>
+      <GUID>2145100708</GUID>
+    </Item>
+    <Item>
+      <GUID>2145100710</GUID>
+    </Item>
+  </ModOp>
 
-  <!-- ### PRODUCTION CHAIN ###-->
-  <Group>
+  <!-- Add coffee factory buildings to "all drinks production" -->
+  <ModOp Type="add" GUID="193778" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+    <Item>
+      <GUID>2145100708</GUID>
+    </Item>
+    <Item>
+      <GUID>2145100710</GUID>
+    </Item>
+  </ModOp>
+
+  <!-- Production chains -->
+  <ModOp Type="addNextSibling" GUID="500091">
     <!-- Chicory coffee -->
-    <ModOp Type="addNextSibling" GUID="500091">
-      <Asset>
-        <Template>ProductionChain</Template>
-        <Values>
-          <Standard>
-            <GUID>2145100711</GUID>
-            <Name>Chicory coffee</Name>
-            <IconFilename>data/ui/2kimages/main/3dicons/icon_coffe_cup.png</IconFilename>
-            <InfoDescription>2145100712</InfoDescription>
-          </Standard>
-          <ProductionChain>
-            <Building>2145100709</Building>
-            <Tier1>
-              <Item>
-                <Building>2145100707</Building>
-                <Tier2>
-                  <Item>
-                    <Building>2145100923</Building>
-                  </Item>
-                  <Item>
-                    <Building>1010266</Building>
-                  </Item>
-                </Tier2>
-              </Item>
-            </Tier1>
-          </ProductionChain>
-          <Locked />
-          <Text>
-            <LocaText>
-              <English>
-                <Text>Chicory coffee</Text>
-                <Status>Exported</Status>
-                <ExportCount>2</ExportCount>
-              </English>
-            </LocaText>
-          </Text>
-        </Values>
-      </Asset>
-    </ModOp>
+    <Asset>
+      <Template>ProductionChain</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100712</GUID>
+          <Name>Chicory coffee</Name>
+          <IconFilename>data/graphics/icons/chicory_coffee.png</IconFilename>
+          <InfoDescription>2145100713</InfoDescription>
+        </Standard>
+        <ProductionChain>
+          <Building>2145100708</Building>
+          <Tier1>
+            <Item>
+              <Building>2145100704</Building>
+              <Tier2>
+                <Item>
+                  <Building>2145100923</Building>
+                </Item>
+                <Item>
+                  <Building>1010266</Building>
+                </Item>
+              </Tier2>
+            </Item>
+          </Tier1>
+        </ProductionChain>
+        <Locked />
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Chicory coffee</Text>
+              <Status>Exported</Status>
+              <ExportCount>2</ExportCount>
+            </English>
+          </LocaText>
+        </Text>
+      </Values>
+    </Asset>
 
-    <!-- Replace coffee production chain in the menus -->
-    <ModOp Type="replace" GUID="25000192" Path="/Values/ConstructionCategory/BuildingList/Item[Building='500902']">
-      <Item>
-        <Building>2145100711</Building>
-      </Item>
-    </ModOp>
+    <!-- Grain coffee -->
+    <Asset>
+      <Template>ProductionChain</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100714</GUID>
+          <Name>Grain coffee</Name>
+          <IconFilename>data/graphics/icons/grain_coffee.png</IconFilename>
+          <InfoDescription>2145100715</InfoDescription>
+        </Standard>
+        <ProductionChain>
+          <Building>2145100710</Building>
+          <Tier1>
+            <Item>
+              <Building>2145100706</Building>
+              <Tier2>
+                <Item>
+                  <Building>1010262</Building>
+                </Item>
+                <Item>
+                  <Building>1010266</Building>
+                </Item>
+              </Tier2>
+            </Item>
+          </Tier1>
+        </ProductionChain>
+        <Locked />
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Grain coffee</Text>
+              <Status>Exported</Status>
+              <ExportCount>2</ExportCount>
+            </English>
+          </LocaText>
+        </Text>
+      </Values>
+    </Asset>
+  </ModOp>
 
-    <ModOp Type="replace" GUID="500945" Path="/Values/ConstructionCategory/BuildingList/Item[Building='500902']">
-      <Item>
-        <Building>2145100711</Building>
-      </Item>
-    </ModOp>
-  </Group>
+  <!-- Replace coffee production chain in the menus -->
+  <ModOp Type="replace" GUID="25000192" Path="/Values/ConstructionCategory/BuildingList/Item[Building='500902']">
+    <Item>
+      <Building>2145100712</Building>
+    </Item>
+  </ModOp>
 
+  <ModOp Type="addNextSibling" GUID="25000192" Path="/Values/ConstructionCategory/BuildingList/Item[Building='2145100712']">
+    <Item>
+      <Building>2145100714</Building>
+    </Item>
+  </ModOp>
 
+  <ModOp Type="replace" GUID="500945" Path="/Values/ConstructionCategory/BuildingList/Item[Building='500902']">
+    <Item>
+      <Building>2145100712</Building>
+    </Item>
+  </ModOp>
 
-  <!-- ### TRIGGERS ### -->
-  <Group>
+  <ModOp Type="addNextSibling" GUID="500945" Path="/Values/ConstructionCategory/BuildingList/Item[Building='2145100712']">
+    <Item>
+      <Building>2145100714</Building>
+    </Item>
+  </ModOp>
+
+  <!-- Triggers -->
+  <ModOp Type="addNextSibling" GUID="130222" Path="/Values/Trigger/TriggerActions/Item/TriggerAction/Values/ActionUnlockAsset/UnhideAssets/Item[Asset='130126']">
     <!-- Unhide everything at 1 engineer -->
-    <ModOp Type="addNextSibling" GUID="130222" Path="/Values/Trigger/TriggerActions/Item/TriggerAction/Values/ActionUnlockAsset/UnhideAssets/Item[Asset='130126']">
-      <Item>
-        <Asset>2145100711</Asset>
-      </Item>
-    </ModOp>
+    <Item>
+      <Asset>2145100712</Asset>
+    </Item>
+    <Item>
+      <Asset>2145100714</Asset>
+    </Item>
+  </ModOp>
 
+  <ModOp Type="addnextSibling" GUID="130248">
     <!-- Unlock everything at 500 engineers -->
-    <ModOp Type="addnextSibling" GUID="130248">
-      <Asset>
-        <Template>Trigger</Template>
-        <Values>
-          <Standard>
-            <GUID>2145100721</GUID>
-            <Name>Unlock trigger</Name>
-          </Standard>
-          <Trigger>
-            <TriggerCondition>
-              <Template>ConditionPlayerCounter</Template>
-              <Values>
-                <Condition />
-                <ConditionPlayerCounter>
-                  <PlayerCounter>PopulationByLevel</PlayerCounter>
-                  <Context>15000003</Context>
-                  <CounterAmount>500</CounterAmount>
-                </ConditionPlayerCounter>
-              </Values>
-            </TriggerCondition>
-            <TriggerActions>
-              <Item>
-                <TriggerAction>
-                  <Template>ActionUnlockAsset</Template>
-                  <Values>
-                    <Action />
-                    <ActionUnlockAsset>
-                      <UnlockAssets>
-                        <Item>
-                          <Asset>2145100702</Asset>
-                        </Item>
-                        <Item>
-                          <Asset>2145100707</Asset>
-                        </Item>
-                        <Item>
-                          <Asset>2145100709</Asset>
-                        </Item>
-                        <Item>
-                          <Asset>2145100711</Asset>
-                        </Item>
-                      </UnlockAssets>
-                    </ActionUnlockAsset>
-                  </Values>
-                </TriggerAction>
-              </Item>
-            </TriggerActions>
-          </Trigger>
-          <TriggerSetup />
-        </Values>
-      </Asset>
-    </ModOp>
-  </Group>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>2145100716</GUID>
+          <Name>Unlock trigger</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000003</Context>
+                <CounterAmount>500</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnlockAssets>
+                      <Item>
+                        <Asset>2145100700</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2145100702</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2145100704</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2145100706</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2145100708</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2145100710</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2145100712</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2145100714</Asset>
+                      </Item>
+                    </UnlockAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+  </ModOp>
 </ModOps>

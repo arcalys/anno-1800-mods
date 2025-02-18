@@ -1,36 +1,67 @@
 <ModOps>
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
-      <GUID>2145100702</GUID>
+      <GUID>2145100700</GUID>
       <Text>Racine de chicorée torréfiée</Text>
     </Text>
     <Text>
+      <GUID>2145100701</GUID>
+      <Text>Une racine torréfiée au goût riche et légèrement amer. Souvent utilisée dans diverses préparations, elle apporte profondeur et complexité à de nombreuses recettes.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100702</GUID>
+      <Text>Grain torréfié</Text>
+    </Text>
+    <Text>
       <GUID>2145100703</GUID>
+      <Text>Des grains soigneusement torréfiés pour en révéler les arômes profonds et grillés. Utilisés dans diverses préparations culinaires et boissons.</Text>
+    </Text>
+    <Text>
+      <GUID>2145100704</GUID>
+      <Text>Torréfaction de chicorée</Text>
+    </Text>
+    <Text>
+      <GUID>2145100705</GUID>
       <Text>TODO</Text>
     </Text>
-
+    <Text>
+      <GUID>2145100706</GUID>
+      <Text>Torréfaction de grain</Text>
+    </Text>
     <Text>
       <GUID>2145100707</GUID>
-      <Text>Brûlerie de chicorée</Text>
+      <Text>TODO</Text>
     </Text>
     <Text>
       <GUID>2145100708</GUID>
-      <Text>TODO</Text>
+      <Text>Fabrique de café (chicorée)</Text>
     </Text>
     <Text>
       <GUID>2145100709</GUID>
-      <Text>Fabrique de chicorée</Text>
-    </Text>
-    <Text>
-      <GUID>2145100710</GUID>
       <Text>TODO</Text>
     </Text>
     <Text>
+      <GUID>2145100710</GUID>
+      <Text>Fabrique de café (grain)</Text>
+    </Text>
+    <Text>
       <GUID>2145100711</GUID>
-      <Text>Chicorée</Text>
+      <Text>TODO</Text>
     </Text>
     <Text>
       <GUID>2145100712</GUID>
+      <Text>Chicory coffee production</Text>
+    </Text>
+    <Text>
+      <GUID>2145100713</GUID>
+      <Text>TODO</Text>
+    </Text>
+    <Text>
+      <GUID>2145100714</GUID>
+      <Text>Grain coffee production</Text>
+    </Text>
+    <Text>
+      <GUID>2145100715</GUID>
       <Text>TODO</Text>
     </Text>
   </ModOp>
